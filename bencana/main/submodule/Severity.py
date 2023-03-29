@@ -14,7 +14,7 @@ class Severity:
     def __init__(self) -> None:
         self.ct =CRFTagger()
         # self.ct.set_model_file('model/TagIndo/all_indo_man_tag_corpus_model.crf.tagger')
-        self.ct.set_model_file('D:/sem9/program/TA_petakabar/bencana/main/model/TagIndo/all_indo_man_tag_corpus_model.crf.tagger')
+        self.ct.set_model_file('D:/PetaKabar/bencana/main/model/TagIndo/all_indo_man_tag_corpus_model.crf.tagger')
         
         # self.scrapped_news = pd.read_csv('result/4w/4w_news.csv')
 

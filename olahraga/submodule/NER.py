@@ -18,11 +18,11 @@ class NER:
         # self.listKecamatan = joblib.load('model/Where/kecamatan.pkl')
         # self.loaded_model = load('model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
 
-        self.listDaerah = joblib.load('D:/sem9/program/TA_petakabar/olahraga/model/Where/listProvKabKec.pkl')
-        self.listProvinsi = joblib.load('D:/sem9/program/TA_petakabar/olahraga/model/Where/provinsi.pkl')
-        self.listKabupaten = joblib.load('D:/sem9/program/TA_petakabar/olahraga/model/Where/kabupaten.pkl')
-        self.listKecamatan = joblib.load('D:/sem9/program/TA_petakabar/olahraga/model/Where/kecamatan.pkl')
-        self.loaded_model = load('D:/sem9/program/TA_petakabar/olahraga/model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
+        self.listDaerah = joblib.load('D:/PetaKabar/olahraga/model/Where/listProvKabKec.pkl')
+        self.listProvinsi = joblib.load('D:/PetaKabar/olahraga/model/Where/provinsi.pkl')
+        self.listKabupaten = joblib.load('D:/PetaKabar/olahraga/model/Where/kabupaten.pkl')
+        self.listKecamatan = joblib.load('D:/PetaKabar/olahraga/model/Where/kecamatan.pkl')
+        self.loaded_model = load('D:/PetaKabar/olahraga/model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
 
         self.newsscrapped = []
         try:

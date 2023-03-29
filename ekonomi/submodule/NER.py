@@ -19,12 +19,12 @@ class NER:
         # self.listNegara = joblib.load('model/Where/list_negara.pkl')
         # self.loaded_model = load('model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
 
-        self.listDaerah = joblib.load('D:/sem9/program/TA_petakabar/ekonomi/model/Where/listProvKabKec.pkl')
-        self.listProvinsi = joblib.load('D:/sem9/program/TA_petakabar/ekonomi/model/Where/provinsi.pkl')
-        self.listKabupaten = joblib.load('D:/sem9/program/TA_petakabar/ekonomi/model/Where/kabupaten.pkl')
-        self.listKecamatan = joblib.load('D:/sem9/program/TA_petakabar/ekonomi/model/Where/kecamatan.pkl')
-        self.listNegara = joblib.load('D:/sem9/program/TA_petakabar/ekonomi/model/Where/list_negara.pkl')
-        self.loaded_model = load('D:/sem9/program/TA_petakabar/ekonomi/model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
+        self.listDaerah = joblib.load('D:/PetaKabar/ekonomi/model/Where/listProvKabKec.pkl')
+        self.listProvinsi = joblib.load('D:/PetaKabar/ekonomi/model/Where/provinsi.pkl')
+        self.listKabupaten = joblib.load('D:/PetaKabar/ekonomi/model/Where/kabupaten.pkl')
+        self.listKecamatan = joblib.load('D:/PetaKabar/ekonomi/model/Where/kecamatan.pkl')
+        self.listNegara = joblib.load('D:/PetaKabar/ekonomi/model/Where/list_negara.pkl')
+        self.loaded_model = load('D:/PetaKabar/ekonomi/model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
 
         # self.scrapped_news = pd.read_csv('result/4w/4w_news.csv')
 

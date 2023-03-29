@@ -7,7 +7,7 @@ from mysql.connector import errorcode
 class Classification:
     def __init__(self) -> None:
         # self.classification_model = joblib.load('model/naive_bayes.pkl')
-        self.classification_model = joblib.load('D:/sem9/program/TA_petakabar/bencana/main/model/classification/model.pkl')
+        self.classification_model = joblib.load('D:/PetaKabar/bencana/main/model/classification/model.pkl')
         # self.scrapped_news = pd.read_csv('result/tagging/severity_count.csv')
 
         #ambil dari db

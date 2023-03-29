@@ -78,13 +78,13 @@ class QueryExpansion:
         # self.df_total = pd.read_csv('dataset/qe/df_total.csv')
 
         # df_bow_what = pd.read_csv('dataset/qe/bow_what.csv')
-        self.document_text = joblib.load('D:/sem9/program/TA_petakabar/olahraga/dataset/qe/desc_text_train.pkl')
+        self.document_text = joblib.load('D:/PetaKabar/olahraga/dataset/qe/desc_text_train.pkl')
 
-        self.tfidf_vectorizer = joblib.load('D:/sem9/program/TA_petakabar/olahraga/dataset/qe/vectorizer.pkl')
-        self.tfidf_matrix = joblib.load('D:/sem9/program/TA_petakabar/olahraga/dataset/qe/tfidf_train.pkl')
-        self.df_total = pd.read_csv('D:/sem9/program/TA_petakabar/olahraga/dataset/qe/df_total.csv')
+        self.tfidf_vectorizer = joblib.load('D:/PetaKabar/olahraga/dataset/qe/vectorizer.pkl')
+        self.tfidf_matrix = joblib.load('D:/PetaKabar/olahraga/dataset/qe/tfidf_train.pkl')
+        self.df_total = pd.read_csv('D:/PetaKabar/olahraga/dataset/qe/df_total.csv')
 
-        df_bow_what = pd.read_csv('D:/sem9/program/TA_petakabar/olahraga/dataset/qe/bow_what.csv')
+        df_bow_what = pd.read_csv('D:/PetaKabar/olahraga/dataset/qe/bow_what.csv')
         self.bow_list_what = []
         for i in range(0, df_bow_what.shape[0]):
             self.bow_list_what.append(df_bow_what.iloc[i, 1])

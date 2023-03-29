@@ -7,7 +7,7 @@ from mysql.connector import errorcode
 class Classification:
     def __init__(self) -> None:
         # self.classification_model = joblib.load('model/classification/d_tree_kecelakaan2.pkl')
-        self.classification_model = joblib.load('D:/sem9/program/TA_petakabar/kecelakaan/model/classification/d_tree_kecelakaan2.pkl')
+        self.classification_model = joblib.load('D:/PetaKabar/kecelakaan/model/classification/d_tree_kecelakaan2.pkl')
 
         #ambil dari db
         self.newsscrapped = []

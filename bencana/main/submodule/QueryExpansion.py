@@ -82,18 +82,18 @@ class QueryExpansion:
 
         #FOLDER DATASET KOSONG
         # self.document_text = joblib.load('dataset/qe/desc_text_train.pkl')
-        self.document_text = joblib.load('D:/sem9/program/TA_petakabar/bencana/main/dataset/qe/desc_text_train_new.pkl')
+        self.document_text = joblib.load('D:/PetaKabar/bencana/main/dataset/qe/desc_text_train_new.pkl')
 
         # self.tfidf_vectorizer = joblib.load('dataset/qe/vectorizer.pkl')
         # self.tfidf_matrix = joblib.load('dataset/qe/tfidf_train.pkl')
         # self.df_total = pd.read_csv('dataset/qe/df_total.csv')
-        self.tfidf_vectorizer = joblib.load('D:/sem9/program/TA_petakabar/bencana/main/dataset/qe/vectorizer_new.pkl')
-        self.tfidf_matrix = joblib.load('D:/sem9/program/TA_petakabar/bencana/main/dataset/qe/tfidf_train_new.pkl')
-        self.df_total = pd.read_csv('D:/sem9/program/TA_petakabar/bencana/main/dataset/qe/df_total_new.csv')
+        self.tfidf_vectorizer = joblib.load('D:/PetaKabar/bencana/main/dataset/qe/vectorizer_new.pkl')
+        self.tfidf_matrix = joblib.load('D:/PetaKabar/bencana/main/dataset/qe/tfidf_train_new.pkl')
+        self.df_total = pd.read_csv('D:/PetaKabar/bencana/main/dataset/qe/df_total_new.csv')
         
 
         # df_bow_what = pd.read_csv('dataset/qe/bow_what.csv')
-        df_bow_what = pd.read_csv('D:/sem9/program/TA_petakabar/bencana/main/dataset/qe/bow_what.csv')
+        df_bow_what = pd.read_csv('D:/PetaKabar/bencana/main/dataset/qe/bow_what.csv')
 
         self.bow_list_what = []
         for i in range(0, df_bow_what.shape[0]):
