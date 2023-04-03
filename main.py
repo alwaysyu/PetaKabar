@@ -101,7 +101,7 @@ from mysql.connector import errorcode
 #                          #ambil dari db
 #                         newsscrapped = []
 #                         try:
-#                             cnx = mysql.connector.connect(user = 'root', password='Password', database = 'Petakabar')
+#                             cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
 #                             cursor = cnx.cursor()
 #                             cursor.execute("SELECT qe_what, ner_when, ner_who, ner_prov, ner_kab, ner_kec, class_classification FROM berita where berita_topik_id = 1")
 #                             myresult = cursor.fetchall()
@@ -324,7 +324,7 @@ if __name__ == '__main__':
                         #ambil dari db
                     # newsscrapped = []
                     # try:
-                    #     cnx = mysql.connector.connect(user = 'root', password='Password', database = 'Petakabar')
+                    #     cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
                     #     cursor = cnx.cursor()
                     #     cursor.execute("SELECT qe_what, ner_when, ner_who, ner_prov, ner_kab, ner_kec, class_classification FROM berita where (berita_qdate >= DATE_SUB(CURDATE(), INTERVAL 1 MONTH) OR berita_qdate = curdate())")
                     #     myresult = cursor.fetchall()
@@ -733,7 +733,7 @@ if __name__ == '__main__':
 #                         #ambil dari db
 #                         newsscrapped = []
 #                         try:
-#                             cnx = mysql.connector.connect(user = 'root', password='Password', database = 'Petakabar')
+#                             cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
 #                             cursor = cnx.cursor()
 #                             cursor.execute("SELECT qe_what, ner_when, ner_who, ner_prov, ner_kab, ner_kec, class_classification FROM berita where berita_topik_id = 4")
 #                             myresult = cursor.fetchall()

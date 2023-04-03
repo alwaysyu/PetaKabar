@@ -27,7 +27,7 @@ class NER:
         #ambil dari db
         self.newsscrapped = []
         try:
-            cnx = mysql.connector.connect(user = 'root', password='Password', database = 'Petakabar')
+            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
             cursor = cnx.cursor()
             cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 4 AND class_classification is null")
             myresult = cursor.fetchall()
@@ -468,7 +468,7 @@ class NER:
 
     def save_to_mysql(self, idberita, when, who, provinsi, kabupaten, kecamatan):
         try:
-            conn = mysql.connector.connect(user = 'root', password='Password', database = 'Petakabar')
+            conn = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
             cur = conn.cursor()
             add_news = ("UPDATE berita "
                 "SET ner_when = %s, ner_who = %s, ner_prov = %s, ner_kab = %s, ner_kec = %s "

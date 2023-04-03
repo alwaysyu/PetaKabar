@@ -1,7 +1,7 @@
 import scrapy
 from scrapy.crawler import CrawlerProcess, CrawlerRunner
-# from submodule.scrapper.scrapper.spiders.news_spider import NewsSpider
-from kesehatan.main.submodule.scrapper.scrapper.spiders.news_spider import NewsSpider
+from submodule.scrapper.scrapper.spiders.news_spider import NewsSpider
+# from kesehatan.main.submodule.scrapper.scrapper.spiders.news_spider import NewsSpider
 
 import sys    
 
