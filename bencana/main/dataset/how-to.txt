@@ -1,0 +1,8 @@
+DATASET mulanya kosong
+-QE
+---Jalankan Preprocessing Berita.ipynb di model_build/query expansion
+---Ambil semua file di corpus/model
+---Ambil semua file di corpus/dataset
+---Ambil semua file di corpus/vectorizer
+---Ambil semua file di corpus/matrix
+---Copy bow_what.csv dari bencana/model/qe
