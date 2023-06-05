@@ -6,8 +6,11 @@ try:
     query = ("SELECT * FROM topik")
     cur.execute(query)
     result = cur.fetchall()
+    print(result)
+    print(type(result))
     for x in result:
         print(x)
+        print(type(x))
     conn.commit()            
     cur.close()
     conn.close()

@@ -253,7 +253,7 @@ if __name__ == '__main__':
     olahraga_qe = olahraga_QueryExpansion()
     olahraga_resultQE = olahraga_qe.getWhatFromText("olahraga apa yang terjadi diberita tersebut")
 
-    print(bencana_resultQE + ekonomi_resultQE + olahraga_resultQE + kesehatan_resultQE + kecelakaan_resultQE + kriminalitas_resultQE)
+    print("QE " + bencana_resultQE + ekonomi_resultQE + olahraga_resultQE + kesehatan_resultQE + kecelakaan_resultQE + kriminalitas_resultQE)
 
     # 3 NER when, who, where, jika hasil qe success
     if (bencana_resultQE == "success" and ekonomi_resultQE == "success" and kecelakaan_resultQE == "success" and kesehatan_resultQE == "success" and kriminalitas_resultQE == "success" and olahraga_resultQE == "success"):
@@ -277,7 +277,7 @@ if __name__ == '__main__':
         olahraga_ner = olahraga_NER()
         olahraga_resultNER = olahraga_ner.getValueNER()
 
-        print(bencana_resultNER + ekonomi_resultNER + olahraga_resultNER + kesehatan_resultNER + kecelakaan_resultNER + kriminalitas_resultNER)
+        print("NER " + bencana_resultNER + ekonomi_resultNER + olahraga_resultNER + kesehatan_resultNER + kecelakaan_resultNER + kriminalitas_resultNER)
 
         if (bencana_resultNER == "success" and ekonomi_resultNER == "success" and kecelakaan_resultNER == "success" and kesehatan_resultNER == "success" and kriminalitas_resultNER == "success" and olahraga_resultNER == "success"):
             # print('4 Step Passed')
@@ -300,7 +300,7 @@ if __name__ == '__main__':
             olahraga_severity = olahraga_Severity()
             olahraga_resultSeverity=olahraga_severity.getKeparahanVelue()
 
-            print(bencana_resultSeverity + ekonomi_resultSeverity + olahraga_resultSeverity + kesehatan_resultSeverity + kecelakaan_resultSeverity + kriminalitas_resultSeverity)
+            print("Severity " + bencana_resultSeverity + ekonomi_resultSeverity + olahraga_resultSeverity + kesehatan_resultSeverity + kecelakaan_resultSeverity + kriminalitas_resultSeverity)
 
             if (bencana_resultSeverity == "success" and ekonomi_resultSeverity == "success" and kecelakaan_resultSeverity == "success" and kesehatan_resultSeverity == "success" and kriminalitas_resultSeverity == "success" and olahraga_resultSeverity == "success"):
                 # print('5 Step Passed')
@@ -323,7 +323,7 @@ if __name__ == '__main__':
                 olahraga_classification = olahraga_Classification()
                 olahraga_resultClassification=olahraga_classification.getClassificationValue()
 
-                print(bencana_resultClassification + ekonomi_resultClassification + olahraga_resultClassification + kesehatan_resultClassification + kecelakaan_resultClassification + kriminalitas_resultClassification)
+                print("classification " + bencana_resultClassification + ekonomi_resultClassification + olahraga_resultClassification + kesehatan_resultClassification + kecelakaan_resultClassification + kriminalitas_resultClassification)
 
                 if (bencana_resultClassification == "success" and ekonomi_resultClassification == "success" and kecelakaan_resultClassification == "success" and kesehatan_resultClassification == "success" and kriminalitas_resultClassification == "success" and olahraga_resultClassification == "success"):
                     # print('6 Step Passed')
