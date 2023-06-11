@@ -37,9 +37,9 @@ nltk
 swifter
 Sastrawi
 openpyxl
-fasttext
+fasttext-wheel
 gensim
-sklearn
+scikit-learn
 nltk
 keybert
 mysql-connector-python
