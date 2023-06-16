@@ -42,4 +42,5 @@ gensim
 scikit-learn
 nltk
 keybert
+yake
 mysql-connector-python
