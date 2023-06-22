@@ -43,4 +43,5 @@ scikit-learn
 nltk
 keybert
 yake
+spacy
 mysql-connector-python
