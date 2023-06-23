@@ -70,4 +70,21 @@ add to v2 membantu mengaku yang
 ldavis_prepared_3_30_06-23-2023_02-35-49
 above
 
+doesnt work, revert to previous change add to v2 masuk keluar petugas keluarga tewas pemilik data
+
+ldavis_prepared_3_30_06-23-2023_12-49-39
+above
+
+outstanding results
+0 false
+2679 tp
+9 tn
+but still have some empty in tn val, the what is empty
+
+ldavis_prepared_4_30_06-23-2023_14-28-12
+try 4 in topics number
+
+
+
+
 

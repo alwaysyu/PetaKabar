@@ -1,0 +1,376 @@
+--------------------------------------
+Kisah Petugas Damkar Jember Cari Balita yang Terseret Arus, Susuri Gorong-gorong Selama 1 Jam
+korban, masyarakat, bali, warga, terseret
+['ditemukan', 'damkar', 'rumahnya', 'pencarian']
+--------------------------------------
+7 Kerajinan dari Kayu dengan Nilai Ekonomi Tinggi yang Unik dan Kreatif
+tim, bantuan, langi, badan, erosi, hutan
+['bantuan', 'pohon', 'rusak', 'bangunan', 'membantu', 'kapal']
+--------------------------------------
+7 Tempat Wisata di Barru yang Menarik dan Murah: Celebes Canyon-Lappa Laona
+tanah, tim, poros, wilayah, kecamatan, kabupaten, jalan, terletak, langi, kendaraan, dirangkum, lokasi, waktu, kekeringan, hutan, gunung, pegunungan
+['pantai', 'laut', 'sungai', 'jalur', 'alam', 'aktivitas', 'tanah', 'tenda', 'ketinggian']
+--------------------------------------
+Biografi Opu Daeng Risadju, Wanita Bangsawan dari Luwu yang Jadi Pejuang
+akibat, tanah, acara, tim, wilayah, masyarakat, bali, jalan, bantuan, keterangan, kemerdekaan, mobil, ketua, bumi, beku, kebencian, bergerak
+['berhasil', 'bantuan', 'pembangunan', 'pemerintah', 'meninggal', 'aktivitas', 'tanah', 'mobil']
+--------------------------------------
+7 Cara Mengatasi Kulit Kering Agar Kembali Sehat dan Lembut
+akibat, kerusakan, menimbulkan, bali, badan, waktu, kekeringan, kencang
+['kerusakan', 'kali', 'membantu']
+--------------------------------------
+12 Urutan Zodiak: Pembagian, Elemen dan Karakternya
+tanah, runtuh, tim, bali, jalan, langi, dirangkum, pekerjaan, waktu, rawan, bumi, pergerakan, bergerak
+['laut', 'berhasil', 'bumi', 'api', 'tanah', 'pencarian', 'membantu']
+--------------------------------------
+Urutan Skincare yang Benar dan Efektif dari Pagi Hingga Malam
+kerusakan, tanah, mencegah, waktu, kekeringan, kencang, kelelahan
+['kerusakan', 'tanah', 'kali', 'membantu']
+--------------------------------------
+Diduga Berniat Bunuh Diri, Suami Istri di Surabaya Terkunci di Kamar Mandi Saat RumahTerbakar
+jalan, warga, terbakar
+['ditemukan', 'terbakar', 'api', 'polisi', 'jawa', 'kali', 'diduga']
+--------------------------------------
+Populer Sepekan: Buaya Muara 'Raksasa'-Pria Tewas Usai Indehoi
+peristiwa, putar, bali, keterangan, ucapan, waktu
+['meninggal', 'mengaku', 'aktivitas', 'peristiwa', 'bali', 'kali']
+--------------------------------------
+PKB Sentil Anies Merasa Paling Hebat dan Benar: Terjangkit Sindrom Thanos
+masyarakat, badan, keterangan
+['pemerintah', 'jakarta']
+--------------------------------------
+Analisis BNPB Sebut Letusan Semeru Tak Mungkin Sebabkan Tsunami di Jepang
+bencana, akibat, wilayah, menimbulkan, negara, keterangan, letusan, erupsi, longsor, longsoran, vulkanik, gunung, tsunami, pyroclastic
+['pantai', 'laut', 'potensi', 'aktivitas', 'bmkg', 'cuaca', 'titik', 'badan_meteorologi', 'jawa', 'gelombang']
+--------------------------------------
+Waspada! BPBD Ingatkan Ada Potensi Pergerakan Tanah di Jaksel dan Jaktim
+tanah, curah, wilayah, masyarakat, bali, jalan, hujan, warga, pergerakan
+['sungai', 'potensi', 'dki_jakarta', 'jakarta', 'bmkg', 'bpbd', 'tanah']
+--------------------------------------
+Ini 10 Daerah di Jaksel-Jaktim Diminta Waspada Potensi Pergerakan Tanah
+tanah, curah, tim, wilayah, masyarakat, hujan, warga, pergerakan
+['potensi', 'dki_jakarta', 'jakarta', 'tanah']
+--------------------------------------
+Sosoran Bapak-bapak Berkumis ke Pipi Gibran Berujung Teguran
+acara, lokasi, bumi
+['jakarta', 'titik']
+--------------------------------------
+Jabar Hari Ini: Terungkapnya Motif Ayah Potong Kelamin Anak Saat Tidur
+korban, peristiwa, tanah, tim, wilayah, masyarakat, pelaku, jalan, kendaraan, warga, lokasi, mencegah, pergerakan
+['berhasil', 'berpotensi', 'pemerintah', 'kendaraan', 'potensi', 'bandung', 'mengaku', 'tim', 'diduga', 'peristiwa', 'polisi', 'titik', 'tanah', 'jawa', 'kemarin']
+--------------------------------------
+Jabar Sepekan: Teror Bom di Astana Anyar hingga 9 Desa Dilintasi Sesar Cugenang
+korban, akibat, peristiwa, wilayah, pelaku, jalan, langi, warga, lokasi, rawan, menghantam, ledakan, meledak, bumi, meteor, flare, pergerakan, bergerak
+['berhasil', 'bumi', 'bandung', 'cianjur', 'mengaku', 'api', 'diduga', 'peristiwa', 'polisi', 'jawa', 'kali']
+--------------------------------------
+Jabar Hari Ini: Heboh Pria Salat di Tengah Jalan Sukabumi
+korban, akibat, peristiwa, wilayah, pelaku, bali, jalan, kendaraan, mobil, warga, lokasi, rawan, bumi
+['berhasil', 'ditemukan', 'meninggal', 'jalur', 'kendaraan', 'rumahnya', 'diduga', 'peristiwa', 'polisi', 'jawa', 'kemarin', 'mobil']
+--------------------------------------
+Perjalanan Karier Budiardjo Thalib, Dulu Latih PSM Kini Dipinang Persela
+tim, bali
+['berhasil', 'tim']
+--------------------------------------
+Jatim Sepekan: Pasutri Korban HP Dicas Meledak-Ketua DPRD Jatim OTT KPK
+tim, pelaku, keterangan, mobil, warga, waktu, ledakan
+['ditemukan', 'mengaku', 'diduga', 'peristiwa', 'polisi', 'jawa', 'mobil']
+--------------------------------------
+Kisah Mengelola Danau Shuji, dari 'Tempat Sampah' Jadi Objek Wisata
+putar, masyarakat, bantuan, badan, warga, pekerjaan, waktu
+['sampah', 'bantuan', 'pemerintah', 'mengaku', 'jembatan', 'pencarian', 'kali']
+--------------------------------------
+Akademisi Unhas Ungkap Makassar Masih Krisis Air Bersih, Perlu Penanganan
+wilayah, masyarakat, kecamatan, hujan, kekeringan, menggenangi
+['tanah', 'terdampak', 'akses']
+--------------------------------------
+Fenomena Pasir Semeru Mengalir Tanpa Air Disebut Grain Flow, Apa Itu?
+akibat, warga, mencegah, gesekan, pengendapan, tumbukan, sedimen, vulkanik, bergerak
+[]
+--------------------------------------
+Gerakan Senyap Hatta dan Sjahrir di Rumah Tahanan Sukabumi
+pengawalan, tanah, bali, jalan, kemerdekaan, lokasi, bumi, pergerakan
+['pemerintah', 'bandung', 'bangunan', 'jakarta', 'peristiwa', 'polisi', 'titik', 'gunung']
+--------------------------------------
+Anies Nonton Dokumenter Ini, Teringat Pelemahan Demokrasi 'Kuasai Wasit'
+jalan, negara, keterangan, erosi
+['jakarta']
+--------------------------------------
+NasDem Yakin Publik Cerdas Maknai Unggahan Anies soal Pelemahan Demokrasi
+jalan, negara, keterangan, erosi
+['pemerintah', 'jakarta']
+--------------------------------------
+NasDem Senggol Ketua KPU soal Anies Bicara Erosi Demokrasi Kuasai Wasit
+jalan, negara, keterangan, warga, ketua, erosi
+['potensi', 'jakarta', 'kemarin']
+--------------------------------------
+6 ABK Pemalang Meninggal di Kapal: Dugaan Penyebab dan Identitas Korban
+korban, akibat
+['meninggal', 'diduga', 'bali', 'kapal']
+--------------------------------------
+Jalan Urip Sumoharjo Macet 2 Km gegara Genangan Depan Kantor Gubernur Sulsel
+putar, bali, jalan, kendaraan, pengendara, mobil, lokasi, tersendat, genangan, perlambatan, kemacetan, melambat, bergerak
+['jalur', 'kendaraan', 'genangan', 'mobil']
+--------------------------------------
+RK Singgung Kinerja Densus, Pastikan Natal di Jabar Aman
+tanah, warga, pergerakan
+['berhasil', 'berpotensi', 'bandung', 'diduga', 'tanah', 'jawa', 'kemarin']
+--------------------------------------
+Gubernur Khofifah Tinjau Dampak Erupsi Semeru, Pastikan Logistik Aman
+bencana, tim, posko, masyarakat, bali, jalan, hujan, lokasi, rawan, gunung, pergerakan, bergerak
+['potensi', 'bpbd', 'tim', 'titik', 'terdampak', 'jembatan', 'akses', 'membantu']
+--------------------------------------
+PLTMH di Bungbulang Garut Jebol, Ini 4 Fakta yang Diketahui
+korban, masyarakat, terletak, langi, dirangkum, warga
+['rusak', 'bangunan']
+--------------------------------------
+Tentang 2 Kursi Menteri NasDem yang Disoroti PDI Perjuangan
+bali, waktu, hutan
+['pemerintah', 'bandung']
+--------------------------------------
+Ironi Jalan Nasional di Enrekang Bertahun-tahun Rusak Tak Dihiraukan Pusat
+bali, jalan
+['pemerintah', 'mengaku', 'rusak', 'titik', 'akses', 'kali']
+--------------------------------------
+Tergerus Abrasi, Jalan Aspal di Pantai Pandansari Bantul Rusak
+akibat, kerusakan, bali, jalan, warga, lokasi, abrasi, menerjang, diterjang, rusaknya, sedimen, sedimentasi
+['pantai', 'laut', 'berpotensi', 'sungai', 'kerusakan', 'pohon', 'rusak', 'alam', 'bpbd', 'bangunan', 'titik', 'gelombang']
+--------------------------------------
+6 Destinasi Wisata Kulon Progo yang Cocok Buat Berakhir Pekan
+tim, masyarakat, jalan, terletak, langi, kendaraan, dirangkum, lokasi, mencegah, abrasi, hutan, bakau
+['pantai', 'sungai', 'kendaraan', 'alam', 'api', 'jembatan', 'ketinggian']
+--------------------------------------
+Geger Sumur Resapan Bikin Truk Molen Terperosok Menutup Jalan
+tanah, jalan, lokasi
+['peristiwa', 'tanah', 'kemarin']
+--------------------------------------
+HCML Partisipasi Tanam Mangrove di ICIUOG 2022
+wilayah, masyarakat, keterangan, lokasi, abrasi, bumi, hutan
+['pantai', 'pemerintah', 'bumi', 'pohon', 'bali']
+--------------------------------------
+Simak, Kemenag Buka Seleksi Petugas Haji 2023 Besok
+kabupaten, keterangan, pelaksanaan, dirangkum, ketua
+[]
+--------------------------------------
+Jawaban Menohok Bayu Usai Disindir Demokrat Jadi Biang Pakde Karwo Mundur
+tim, waktu
+['mengaku', 'jawa']
+--------------------------------------
+Saat Bamsoet Singgung Perpanjangan Jabatan Presiden Jelang 2024
+masyarakat, bali, geser
+['pemerintah', 'mengaku']
+--------------------------------------
+Hari Juang TNI AD Ke-77, Kodim 1611/Badung Tanam 2.000 Bibit Mangrove
+tanah, wilayah, masyarakat, lokasi, mencegah, erosi, hutan, ombak, tsunami
+['sampah', 'pantai', 'laut', 'alam', 'tanah', 'bali', 'kemarin']
+--------------------------------------
+Geliat UMKM di Bumi Serambi Mekah
+tim, masyarakat, pelaku, kabupaten, jalan, lokasi, waktu, pergerakan
+['berhasil', 'pemerintah', 'bumi', 'mengaku', 'jakarta', 'tanah', 'akses', 'kali', 'membantu']
+--------------------------------------
+Sederet Fakta Memilukan Pasutri Renta Surabaya Bakar Diri
+korban, peristiwa, bantuan, warga, lokasi, terbakar
+['ditemukan', 'bantuan', 'terbakar', 'bpbd', 'api', 'diduga', 'peristiwa']
+--------------------------------------
+Nelayan Aceh Ngaku Lihat 3 Kapal Rohingya di Laut Pulau Rondo
+wilayah, jalan, terletak, negara, pergerakan
+['laut', 'pemerintah', 'aktivitas', 'diduga', 'tanah', 'kemarin', 'gelombang', 'kapal']
+--------------------------------------
+KPK Bilang 'Waras Nggak Sih', Benarkah Pejabat DKI Punya Aset Puluhan Tanah?
+tanah, negara, tanahnya, rawan, kebocoran
+['mengaku', 'dki_jakarta', 'jakarta', 'titik', 'tanah', 'akses']
+--------------------------------------
+Panas PDIP dan NasDem soal Kursi Mentan-Menteri LHK Jelang Reshuffle
+tim, bali, waktu, hutan
+['pemerintah', 'mengaku']
+--------------------------------------
+Jejak Misteri Harimau di Sukabumi hingga Ular Naga Penghuni Sanggabuana
+gempa, peristiwa, tim, wilayah, masyarakat, waktu, rawan, hutan, gunung, pegunungan
+['berhasil', 'ditemukan', 'bandung', 'alam', 'tim', 'peristiwa', 'gunung', 'jawa', 'kali']
+--------------------------------------
+Abrasi Pantai Batukaras, Waspada Karang yang Muncul di Permukaan Pasir
+akibat, menimbulkan, bali, abrasi, ombak
+['pantai', 'laut', 'aktivitas', 'kali']
+--------------------------------------
+Disindir NasDem soal Erosi Demokrasi Kuasai Wasit, Ini Kata Ketua KPU
+jalan, keterangan, ketua, erosi
+['potensi', 'mengaku', 'jakarta', 'kemarin', 'kali']
+--------------------------------------
+Pelatih PSM Makassar Ungkap 3 Kesalahan Wasit di Laga Lawan Borneo FC Versinya
+tanah, putar, tim, bali, jalan, langi, badan, bahaya, pergerakan
+['tim', 'tanah', 'bali']
+--------------------------------------
+Keruk Sungai Pesisir Bonang untuk Atasi Rob, Pemkab Demak Minta Izin BBWS
+akibat, putar, jalan, bantuan, genangan
+['bantuan', 'pembangunan', 'pemerintah', 'sungai', 'genangan', 'aktivitas', 'rob', 'terdampak', 'kemarin', 'akses']
+--------------------------------------
+Ditarget Beres 2027, Proyek Tanggul NCICD Kewenangan DKI Bernilai Rp 1,3 T
+tim, warga, lokasi, tanggul
+['pantai', 'dki_jakarta', 'jakarta', 'kali', 'kapal']
+--------------------------------------
+Potensi Badai Dahsyat 28 Desember, Begini Pemodelan BRIN
+bencana, curah, wilayah, hujan, badai, pemodelan, pergerakan, bergerak
+['potensi']
+--------------------------------------
+Pergantian Tahun di Pulau Dewata
+masyarakat, langi, negara, warga, lokasi
+['pantai', 'jalur', 'bali']
+--------------------------------------
+Wara-wara BPBD soal Ancaman Potensi Pergerakan Tanah di Jakarta
+tanah, curah, tim, wilayah, hujan, pergerakan
+['berpotensi', 'potensi', 'dki_jakarta', 'jakarta', 'bmkg', 'bpbd', 'tanah']
+--------------------------------------
+Sebut Kemenkeu Berisi 'Iblis dan Setan', Bupati Meranti Didukung DPRD Riau
+tim, negara, struktur, abrasi
+['bumi', 'mengaku', 'alam', 'jakarta', 'kemarin', 'kali']
+--------------------------------------
+Jamu Borneo FC di SSA Bantul, Persija Menang Tipis 1-0
+tanah, tim, bali, jalan, jalannya, waktu, pergerakan
+['tim', 'jakarta', 'tanah']
+--------------------------------------
+11 Orang Ditangkap terkait Pembakaran 50 Kios di Pasar Deiyai Papua Tengah
+korban, akibat, tim, masyarakat, pelaku, bali, keterangan, warga, lokasi, terbakar
+['mengaku', 'terbakar', 'tim', 'api', 'polisi']
+--------------------------------------
+3 Orang Jadi Tersangka Kasus Pembakaran 50 Kios di Deiyai Papua
+masyarakat
+['polisi', 'kemarin']
+--------------------------------------
+2 Remaja Pengeroyok Polantas di Jaktim Jadi Tersangka
+akibat, tim, pelaku, negara
+['tim', 'diduga', 'jakarta', 'polisi']
+--------------------------------------
+Momen Jokowi Naik KRL Bareng Luhut dan Heru Budi dari Tn Abang ke Manggarai
+tim, wilayah, jalan, keterangan, struktur, mobil, pergerakan
+['jalur', 'tanah', 'jembatan']
+--------------------------------------
+SPBU Medaeng Sidoarjo Rusak gegara Puting Beliung-Tak Beroperasi Lebih 5 Jam
+akibat, kerusakan, warga, lokasi, terjangan
+['atap', 'kerusakan', 'rusak']
+--------------------------------------
+6 Fakta Ratusan Wisatawan Terjebak di Karimunjawa Akibat Cuaca
+akibat, bantuan, mengerahkan
+['bantuan', 'semarang', 'bmkg', 'jawa', 'kapal', 'ketinggian', 'cuaca']
+--------------------------------------
+Karyawan Kisahkan Hidup Ala Jalanan Berubah Saat Gabung PO Haryanto
+jalan, waktu
+['mengaku', 'kemarin']
+--------------------------------------
+Dari Cililin Bandung, Sinyal Radio Pertama ke Belanda Mengudara
+tanah, tim, jalan, kendaraan, jalannya, mobil, warga, waktu, bumi, pergerakan
+['pembangunan', 'pemerintah', 'kendaraan', 'bandung', 'alam', 'tim', 'bangunan', 'tanah', 'gunung', 'unit', 'mobil', 'gelombang', 'ketinggian']
+--------------------------------------
+Mobil Terbakar di Cibinong Ternyata Berisi BBM, Sopir Kabur Masih Dicari
+peristiwa, bantuan, mobil, terbakar
+['bantuan', 'terbakar', 'peristiwa', 'polisi', 'pencarian', 'mobil']
+--------------------------------------
+Respons Heru Budi soal Potensi Pergerakan Tanah di Jakarta
+tanah, tim, wilayah, warga, pergerakan, bergerak
+['potensi', 'dki_jakarta', 'alam', 'jakarta', 'bmkg', 'cuaca', 'tanah']
+--------------------------------------
+Telur Penyu Menetas di Pesisir Jembrana Terus Berkurang
+akibat, lokasi, abrasi, bahaya
+['sampah', 'pantai', 'laut', 'berhasil', 'ditemukan', 'rusak', 'cuaca', 'bali']
+--------------------------------------
+35 KK Diusulkan Pindah Rumah Usai Diterjang Gelombang di Mataram
+korban, bencana, tanah, tim, kecamatan, bantuan, warga, lokasi, abrasi, meluas, susulan, tanggul
+['pantai', 'bpbd', 'tim', 'bangunan', 'tanah', 'terdampak', 'kemarin', 'gelombang', 'mengungsi']
+--------------------------------------
+50 Kios di Deiyai Papua Tengah Dibakar Buntut Keributan Pembeli-Penjual
+akibat, peristiwa, masyarakat, pelaku, warga, lokasi, susulan, terbakar
+['pembangunan', 'terbakar', 'api', 'peristiwa', 'polisi', 'unit']
+--------------------------------------
+69 Rumah di Singajaya Garut Rusak Akibat Pergerakan Tanah
+bencana, akibat, kerusakan, tanah, retakan, tim, masyarakat, jalan, bantuan, langi, warga, lokasi, pergerakan
+['bantuan', 'pemerintah', 'kerusakan', 'rusak', 'melanda', 'tim', 'bangunan', 'gunung', 'terdampak', 'tanah']
+--------------------------------------
+Mobil Terbakar Usai Tabrak Pembatas Jalan di Jakbar
+korban, jalan, mobil, terbakar
+['terbakar', 'damkar', 'jakarta', 'mobil']
+--------------------------------------
+Sihir dan Klenik di Masa Kini
+bencana, akibat, peristiwa, tim, wilayah, negara, guncangan, bahaya, kekeringan
+['pembangunan', 'mengaku', 'peristiwa', 'membantu']
+--------------------------------------
+Pipa Air di PLTM Bungbulang Garut Jebol!
+korban, akibat, kerusakan, labil, tanah, masyarakat, langi, keterangan, warga, lokasi, pergerakan
+['diduga', 'bangunan', 'tanah', 'kemarin']
+--------------------------------------
+Sebuah Rumah di Jalan Dr Soetomo Surabaya Terbakar, 10 PMK Diterjunkan
+bali, mobil, lokasi, terbakar
+['terbakar', 'bpbd', 'api', 'mobil', 'kali']
+--------------------------------------
+Kereta Cepat dan Masa Depan Transpotasi di Indonesia
+tanah, tim, wilayah, masyarakat, jalan, terletak, bantuan, badan, negara, kendaraan, struktur, waktu, rawan, tanggul, angin, pergerakan
+['bantuan', 'pembangunan', 'pemerintah', 'jalur', 'kendaraan', 'bandung', 'semarang', 'jakarta', 'tanah', 'jembatan', 'jawa']
+--------------------------------------
+Belasan Rumah di Pacitan Rusak-Retak Terdampak Tanah Gerak
+akibat, tanah, retakan, warga, lokasi, waktu, rawan, rusaknya, pergerakan
+['mengaku', 'rusak', 'rumahnya', 'bpbd', 'bangunan', 'titik', 'tanah', 'terdampak', 'kemarin', 'kali']
+--------------------------------------
+Jembrana Usul Anggaran Rp 100 M Tangani Abrasi 2023
+wilayah, masyarakat, warga, rawan, abrasi, menghanyutkan
+['pantai', 'sungai', 'titik', 'terdampak', 'bali', 'gelombang']
+--------------------------------------
+Berkali-kali Digerebek, Kenapa Kampung Bahari Tak Juga Bebas dari Narkoba?
+wilayah, masyarakat, warga
+['jakarta', 'polisi', 'kali']
+--------------------------------------
+Istri yang Bakar Diri Bersama Suaminya di Surabaya Meninggal
+korban, jalan, warga, terbakar
+['berhasil', 'ditemukan', 'meninggal', 'terbakar', 'diduga']
+--------------------------------------
+Tim pencari 4 Jenazah Hanyut di Sungai Jompo Jember Temukan 2 Kain Kafan
+acara, tim, warga, lokasi, waktu, terbawa
+['sungai', 'tim', 'diduga', 'jembatan', 'pencarian']
+--------------------------------------
+Pemprov Bali-Warga Canggu 'Berebut' Tanah, Sepakat Berbagi
+tanah, tanahnya, warga, abrasi
+['sungai', 'pohon', 'tanah', 'bali', 'unit']
+--------------------------------------
+Warga Johor Akan Somasi Pemkot Medan soal Median Jalan Karya Wisata
+masyarakat, jalan, warga
+['pembangunan', 'pemerintah']
+--------------------------------------
+Dugaan Pasutri di Surabaya Bakar Diri: Anak Enggan Merawat
+korban, tim, keterangan
+['ditemukan', 'diduga', 'polisi']
+--------------------------------------
+Pasutri Surabaya Luka Bakar di Kamar Mandi Diduga Hendak Bunuh Diri
+korban, warga, terbakar
+['ditemukan', 'terbakar', 'rumahnya', 'polisi', 'membantu', 'diduga']
+--------------------------------------
+Kain Bau Minyak Tanah Ditemukan di Rumah Pasutri yang Diduga Bakar Diri
+korban, tanah, warga
+['berhasil', 'ditemukan', 'terbakar', 'rumahnya', 'api', 'diduga', 'polisi', 'tanah']
+--------------------------------------
+Bacaan Sholawat Badar Arab, Latin, dan Artinya
+bencana, kerusakan, tanah, ketua, meluas, bahaya, pergerakan
+['kerusakan', 'tanah', 'jawa', 'kali']
+--------------------------------------
+Siap-siap! Besok Kemenag Buka Seleksi Petugas Haji 2023
+kabupaten, keterangan, pelaksanaan, dirangkum, ketua
+[]
+--------------------------------------
+Jelang Natal, Perajin Patung di Bantul Kebanjiran Pesanan
+tim, wilayah, lokasi, banjir
+[]
+--------------------------------------
+Pergerakan Tanah Berpotensi Terjadi di Jakarta, Heru Budi: Kecil Dampaknya
+tanah, curah, wilayah, masyarakat, kecamatan, bali, terletak, hujan, pergerakan
+['berpotensi', 'sungai', 'potensi', 'klimatologi_geofisika', 'dki_jakarta', 'alam', 'jakarta', 'bmkg', 'cuaca', 'tanah', 'badan_meteorologi']
+--------------------------------------
+Jalan Raya Bogor-Sukabumi Ditutup Total Tadi Malam, Imbas Longsornya Pondasi Jembatan Pamuruyan
+bali, jalan, kendaraan, waktu, rawan, bumi, longsor
+['jalur', 'kendaraan', 'titik', 'jembatan', 'jawa', 'akses', 'membantu']
+--------------------------------------
+Jalan Rusak di Ketapang Tergenang Air, Sepeda Motor Mogok, Truk Antre Panjang
+jalan, kendaraan, hujan, warga, lokasi, genangan, kemacetan
+['kendaraan', 'genangan', 'rusak', 'membantu']
+--------------------------------------
+Bacaan Sholawat Badar Lengkap, Termasuk Manfaat bagi Pelantun
+bencana, akibat, kerusakan, tanah, meluas, bahaya, pergerakan
+['kerusakan', 'tanah', 'kali']
+--------------------------------------
+Tambang Meledak di Sawahlunto, Belasan Orang Tertimbun Longsoran hingga 2 Orang Kena Luka Bakar
+korban, tim, mengerahkan, tertimbun, ledakan, longsor, longsoran
+['pencarian']
