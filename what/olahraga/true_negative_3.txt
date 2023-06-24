@@ -1,0 +1,840 @@
+--------------------------------------
+Sidang Ferdy Sambo Kemarin, Hakim Sebut Cerita Mau Main Bulutangkis Tak Masuk Akal
+bulutangkis, mantan, aksi, mi, s, w, arena, tangkis, kir, badminton
+[]
+--------------------------------------
+Jadwal Badminton BWF 2023: Ada 30 Turnamen Super 300+ dan 5 Major Event Sepanjang Tahun
+bulutangkis, turnamen, kekuatan, ganda, putra, mi, s, w, pebulu, tangkis, badminton
+['indonesia']
+--------------------------------------
+15+ Rekomendasi Lapangan Badminton di Jakarta dan Tarifnya
+atlet, voli, olahraga, tenis, berolahraga, gelanggang, mi, s, w, loka, kios, fasilitas, peralatan, arena, futsal, tangkis, kir, badminton
+['memiliki', 'olahraga', 'indonesia']
+--------------------------------------
+10 Sekolah Dasar (SD) Terbaik di Denpasar dan Lokasinya
+pendidikan, program, putra, olahraga, lomba, penunjang, ski, mi, s, w, fasilitas, arena, futsal, pembelajaran
+['memiliki', 'olahraga']
+--------------------------------------
+Rexy Mainaky Bocorkan Persiapan Wakil Negeri Jiran Jelang Malaysia Open 2023, Fokus Siapkan Mental
+atlet, turnamen, langsung, berlatih, pemain, pekan, ganda, putra, pertandingan, mi, s, w, tangkis, bina
+['babak', 'pelatih', 'indonesia', 'pertandingan']
+--------------------------------------
+BWF World Tour Finals 2022: Meski Kalah dari Ong/Teo, Fajar/Rian Tetap Lolos ke Semifinal
+aksi, ski, gor, mi, s, w, fia, arena
+['prancis', 'babak', 'skor', 'indonesia', 'melawan']
+--------------------------------------
+Tatap Malaysia Open 2023, Rehan/Lisa Pasang Target Tembus Partai Semifinal
+turnamen, langsung, aksi, pemain, ganda, menembus, pertandingan, mi, s, w, pendapa, tangkis, usaha
+['prancis', 'babak', 'memiliki', 'indonesia', 'melawan', 'pertandingan']
+--------------------------------------
+Malaysia Open 2023 Jadi Panggung Terakhir, Goh Liu Ying Akui Tak Pasang Target Khusus
+turnamen, tampil, dipasangkan, kesempatan, ganda, penampilan, mi, s, w, tangkis
+['babak', 'memiliki', 'pelatih', 'indonesia', 'melawan']
+--------------------------------------
+Nova Widianto Resmi Gabung Jajaran Pelatih Bulutangkis Malaysia, PBSI Hormati Keputusannya
+bulutangkis, langsung, pemain, menghormati, ganda, putra, kompetisi, mi, latihan, s, w, tangkis, bina
+['pelatih', 'indonesia']
+--------------------------------------
+Jadwal BWF World Tour Finals 2022, Debut Fajar/Rian dan Gregoria, Apri/Fadia Dapat Rejeki Nomplok
+tampil, langsung, pemain, cedera, ganda, putra, pertandingan, gor, mi, s, w, fia, stie, tunggal
+['babak', 'indonesia', 'pertandingan']
+--------------------------------------
+Bernardo Tuai Pujian Usai Sukses Orbitkan Pemain PSM hingga Dipanggil Timnas
+menjalani, pemain, menyumbang, kompetisi, gor, latihan, s, w, arena
+['timnas', 'psm_makassar', 'psm', 'pelatih', 'bernardo_tavares', 'indonesia', 'melawan', 'liga']
+--------------------------------------
+Salernitana Vs AC Milan: Rossoneri Menang 2-1
+voli, tampil, langsung, aksi, bendung, mi, s, w, arena, usaha
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'wasit']
+--------------------------------------
+Roma Vs Bologna: Penalti Pellegrini Menangkan I Lupi
+cedera, cepat, ski, meluncur, mi, s, w, nari, arena, ry
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'wasit', 'pertandingan']
+--------------------------------------
+Upaya Menpora Tutupi Kehilangan Emas SEA Games 2023
+atlet, bulutangkis, voli, diselenggarakan, aksi, olahraga, atletik, kejuaraan, sepakbola, gulat, ski, tenis, tinju, medali, mi, s, w, pencak, arena, perunggu, tangkis, medal, kir, kriket, golf
+['olahraga', 'peluang', 'indonesia']
+--------------------------------------
+Turnamen Basket 3x3 Kelompok Umur di Jakarta Tuntas
+atlet, bertanding, turnamen, diselenggarakan, pemain, kesempatan, bertanggung, sea, program, pertandingan, gor, mi, latihan, s, w, fasilitas, peserta, arena, singgah
+['indonesia', 'pertandingan']
+--------------------------------------
+Kilas Balik Debut Emas Apriyani/Fadia di SEA Games
+bulutangkis, turnamen, langsung, cedera, ganda, putra, beregu, medali, mi, s, w, nari, arena, tangkis, medal, perorangan, perak
+['indonesia']
+--------------------------------------
+Tekuk Persikabo 1973 1-0, Arema Bukukan Hat-trick Kemenangan
+tampil, langsung, aksi, pemain, kesempatan, penampilan, mengantar, s, w
+['gol', 'menit', 'babak', 'skor', 'peluang', 'serangan', 'pelatih', 'wasit', 'pertandingan']
+--------------------------------------
+Wow! Ada Wacana Gambar Messi Di Uang Argentina
+mantan, pemain, trofi, mi, s, w
+['prancis', 'timnas', 'argentina', 'piala_dunia', 'negara']
+--------------------------------------
+Argentina Vs Australia: Menang 2-1, Albiceleste ke Perempatfinal
+tampil, langsung, pemain, kesempatan, ganda, menembus, ski, mi, s, w, ry, usaha
+['gol', 'menit', 'argentina', 'babak', 'kotak_penalti', 'skor', 'gawang', 'piala_dunia', 'melawan']
+--------------------------------------
+Argentina Vs Kroasia: Tim Tango Unggul 2-0 di Babak Pertama
+cepat, menyundul, mi, s, w, kir
+['menit', 'argentina', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'piala_dunia', 'wasit']
+--------------------------------------
+Messi Bantu Argentina Ungguli Australia di Babak I
+tampil, pemain, kesempatan, menembus, mi, s, w, ry, usaha
+['gol', 'menit', 'argentina', 'babak', 'kotak_penalti', 'gawang', 'piala_dunia', 'melawan']
+--------------------------------------
+Hasil Babak I Tunisia Vs Australia: The Socceroos Unggul 1-0
+aksi, pemain, kesempatan, cepat, pertandingan, mi, menghentak, s, w, ry, kir, usaha
+['prancis', 'gol', 'menit', 'babak', 'skor', 'gawang', 'peluang', 'serangan', 'piala_dunia', 'wasit', 'pertandingan']
+--------------------------------------
+Man City Vs Liverpool: Menang 3-2, The Citizens Depak Si Merah
+langsung, meningkatkan, cepat, pertandingan, mi, s, w, nari, ry, kir
+['gol', 'menit', 'babak', 'skor', 'gawang', 'peluang', 'serangan', 'pertandingan', 'liga']
+--------------------------------------
+Babak I Argentina Vs Meksiko Tuntas 0-0
+tampil, langsung, mengoper, mi, s, w, kir
+['menit', 'argentina', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'piala_dunia', 'pertandingan']
+--------------------------------------
+Klasemen Liga 1 Pekan 15: Bali United Dijegal Borneo FC
+langsung, pemain, meningkatkan, pekan, cepat, mengantar, mi, s, w, arena, ry, usaha
+['gol', 'menit', 'psm_makassar', 'babak', 'borneo', 'skor', 'gawang', 'peluang', 'serangan', 'liga', 'madura_united']
+--------------------------------------
+Babak I Selesai, Belanda Ungguli Qatar 1-0
+langsung, aksi, ski, mengoper, mi, s, w
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang']
+--------------------------------------
+Skor Borneo FC Vs PSM Imbang 1-1, Juku Eja 10 Pemain Jebol Gawang Pesut Etam
+langsung, pemain, pekan, cepat, diganjar, putra, menembus, pertandingan, ski, mi, s, w, arena, ry, kir, usaha
+['gol', 'menit', 'psm_makassar', 'babak', 'kotak_penalti', 'borneo', 'skor', 'gawang', 'peluang', 'serangan', 'psm', 'pelatih', 'wasit', 'melawan', 'pertandingan', 'madura_united']
+--------------------------------------
+Borneo FC Tak Diperkuat Diego Michiels Hadapi PSM, Juku Eja Bakal Diuntungkan
+mantan, langsung, pemain, pekan, diganjar, menduduki, pertandingan, mi, s, w, arena
+['psm_makassar', 'memiliki', 'borneo', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Gelandang PSM Kenzo Nambu Bakal Tampil On Fire Hadapi Borneo FC
+mantan, tampil, langsung, pemain, pekan, cepat, penampilan, menukangi, mengantar, mi, s, w, arena, kir
+['gol', 'psm_makassar', 'memiliki', 'borneo', 'skor', 'serangan', 'psm', 'pelatih', 'melawan', 'pertandingan']
+--------------------------------------
+Brentford Vs Liverpool: Si Merah Tertinggal 0-2
+langsung, cepat, mengoper, mi, s, w, arena, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'serangan']
+--------------------------------------
+Brunei Vs Indonesia: Abimanyu Cetak Gol Pertama!
+voli, mi, s, w, kir
+['gol', 'menit', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'indonesia']
+--------------------------------------
+Momen Ganda Putra RI Berjaya di Kejuaraan Bulutangkis Asia 2022
+bulutangkis, tampil, langsung, ganda, putra, kejuaraan, beregu, mi, s, w, pentas, tangkis, stie
+['memiliki', 'indonesia']
+--------------------------------------
+Nottingham Forest Vs Chelsea 1-1, The Blues Harus Puas Berbagi Poin
+voli, langsung, sea, pertandingan, ski, mi, s, w, nari, ry, kir, lido
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'serangan']
+--------------------------------------
+Contoh Kata Kerja Material dan Relasional serta Penggunaannya
+atlet, aksi, mi, s, w, ekspo, arena
+['memiliki', 'gawang']
+--------------------------------------
+Lucunya Jan Ethes Ikut Exhibiton Basket, 3 Kali Bawa Bola ke Ring Sendiri
+langsung, putra, pertandingan, gor, mi, s, w, arena, kir
+['menit', 'pelatih', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+Momen Lucu Jan Ethes Main Basket, Sempat Bawa Bola ke Ring Sendiri
+putra, pertandingan, mi, s, w, kir
+['menit', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+Gol Dramatis Daisuke Sato di Menit Akhir Selamatkan Persib
+langsung, aksi, pemain, meningkatkan, kesempatan, cedera, menembus, pertandingan, lomba, menyundul, menceploskan, ski, mi, s, w, nari, arena, bina, kir, usaha
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'pelatih', 'wasit', 'pertandingan']
+--------------------------------------
+Barcelona Vs Espanyol: Derby Catalan Berakhir Imbang 1-1
+tampil, pemain, kesempatan, menceploskan, ski, bendung, mi, s, w, arena, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'peluang', 'serangan', 'wasit']
+--------------------------------------
+Sambut IBL 2023, Dewa United Bermarkas di Tangerang
+atlet, langsung, berlatih, pemain, meningkatkan, olahraga, klub, gor, mi, s, w, ry, industri, wisata
+['olahraga', 'pelatih']
+--------------------------------------
+Hasil Drawing BWF World Tour Finals 2022
+bertanding, turnamen, langsung, pemain, ganda, putra, gor, mi, s, w, ranu, fia, stie, tunggal
+['prancis', 'indonesia', 'negara']
+--------------------------------------
+Alasan PSM Wajib Waspadai 2 Pemain Borneo FC Jelang Bentrok di Liga 1
+tampil, langsung, pemain, pekan, cepat, menyumbang, menduduki, pertandingan, kompetisi, mengantar, mi, s, w, arena, kir
+['gol', 'psm_makassar', 'borneo', 'skor', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Portugal Tertinggal 0-1 dari Maroko di Babak I
+voli, langsung, ski, meluncur, mi, s, w, fia, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'piala_dunia']
+--------------------------------------
+Portugal Tertinggal 0-1 dari Maroko Saat Ronaldo Dicadangkan
+voli, ski, meluncur, mi, s, w, fia, kir
+['menit', 'babak', 'kotak_penalti', 'gawang', 'serangan', 'pertandingan']
+--------------------------------------
+PSM Makassar Vs PSIS di Liga 1: Adu Kepiawaian Gelandang Jepang
+langsung, pemain, pekan, kompetisi, ketangkasan, mi, s, w, nari, arena
+['psm_makassar', 'psm', 'pelatih', 'bernardo_tavares', 'liga']
+--------------------------------------
+Hasil Piala AFF 2022: Indonesia Ditahan 10 Pemain Thailand 1-1
+pemain, kesempatan, cepat, ganda, pertandingan, ski, bendung, mi, s, w, arena, kir
+['gol', 'menit', 'babak', 'skor', 'gawang', 'indonesia', 'wasit', 'melawan', 'pertandingan']
+--------------------------------------
+Persis Vs Persib Imbang Tanpa Gol di Babak Pertama
+langsung, kekuatan, pemain, pertandingan, sumur, ski, mi, s, w
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'melawan', 'pertandingan']
+--------------------------------------
+HistoriSib: Klub Indonesia yang Dua Kali Disakiti Michael Essien
+langsung, aksi, pemain, pekan, sea, gor, s, w, ry
+['gol', 'menit', 'skor', 'gawang', 'indonesia']
+--------------------------------------
+Persebaya 0-0 Persis, Ernando Selamatkan Bajul Ijo dari Kekalahan
+pekan, sumur, mi, s, w, ry
+['gol', 'menit', 'babak', 'skor', 'gawang', 'wasit', 'liga']
+--------------------------------------
+Kenzo Nambu Makin Nyetel di Lini Tengah PSM, Samai Jumlah Gol Striker Everton
+langsung, pemain, pekan, cepat, mi, s, w
+['gol', 'psm_makassar', 'gawang', 'psm', 'bernardo_tavares', 'melawan', 'madura_united']
+--------------------------------------
+Hari Bakti PU 2022 Tanggal 3 Desember: Sejarah dan Rangkaian Acaranya
+voli, diselenggarakan, kekuatan, pertandingan, perlombaan, lomba, acara, tenis, mi, s, w, tangkis, ry, bina
+['indonesia', 'pertandingan']
+--------------------------------------
+Ada Peluang IBL 2023 Jajal Venue Indonesia Arena GBK
+menjalani, pekan, kesempatan, pertandingan, liga, acara, stadion, mi, s
+['indonesia', 'pertandingan', 'liga', 'peluang']
+--------------------------------------
+IBL 2023 Mulai 14 Januari, Digelar di 8 Kota
+langsung, pertandingan, kompetisi, perizinan, stadion, mi, s, w, loka, arena
+['babak', 'memiliki', 'indonesia', 'pertandingan']
+--------------------------------------
+Indonesia Patriots Terus Oke Jelang IBL 2023
+pemain, meningkatkan, games, program, pertandingan, kompetisi, ski, mi, s, w, arena, usaha
+['timnas', 'menit', 'babak', 'borneo', 'skor', 'pelatih', 'indonesia', 'melawan', 'pertandingan']
+--------------------------------------
+Indonesia Vs Thailand: Tim Garuda Ditahan 10 Pemain Gajah Perang 1-1
+langsung, pemain, kesempatan, cepat, ganda, ski, bendung, mi, s, w, salak, arena, ry, bina, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'indonesia', 'wasit']
+--------------------------------------
+Indonesia Vs Thailand: Gagal Menang Lawan 10 Pemain, Skor 1-1
+langsung, pemain, kesempatan, cepat, ganda, ski, bendung, mi, s, w, salak, arena, ry, bina, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'indonesia', 'wasit']
+--------------------------------------
+Piala AFF 2022: Gol Witan Bawa Indonesia Menang 2-1 Lawan Kamboja
+langsung, cepat, pertandingan, bendung, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'indonesia', 'pertandingan']
+--------------------------------------
+Hasil Piala AFF 2022: Indonesia Tekuk Kamboja 2-1
+langsung, cepat, pertandingan, bendung, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'indonesia', 'pertandingan']
+--------------------------------------
+Indonesia Melaju ke Semifinal Piala AFF 2022
+voli, pemain, ganda, pertandingan, ski, tinju, mi, s, w, nari, ry, bina, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'indonesia', 'pertandingan']
+--------------------------------------
+Rencana Perbasi Tambah 8 Wasit Lisensi FIBA di Tahun Ini
+langsung, aksi, program, pertandingan, ski, mi, latihan, s, w, pendapa, pelatihan
+['memiliki', 'indonesia', 'wasit', 'negara']
+--------------------------------------
+Piala AFF 2022: Indonesia Libas Kamboja 2-1
+langsung, cepat, pertandingan, bendung, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'indonesia', 'pertandingan']
+--------------------------------------
+Piala AFF 2022: Indonesia Ungguli Kamboja di Babak Pertama
+langsung, pemain, bendung, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'indonesia']
+--------------------------------------
+Indonesia Vs Thailand Masih 0-0 di Babak I
+langsung, kesempatan, ski, bendung, mi, s, w, salak, arena, ry, kir
+['menit', 'babak', 'gawang', 'indonesia', 'wasit']
+--------------------------------------
+Inggris Vs Senegal: Menang Telak 3-0, Three Lions ke Perempatfinal!
+cepat, ganda, mengoper, bendung, mi, s, w, arena, ry, menggoda, kir, lido
+['prancis', 'gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'piala_dunia']
+--------------------------------------
+Inggris Ungguli Senegal 2-0 di Babak I
+cepat, ganda, mengoper, bendung, mi, s, w, arena, ry, kir, lido
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'piala_dunia']
+--------------------------------------
+Reggina Vs Inter: Nerazzurri Menang 2-0
+langsung, kesempatan, klub, bendung, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'serangan']
+--------------------------------------
+Penampakan Iptu Umbaran Nyaru Wartawan Juara Futsal Pakai Jersey No 10
+turnamen, langsung, menembus, kejuaraan, medali, mi, s, w, futsal, medal
+['babak']
+--------------------------------------
+Momen Iptu Umbaran Saat Nyamar Jadi Wartawan, Ikut Jadi Juara Futsal
+turnamen, langsung, kejuaraan, medali, piala, s, w, futsal, medal
+[]
+--------------------------------------
+Jamal Musiala, Calon Bintang Masa Depan Jerman
+turnamen, tampil, pemain, ganda, pertandingan, kompetisi, ski, mi, s, w, ry
+['timnas', 'babak', 'pelatih', 'piala_dunia', 'pertandingan']
+--------------------------------------
+7 Tempat Wisata di Alun-Alun Lamongan, Bikin Budget Hemat Lho!
+ski, gor, mi, s, w, loka, arena, bandeng, wisata, objek
+['memiliki']
+--------------------------------------
+Villarreal Vs Madrid: Diwarnai 2 Penalti, Los Blancos Tumbang
+bertanding, meningkatkan, kesempatan, menembus, pertandingan, menceploskan, ski, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'wasit', 'pertandingan']
+--------------------------------------
+Kata 2 Tim Perkasa IBL soal Bertambahnya Jumlah Gim Tahun Depan
+pemain, cepat, sea, pertandingan, kompetisi, playoff, liga, kebugaran, ski, mi, latihan, s, w, loka, arena, ry
+['babak', 'memiliki', 'indonesia', 'pertandingan', 'liga']
+--------------------------------------
+Menanti Sentuhan Magis Pluim yang Kembali Perkuat PSM saat Lawan Bhayangkara
+langsung, pemain, pertandingan, kompetisi, mi, s, w, arena
+['gol', 'psm_makassar', 'peluang', 'psm', 'wasit', 'melawan', 'pertandingan']
+--------------------------------------
+Bebas dari Sanksi Komdis PSSI, Pluim Bakal Perkuat PSM Lawan Bhayangkara
+langsung, pemain, pertandingan, mi, s, w, arena
+['psm_makassar', 'peluang', 'psm', 'pelatih', 'wasit', 'melawan', 'pertandingan']
+--------------------------------------
+Kasus-kasus Mutilasi Sadis Gemparkan Publik, Terbaru Pakai Gergaji Listrik
+langsung, aksi, menjalani, pekan, mi, s, w, usaha
+[]
+--------------------------------------
+Kejurnas Basket U-15 Dimulai, Semoga Muncul Atlet Potensional
+atlet, bertanding, menyumbang, putra, olahraga, kejuaraan, gor, mi, s, w, peserta
+['olahraga', 'indonesia', 'wasit']
+--------------------------------------
+Maroko Vs Portugal: Singa Atlas Menang 1-0, Maju ke Semifinal!
+bertanding, voli, langsung, aksi, pemain, diganjar, pertandingan, ski, meluncur, mi, s, w, fia, ry, kir
+['prancis', 'gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'pertandingan']
+--------------------------------------
+PBSI: Terima Kasih, Nova Widianto
+bulutangkis, langsung, meningkatkan, menghormati, ganda, tanggap, menukangi, pelatnas, mi, latihan, s, w, arena, tangkis, pelatihan, ry
+['pelatih', 'indonesia']
+--------------------------------------
+Saat Baju dan Bola Zulhas Jadi Kode Airlangga soal Partai Tambahan KIB
+kekuatan, pertandingan, mi, s, w, resto, arena
+['indonesia', 'pertandingan']
+--------------------------------------
+Kroasia Vs Maroko: Vatreni Unggul 2-1 di Babak Pertama
+langsung, aksi, kesempatan, cepat, bendung, mi, s, w, fia, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'serangan', 'piala_dunia']
+--------------------------------------
+2 Hal yang Patut Diwaspadai PSM Makassar saat Lawan Madura United di Liga 1
+mantan, langsung, pertandingan, kompetisi, liga, mi, s, w, arena
+['psm_makassar', 'psm', 'pelatih', 'bernardo_tavares', 'indonesia', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+David da Silva Cedera, Persikabo Vs Persib 0-0 di Babak Pertama
+langsung, aksi, pemain, pertandingan, ski, mi, s, w, nari, arena, bina, kir, usaha
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'wasit']
+--------------------------------------
+Tottenham Vs Villa Masih Tanpa Gol
+mi, s, w, ry, kir
+['menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'gol']
+--------------------------------------
+Korea Selatan Vs Portugal Imbang 1-1 di Babak I
+aksi, pemain, cepat, pertandingan, mi, s, w, arena
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'wasit', 'pertandingan']
+--------------------------------------
+Gol Ziyech Dianulir, Belgia Vs Maroko Masih 0-0
+mi, s, w, fia, arena, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'wasit']
+--------------------------------------
+Hasil Liga Italia: Sempat Unggul Dua Gol, Lazio Ditahan Empoli 2-2
+voli, tampil, pekan, mi, s, w
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'serangan', 'liga']
+--------------------------------------
+Lini Tengah PSM Diuji Kontra PSIS, Hadapi Agresivitas Marukawa-Cantillana
+langsung, kekuatan, pemain, pekan, kompetisi, penampilan, ski, mengantar, mi, s, w, arena, ry, kir, menakut
+['gol', 'psm_makassar', 'skor', 'gawang', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Brentford Vs Liverpool: Si Merah Kalah 1-3
+langsung, meningkatkan, cepat, hidup, pertandingan, mengoper, mi, s, w, arena, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'pertandingan']
+--------------------------------------
+Kesalahan-kesalahan yang Bikin Liverpool Terdepak
+tampil, aksi, pemain, cepat, kejuaraan, mi, s, w, kir
+['gol', 'menit', 'babak', 'peluang', 'liga']
+--------------------------------------
+Drama Offside, Mantan Bek Liverpool pun Bela Wolves
+langsung, sepakbola, pertandingan, stadion, gor, mi, s, w, pendapa, arena
+['gol', 'menit', 'babak', 'skor', 'pertandingan']
+--------------------------------------
+2 Penyebab Kekalahan PSM dari Madura United di Liga 1
+mantan, tampil, langsung, aksi, pemain, pekan, pertandingan, penampilan, mi, s, w, arena, tunggal
+['gol', 'menit', 'psm_makassar', 'babak', 'peluang', 'serangan', 'psm', 'pelatih', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+PSM Diminta Pertahankan Kenzo Nambu, Bisa Jadi Pelapis Sepadan Wiljan Pluim
+tampil, aksi, hukuman, pemain, kesempatan, pertandingan, kompetisi, penampilan, ski, mengantar, mi, s, w
+['menit', 'psm_makassar', 'psm', 'pelatih', 'wasit', 'melawan', 'pertandingan']
+--------------------------------------
+Bos Persib Bicara soal Liga 1 dengan Sistem Bubble
+pemain, kompetisi, liga, klub, mi, latihan, s, w, peserta, arena
+['timnas', 'indonesia', 'piala_dunia', 'liga']
+--------------------------------------
+Man City Kalahkan Leeds 3-1, Haaland Brace-Cetak Rekor Lagi
+pemain, cepat, pertandingan, mi, s, w, ry
+['gol', 'menit', 'babak', 'skor', 'gawang', 'peluang', 'serangan', 'pertandingan', 'liga']
+--------------------------------------
+Leeds Vs Man City: Haaland Brace, The Citizens Menang 3-1
+pertandingan, mi, s, w, ry
+['gol', 'menit', 'babak', 'skor', 'gawang', 'peluang', 'serangan', 'pertandingan', 'liga']
+--------------------------------------
+MU Vs Nottingham Forest: Rashford Cemerlang, Setan Merah Menang 3-0
+cepat, pertandingan, liga, penampilan, ski, mi, s, w, arena, kir
+['gol', 'menit', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'pertandingan', 'liga']
+--------------------------------------
+MU Memimpin 2-0 atas Nottingham Forest di Babak I
+langsung, cepat, pertandingan, ski, mi, s, w, arena, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'melawan', 'pertandingan']
+--------------------------------------
+Eks Anak Buah Sambo Merasa Ngenes ke Peraih Adhi Makayasa, Kenapa?
+mantan, langsung, aksi, cepat, rintang, mi, s, w, loka
+[]
+--------------------------------------
+Maroko Menang Tipis, Portugal Nangis
+voli, langsung, aksi, pemain, diganjar, pertandingan, ski, meluncur, mi, s, w, fia, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'piala_dunia', 'pertandingan']
+--------------------------------------
+Generasi Emas Belgia Dipermalukan Maroko 2 Gol Tanpa Balas
+hidup, ganda, menembus, mi, s, w, fia, arena, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'peluang', 'serangan', 'piala_dunia', 'wasit', 'melawan']
+--------------------------------------
+Nasib PSM di Puncak Klasemen Liga 1 Bergantung Hasil Lawan PSIS: Harus Menang
+mantan, langsung, kekuatan, pemain, pekan, pertandingan, mi, s, w, arena, kir
+['psm_makassar', 'memiliki', 'borneo', 'skor', 'psm', 'pelatih', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Leicester Vs Newcastle: The Magpies Menang 3-0, Naik ke Posisi Dua
+pekan, cepat, ganda, menembus, pertandingan, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'skor', 'gawang', 'pertandingan', 'liga']
+--------------------------------------
+Olahraga Gateball yang Mulai Populer di Jabar
+atlet, diselenggarakan, ganda, olahraganya, olahraga, kejuaraan, pertandingan, ski, berolahraga, mi, s, w, arena, futsal, santai, usaha
+['olahraga', 'indonesia', 'pertandingan']
+--------------------------------------
+Strategi Perbasi DKI untuk Basket Jakarta Makin Baik
+atlet, turnamen, pemain, meningkatkan, program, kejuaraan, pertandingan, klub, mi, s, w, bina
+['memiliki', 'olahraga', 'wasit', 'pertandingan']
+--------------------------------------
+Daftar Penghuni Pelatnas 2023 Akan Diumumkan, Siapa Gantikan Nova Widianto?
+atlet, bulutangkis, turnamen, langsung, cedera, ganda, putra, medali, gor, mi, s, w, arena, tangkis, ry, medal, bina, tunggal, perak
+['pelatih']
+--------------------------------------
+Respons PBSI Terkait Pengunduran Diri Nova Widianto
+ganda, menukangi, mi, latihan, s, arena, tangkis, pelatihan, bina
+['memiliki', 'pelatih']
+--------------------------------------
+Perbasi Bakal Gelar Indonesia Development League April 2023
+tampil, langsung, pemain, pertandingan, kompetisi, acara, klub, gor, mi, s, w, pebasket, arena
+['memiliki', 'olahraga', 'indonesia', 'wasit', 'pertandingan']
+--------------------------------------
+Saling Berbalas Serangan, PSM Masih Unggul 1-0 Lawan PSIS hingga Menit 30
+langsung, pemain, pekan, kesempatan, pertandingan, s, w, ry
+['gol', 'menit', 'psm_makassar', 'skor', 'serangan', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan']
+--------------------------------------
+Unggul 1-0, PSM Fokus Perkuat Pertahanan Lawan PSIS hingga Menit ke-75
+langsung, aksi, pemain, meningkatkan, pekan, cepat, diganjar, ganda, putra, pertandingan, loncat, mi, s, w, ry
+['menit', 'psm_makassar', 'babak', 'kotak_penalti', 'skor', 'gawang', 'serangan', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan']
+--------------------------------------
+Statistik PSM Vs PSIS Skor 1-0 di Babak Pertama: Juku Eja Lepaskan 7 Tembakan
+langsung, kekuatan, pemain, meningkatkan, pekan, kesempatan, putra, pertandingan, mi, sprint, s, w, ry, kir
+['gol', 'menit', 'psm_makassar', 'babak', 'skor', 'gawang', 'serangan', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan']
+--------------------------------------
+Skor PSM Vs Persikabo Masih 0-0 hingga Menit ke-30, Juku Eja Mendominasi
+langsung, aksi, pemain, pekan, diganjar, pertandingan, ski, mi, s, w, nari, arena, ry, kir
+['gol', 'menit', 'psm_makassar', 'kotak_penalti', 'skor', 'gawang', 'serangan', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan']
+--------------------------------------
+PSM Makassar Diminta Waspadai Kebangkitan Madura United Usai Kalah dari Bali
+mantan, langsung, pekan, pertandingan, mi, s, w, arena
+['gol', 'psm_makassar', 'psm', 'pelatih', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Jelang PSM Makassar Vs PSIS Semarang: Laskar Mahesa Jenar di Atas Angin
+langsung, pemain, pekan, menduduki, pertandingan, mi, s, w, arena
+['psm_makassar', 'memiliki', 'borneo', 'skor', 'psm', 'pelatih', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Rawan Kebobolan, PSM Makassar Diingatkan Waspadai Transisi Cepat Borneo FC
+mantan, langsung, pemain, pekan, cepat, pertandingan, kompetisi, mi, s, w, ranca, arena, kir
+['gol', 'psm_makassar', 'borneo', 'peluang', 'serangan', 'psm', 'pelatih', 'bernardo_tavares', 'indonesia', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+PSM Vs Madura United: Ujian Bek Juku Eja Adang Top Skor Laskar Sape Kerrab
+mantan, langsung, pemain, pekan, kesempatan, pertandingan, ski, mi, s, w, arena, ry, kir
+['gol', 'psm_makassar', 'borneo', 'skor', 'gawang', 'peluang', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Budiardjo Ingatkan PSM Hindari Pelanggaran Dekat Kotak Penalti Lawan Madura
+langsung, pemain, pekan, hidup, pertandingan, mengantar, mi, s, w, arena, kir
+['psm_makassar', 'memiliki', 'kotak_penalti', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+3 Pemain yang Patut Diwaspadai PSM Saat Bertemu PSIS Semarang di Liga 1
+langsung, pemain, pekan, cedera, pertandingan, kompetisi, ski, klub, mengantar, mi, s, w, arena, kir
+['gol', 'psm_makassar', 'skor', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Lawan Persita Jadi Ujian Perdana PSM Tanpa Pelatih Kepala
+langsung, menjalani, pemain, pekan, pertandingan, mi, s, w, arena, kir
+['psm_makassar', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan']
+--------------------------------------
+PSM Perkuat Lini Tengah Lawan PSIS untuk Redam Pergerakan Carlos Fortes
+langsung, pemain, pekan, cedera, pertandingan, mi, s, w
+['menit', 'psm_makassar', 'memiliki', 'psm', 'pelatih', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Borneo FC Vs PSM di Liga 1, Juku Eja Patut Waspada Permainan Cepat Pesut Etam
+langsung, menjalani, pemain, pekan, cepat, menduduki, pertandingan, mi, s, w, arena, kir
+['gol', 'psm_makassar', 'borneo', 'skor', 'serangan', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan', 'madura_united', 'liga']
+--------------------------------------
+PSM Vs Bhayangkara, Ujian Juku Eja Putus Tren Buruk Lawan Tim Papan Bawah
+langsung, menjalani, pertandingan, liga, mi, s, w, arena
+['psm_makassar', 'memiliki', 'borneo', 'skor', 'peluang', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+PSM Makassar Diingatkan Benahi Sektor Sayap Jelang Hadapi PSIS Semarang
+pemain, pekan, cepat, menembus, pertandingan, mi, s, w, tunggal
+['gol', 'menit', 'psm_makassar', 'memiliki', 'serangan', 'psm', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+PSM Vs Persita: Peluang Juku Eja Perkokoh Posisi di Puncak Klasemen Liga 1
+langsung, berlatih, aksi, menjalani, pertandingan, kompetisi, trofi, ski, mengantar, mi, s, w, arena
+['gol', 'psm_makassar', 'borneo', 'skor', 'psm', 'pelatih', 'bernardo_tavares', 'indonesia', 'pertandingan', 'liga', 'madura_united', 'peluang']
+--------------------------------------
+PSM Makassar Tampil Pincang Hadapi Persita Tangerang di Liga 1 2022/2023
+tampil, langsung, hukuman, pemain, pekan, pertandingan, mi, s, w
+['timnas', 'psm_makassar', 'psm', 'indonesia', 'wasit', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+Kalahkan Persikabo Jadi Modal PSM Makassar Hadapi Persita di Liga 1
+langsung, berlatih, menjalani, pertandingan, trofi, ski, mengantar, mi, s, w, arena
+['gol', 'psm_makassar', 'skor', 'psm', 'pelatih', 'bernardo_tavares', 'indonesia', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+3 Tim Paling Berpotensi Lawan PSM Makassar saat TC di Yogyakarta
+pertandingan, mi, latihan, s, w, loka, pendapa
+['psm_makassar', 'skor', 'psm', 'pelatih', 'bernardo_tavares', 'pertandingan', 'liga']
+--------------------------------------
+Pengamat Puji Kebangkitan PSM Makassar Usai Tumbang dari Madura United
+langsung, pemain, pekan, cepat, sea, ganda, menduduki, pertandingan, menukangi, mengantar, s, w, kir
+['gol', 'psm_makassar', 'skor', 'psm', 'pelatih', 'bernardo_tavares', 'pertandingan', 'madura_united']
+--------------------------------------
+3 Kunci Sukses PSM Makassar Tumbangkan PSIS Semarang 2-0 di Liga 1
+langsung, pemain, cepat, ganda, pertandingan, s, w, kir
+['gol', 'menit', 'psm_makassar', 'babak', 'skor', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+5 Fakta PSM Makassar Bungkam PSIS Semarang 2-0 di Pekan ke-16 Liga 1
+tampil, langsung, menjalani, pemain, pekan, pertandingan, mengantar, mi, s, w, nari
+['gol', 'menit', 'psm_makassar', 'babak', 'borneo', 'skor', 'peluang', 'psm', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Determinasi Tinggi 10 Pemain PSM Makassar Sukses Tahan Imbang 1-1 Borneo FC
+mantan, langsung, pemain, meningkatkan, pekan, diganjar, ski, mi, s, w, arena
+['gol', 'menit', 'psm_makassar', 'borneo', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'liga', 'madura_united']
+--------------------------------------
+Kenzo Nambu Tuai Pujian Meski PSM Main Imbang Lawan Bhayangkara FC
+tampil, aksi, pemain, kesempatan, pertandingan, kompetisi, penampilan, ski, mengantar, s, w
+['menit', 'psm_makassar', 'skor', 'psm', 'pelatih', 'pertandingan', 'liga']
+--------------------------------------
+PSM Makassar Kian Optimis Juara Liga 1 Usai Stadion BJ Habibie Lolos Asesmen
+pertandingan, kompetisi, stadion, gor, mi, s
+['gol', 'psm_makassar', 'borneo', 'psm', 'pelatih', 'bernardo_tavares', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+PSM Vs PSIS: Kenzo Nambu Menangkan Juku Eja
+tampil, langsung, cepat, pertandingan, mi, s, w, arena, ry
+['gol', 'menit', 'psm_makassar', 'babak', 'kotak_penalti', 'skor', 'serangan', 'psm']
+--------------------------------------
+PSM Diminta Rekrut Pemain Baru Antisipasi Badai Cedera-Panggilan Timnas
+tampil, menjalani, pemain, meningkatkan, cedera, kompetisi, liga, penampilan, diiringi, klub, mi, latihan, s, w, arena
+['gol', 'timnas', 'psm_makassar', 'memiliki', 'skor', 'psm', 'pelatih', 'indonesia', 'liga', 'negara']
+--------------------------------------
+Dihantui Rekor Buruk Lawan Tim Papan Bawah, PSM Ogah Remehkan Barito Putera
+bertanding, tampil, kekuatan, pertandingan, mi, s, w, kir
+['gol', 'psm_makassar', 'psm', 'pelatih', 'indonesia', 'melawan', 'liga']
+--------------------------------------
+PSM Makassar Diingatkan Kawal Ketat Gelandang PSIS Taisei Marukawa
+pemain, pekan, mi, s, w, arena
+['gol', 'psm_makassar', 'psm', 'pelatih']
+--------------------------------------
+Performa PSM Makassar Disoroti Usai Ditahan Imbang Tim Papan Bawah
+mantan, tampil, dibenahi, pemain, sea, pertandingan, mi, s, w, arena
+['gol', 'psm_makassar', 'skor', 'peluang', 'psm', 'pelatih', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Suporter PSM Ingatkan Wiljan Pluim Cs Tak Jemawa Hadapi Bhayangkara FC
+mantan, langsung, kekuatan, pekan, cepat, mi, s, w
+['psm_makassar', 'psm', 'pelatih', 'melawan', 'liga']
+--------------------------------------
+3 Kunci Sukses PSM Makassar Imbangi Borneo FC 1-1 Meski Bermain 10 Pemain
+langsung, pemain, pekan, pertandingan, ski, s, w, arena, ry
+['gol', 'menit', 'psm_makassar', 'babak', 'borneo', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+PSM Diminta Move On dari Kekalahan Lawan Madura, Fokus ke PSIS Semarang!
+pemain, pekan, pertandingan, mi, s, w, arena, kir
+['psm_makassar', 'borneo', 'skor', 'psm', 'pelatih', 'melawan', 'pertandingan', 'liga', 'madura_united']
+--------------------------------------
+Statistik Babak Pertama PSM Makassar Vs Persikabo: Juku Eja Kuasai Laga 58%
+langsung, aksi, pemain, diganjar, pertandingan, mi, s, w, nari, arena, ry, kir
+['gol', 'menit', 'psm_makassar', 'babak', 'kotak_penalti', 'skor', 'gawang', 'serangan', 'psm', 'bernardo_tavares', 'pertandingan']
+--------------------------------------
+2 Hal yang Buat PSM Makassar Diunggulkan Menang Lawan Bhayangkara di Liga 1
+bertanding, langsung, pemain, menduduki, kompetisi, liga, penampilan, ski, mi, s, w, arena
+['psm_makassar', 'borneo', 'skor', 'psm', 'pelatih', 'indonesia', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+PSM Sulit Menang Lawan Tim Kalimantan, Diminta Berbenah Jelang Bertemu Barito
+mantan, dibenahi, aksi, pemain, pekan, tanggap, pertandingan, liga, mi, s, w
+['gol', 'psm_makassar', 'memiliki', 'borneo', 'skor', 'peluang', 'psm', 'pelatih', 'bernardo_tavares', 'indonesia', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+Hasil Liga 1 PSM Makassar Vs PSIS: Juku Eja Permalukan Laskar Mahesa Jenar 2-0
+langsung, kekuatan, aksi, pemain, meningkatkan, pekan, kesempatan, cepat, putra, mengantar, mi, s, w, ry, kir
+['gol', 'menit', 'psm_makassar', 'babak', 'kotak_penalti', 'borneo', 'skor', 'gawang', 'peluang', 'serangan', 'psm', 'bernardo_tavares', 'melawan', 'madura_united', 'liga']
+--------------------------------------
+Kekalahan Perdana PSM di Liga 1 Dinilai Akibat 3 Pemain Kunci Ikut Timnas
+tampil, kekuatan, aksi, pemain, menyumbang, mi, s, w, arena
+['gol', 'timnas', 'menit', 'psm_makassar', 'babak', 'peluang', 'psm', 'indonesia', 'liga', 'madura_united']
+--------------------------------------
+Tugas Berat PSM Makassar Tak Didampingi Bernardo Tavarez saat Hadapi Persita
+langsung, aksi, menjalani, pemain, pekan, pertandingan, ski, mi, s, w, arena, kir
+['psm_makassar', 'psm', 'pelatih', 'bernardo_tavares', 'pertandingan']
+--------------------------------------
+Liga 1 Pakai Format Bubble Bukan Masalah Bagi PSM Makassar
+bertanding, pemain, sepakbola, liga, ski, klub, mi, s, w, arena
+['psm_makassar', 'psm', 'pelatih', 'liga']
+--------------------------------------
+PSM Makassar Dijagokan Menang Atas Bhayangkara di Liga 1, Unggul Fisik-Taktik
+bertanding, mantan, langsung, pemain, menduduki, kompetisi, penampilan, ski, mi, s, w
+['gol', 'psm_makassar', 'borneo', 'skor', 'psm', 'pelatih', 'melawan', 'liga']
+--------------------------------------
+PSM Tampil Menyerang Saat Tertinggal 0-1 dari Madura United hingga Menit 75
+tampil, langsung, pemain, diganjar, mi, s, w, ry, kir
+['gol', 'menit', 'psm_makassar', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'psm', 'bernardo_tavares', 'madura_united']
+--------------------------------------
+Akbar Tanjung Absen Bela PSM saat Lawan Borneo gegara Akumulasi Kartu
+langsung, pemain, pekan, kesempatan, pertandingan, ski, mi, s, w, kir
+['psm_makassar', 'memiliki', 'borneo', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+2 Opsi Bernardo Ganti Akbar Tanjung yang Absen Bela PSM gegara Akumulasi Kartu
+tampil, langsung, pemain, pekan, kesempatan, pertandingan, mi, s, w, kir
+['psm_makassar', 'borneo', 'peluang', 'psm', 'pelatih', 'bernardo_tavares', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+Kroasia Sebut Penalti Argentina Terlalu Sepele, tapi...
+bertanding, tampil, langsung, aksi, pemain, diganjar, olahraga, ski, bendung, mi, s, w, arena
+['prancis', 'gol', 'menit', 'argentina', 'skor', 'gawang', 'olahraga', 'peluang', 'serangan', 'pelatih', 'piala_dunia', 'wasit', 'melawan', 'pertandingan']
+--------------------------------------
+Protes Berlebihan Pelatih PSM Dinilai Ganggu Konsentrasi Permainan Tim
+mengganggu, mi, s, w, arena
+['psm_makassar', 'kotak_penalti', 'psm', 'pelatih', 'bernardo_tavares', 'wasit', 'liga']
+--------------------------------------
+Peringatan ke Pelatih PSM Makassar untuk Berhenti Protes Berlebihan ke Wasit
+mantan, langsung, pemain, meningkatkan, pertandingan, mi, s, w, arena
+['psm_makassar', 'memiliki', 'psm', 'pelatih', 'bernardo_tavares', 'wasit', 'pertandingan', 'liga']
+--------------------------------------
+Penataan Tanggul Pantai Dibuat Konsep Ruang Ketiga, Ada Taman Bermain Anak
+voli, sarana, mi, s, w, loka, futsal, wisata
+['memiliki', 'indonesia']
+--------------------------------------
+Nama Khas Sunda 'Asep' Mulai Tergeser Tokoh Sepak Bola dan Sinetron
+pemain, mi, s, w, arena
+['memiliki']
+--------------------------------------
+Penuturan Orang Dekat Iptu Umbaran Usai Penyamarannya Jadi Wartawan Terkuak
+cepat, acara, ski, mi, s, w, nari, arena
+['indonesia']
+--------------------------------------
+Rencana Perbasi Naturalisasi Lagi Demi Pertahankan Emas SEA Games
+langsung, aksi, pemain, kesempatan, sea, acara, mi, s, w, arena, ry
+['timnas', 'olahraga', 'pelatih', 'indonesia', 'liga']
+--------------------------------------
+Hitung-hitungan Posisi PSM di Klasemen Liga 1 Jika Kalah Lawan Madura United
+pekan, ski, mi, s, w, ranca
+['psm_makassar', 'borneo', 'peluang', 'psm', 'melawan', 'liga', 'madura_united']
+--------------------------------------
+Maung Bandung Bikin Pendekar Cisadane Terluka
+voli, langsung, aksi, pemain, meningkatkan, kesempatan, cedera, cepat, ganda, menembus, pertandingan, ski, mi, s, w, nari, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'pertandingan']
+--------------------------------------
+Faktor Kunci Persib Kalahkan Persita
+pemain, pertandingan, ski, mi, s, w, arena, kir, usaha
+['gol', 'babak', 'gawang', 'peluang', 'serangan', 'pelatih', 'pertandingan', 'madura_united']
+--------------------------------------
+Sundulan Jupe Bawa Persib Unggul 1-0 di Babak Pertama
+langsung, aksi, pemain, kesempatan, cepat, ganda, menembus, pertandingan, ski, mi, s, w, nari
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'pertandingan']
+--------------------------------------
+Gol Persib di Menit Akhir Patahkan Asa Persikabo Raih Kemenangan
+langsung, pemain, cedera, pertandingan, penampilan, ski, mengumpan, mi, s, w, nari
+['gol', 'menit', 'babak', 'skor', 'gawang', 'wasit', 'pertandingan', 'liga']
+--------------------------------------
+Hasil Liga 1: Persis Bantai RANS, Persija Tekuk Borneo FC
+pemain, hiburan, sumur, menceploskan, meluncur, s, w, ry
+['gol', 'menit', 'babak', 'borneo', 'skor', 'gawang', 'serangan', 'liga']
+--------------------------------------
+Anak Medan Cetak 1 Gol, Indonesia Kalahkan Kamboja 2-1
+langsung, cepat, bendung, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'indonesia', 'pertandingan']
+--------------------------------------
+Portugal Vs Swiss: Goncalo Ramos Cs Berpesta 6-1, Lolos ke 8 Besar!
+langsung, aksi, ganda, mi, s, w, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'piala_dunia']
+--------------------------------------
+Tanpa Ronaldo, Portugal Ungguli Swiss 2-0 di Babak I
+tampil, langsung, aksi, pemain, ganda, ski, mi, s, w, kir
+['gol', 'menit', 'babak', 'skor', 'gawang', 'piala_dunia']
+--------------------------------------
+Viral Turnamen Futsal di Bekasi Ricuh, Polisi Ungkap Penyebabnya
+turnamen, pertandingan, s, w, futsal, ry
+['wasit', 'pertandingan']
+--------------------------------------
+Mahasiswa Tanri Abeng University Puji Fasilitas Kantor Pegadaian Salemba
+dayani, kesempatan, program, mi, s, w, literasi, fasilitas, arena, futsal, kir, usaha
+[]
+--------------------------------------
+Cara Warga Sukabumi Wisata Bareng Anak Tanpa Takut Kehujanan
+kesempatan, mi, s, w, loka, liburan, fasilitas, arena
+['memiliki']
+--------------------------------------
+Sengit! Serbia Ungguli Kamerun 2-1 di Babak I
+aksi, pemain, kesempatan, mengoper, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'piala_dunia']
+--------------------------------------
+Iptu Umbaran Pernah Juara Futsal di Lamongan saat Nyamar Jadi Wartawan
+turnamen, langsung, kejuaraan, medali, s, w, arena, futsal, medal
+['babak']
+--------------------------------------
+Suporter PSM Anggap Juku Eja Kalah dari Madura gegara Yakob-Dzaky Absen
+mantan, pemain, menembus, pertandingan, s, w, arena
+['gol', 'timnas', 'menit', 'psm_makassar', 'babak', 'serangan', 'psm', 'pelatih', 'indonesia', 'liga', 'madura_united']
+--------------------------------------
+Lucunya Jan Ethes Main Basket, Bawa Bola ke Ring Sendiri
+langsung, aksi, pertandingan, eksibisi, gor, mi, s, w, arena, kir
+['menit', 'skor', 'melawan', 'pertandingan', 'liga']
+--------------------------------------
+Hasil Liga 1: Persebaya Vs Persis Tuntas Tanpa Gol
+tampil, langsung, pertandingan, sumur, bendung, gor, mi, s, w, arena, ry
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'pertandingan', 'liga']
+--------------------------------------
+Duel Inggris Vs Amerika Tuntas Tanpa Pemenang
+langsung, pemain, kesempatan, pertandingan, mi, s, w, arena, ry
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'serangan', 'melawan', 'pertandingan']
+--------------------------------------
+MU Vs Nottingham Forest: Setan Merah Menang 3-0
+tampil, pemain, kesempatan, cepat, menyumbang, pertandingan, ski, mi, s, w, arena, kir
+['gol', 'menit', 'babak', 'memiliki', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'pertandingan']
+--------------------------------------
+Tim Basketnya Menang Lagi, Jan Ethes Ngaku Disemangati Jokowi
+putra, pertandingan, mi, s, w, arena
+['babak', 'skor', 'pelatih', 'pertandingan']
+--------------------------------------
+Tim Bulutangkis RI Terbang ke Malaysia Open 2023
+atlet, bulutangkis, turnamen, diselenggarakan, berlatih, aksi, pemain, cedera, ganda, putra, mi, latihan, s, w, pebulu, liburan, tangkis, tunggal
+['pelatih', 'indonesia']
+--------------------------------------
+BWF World Tour Finals 2022: Tim Indonesia Bawa Optimisme Ke Bangkok
+bertanding, bulutangkis, langsung, kekuatan, aksi, pemain, kesempatan, cedera, ganda, putra, pertandingan, gor, mi, latihan, s, w, fia, arena, tangkis, bina, stie, tunggal
+['indonesia', 'pertandingan']
+--------------------------------------
+BWF World Tour Finals 2022: Tim Indonesia Latihan Perdana
+bulutangkis, turnamen, diselenggarakan, langsung, berlatih, aksi, pemain, kesempatan, cepat, ganda, putra, pertandingan, mi, latihan, s, w, tangkis, bina, tunggal
+['timnas', 'menit', 'pelatih', 'indonesia', 'pertandingan']
+--------------------------------------
+Februari, Torehan Sejarah dari Tim Bulutangkis Putri RI
+bulutangkis, pemain, kejuaraan, beregu, gor, mi, s, w, tangkis, tunggal
+['pelatih', 'indonesia', 'melawan', 'negara']
+--------------------------------------
+Belanda Vs Qatar: Singa Oranye Menang 2-0, Lolos ke Babak 16 Besar
+langsung, aksi, cepat, ganda, pertandingan, ski, mengoper, mengantar, mi, s, w, arena
+['gol', 'timnas', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'piala_dunia', 'pertandingan']
+--------------------------------------
+Peluang Winger PSM Bela Timnas di Piala AFF 2022: Cocok Skema Menyerang
+mantan, tampil, langsung, kekuatan, menjalani, pemain, menduduki, kompetisi, mi, s, w, arena
+['gol', 'timnas', 'memiliki', 'peluang', 'psm', 'pelatih', 'indonesia', 'melawan']
+--------------------------------------
+Bungkam Arab Saudi 2-0, Gol Lewandowski Pertegas Kemenangan Polandia
+langsung, kesempatan, pertandingan, ski, bendung, mi, s, w, ry
+['gol', 'timnas', 'menit', 'argentina', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'piala_dunia', 'wasit', 'melawan', 'pertandingan']
+--------------------------------------
+Tottenham vs Villa: Lilywhites Takluk 0-2 di Tangan The Villans
+tampil, aksi, cepat, ganda, pertandingan, mengoper, mi, s, w, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'pertandingan']
+--------------------------------------
+Tunisia Vs Prancis: Elang Cartagena Menang, tapi Tersingkir
+voli, langsung, pemain, kesempatan, ski, mengantar, mi, s, w, reli, arena, tangkapan
+['prancis', 'gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'piala_dunia', 'wasit']
+--------------------------------------
+Turnamen Basket ABL Kembali Digelar, Louvre Jadi Wakil Indonesia
+mantan, aksi, pemain, kesempatan, hidup, pertandingan, kompetisi, liga, klub, mi, s, w, loka, peserta, antarklub, arena, industri
+['babak', 'skor', 'pelatih', 'indonesia', 'pertandingan', 'liga', 'negara']
+--------------------------------------
+Netizen Minta Duit Rp 30 Juta ke Gibran: Mau Bangun Lapangan Golf di Desa
+olahraga, mi, s, w, futsal, usaha, golf
+['olahraga']
+--------------------------------------
+Witan Bawa Indonesia Kembali Ungguli Kamboja, Skor Kini 2-1
+cepat, mi, s, w, ry
+['gol', 'menit', 'babak', 'skor', 'gawang', 'indonesia']
+--------------------------------------
+Witan Cedera, Indonesia Sulit Tambah Gol ke Gawang Kamboja
+cedera, cepat, pertandingan, mi, s, w, nari, ry
+['gol', 'menit', 'babak', 'skor', 'gawang', 'indonesia', 'pertandingan']
+--------------------------------------
+Seri Lawan Liverpool, Wolves Merasa 'Dirampok'
+pemain, mi, s, w, arena, ry
+['gol', 'babak', 'skor', 'wasit']
+--------------------------------------
+Kenapa Gol Wolves ke Gawang Liverpool Dianulir?
+langsung, aksi, ganda, mi, s, w, arena
+['gol', 'menit', 'memiliki', 'gawang']
+--------------------------------------
+Nottingham Forest Vs Chelsea Tuntas 1-1
+voli, langsung, pemain, sea, pertandingan, ski, mi, s, w, ry, kir, lido
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'pertandingan']
+--------------------------------------
+Piala AFF 2022: Indonesia Finis Runner-up Grup, Thailand Pertama
+voli, pemain, ganda, pertandingan, ski, tinju, mi, s, w, nari, ry, bina, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'indonesia', 'pertandingan']
+--------------------------------------
+Hasil Inggris Vs Prancis: Menang 2-1, Les Bleus ke Semifinal
+voli, langsung, pemain, mi, s, w, reli, ry, kir
+['prancis', 'gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'piala_dunia', 'wasit']
+--------------------------------------
+Hasil Prancis Vs Polandia: Les Bleus Menang 3-1, Lolos ke Perempatfinal
+langsung, kesempatan, ganda, pertandingan, hiburan, ski, gor, mi, s, w, reli, ry, kir
+['prancis', 'gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'piala_dunia', 'wasit', 'pertandingan']
+--------------------------------------
+Tottenham Vs Portsmouth: Harry Kane Loloskan The Lilywhites
+mi, s, w, ry, kir, tunggal
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang']
+--------------------------------------
+Polandia Vs Arab Saudi: Lewandowski Cs Menang 2-0
+langsung, pemain, kesempatan, hidup, pertandingan, ski, mi, s, w, ry, kir
+['gol', 'menit', 'argentina', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'wasit', 'pertandingan']
+--------------------------------------
+Piala AFF 2022: Kamboja Lumat Brunei Darussalam 5-1
+langsung, aksi, menembus, pertandingan, meluncur, mi, s, w, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'peluang', 'serangan', 'indonesia', 'wasit', 'pertandingan']
+--------------------------------------
+Korea Selatan Vs Portugal: Comeback, Son Heung-min dkk Lolos ke 16 Besar
+aksi, pemain, cepat, pertandingan, mi, s, w, arena, ry
+['gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang', 'serangan', 'wasit', 'pertandingan']
+--------------------------------------
+Liverpool Vs Leicester: 2 Gol Bunuh Diri Menangkan The Reds
+langsung, aksi, cepat, menembus, pertandingan, ski, mengumpan, embung, meluncur, mi, s, w, arena, tangkis, ry, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'skor', 'gawang', 'serangan', 'pertandingan']
+--------------------------------------
+Prancis Vs Polandia: Giroud Bawa Les Bleus Unggul 1-0 di Babak I
+ski, gor, mi, s, w, reli, ry, kir
+['prancis', 'gol', 'menit', 'babak', 'kotak_penalti', 'gawang', 'peluang']
+--------------------------------------
+Babak I Filipina Vs Indonesia: Skuad Garuda Unggul 2-0
+voli, pemain, ganda, pertandingan, ski, tinju, mi, s, w, nari, ry, bina, kir
+['gol', 'menit', 'babak', 'kotak_penalti', 'peluang', 'indonesia', 'pertandingan']
+--------------------------------------
+Kontroversi Oktober 2022: Fajar/Rian Juara, eh Dibilang dari Malaysia
+tampil, langsung, ganda, putra, acara, medali, mi, s, w, fia, arena, tangkis, medal
+['indonesia']
+--------------------------------------
+Jadwal IBL 2023: Mulai Dari Bali 14 Januari 2023 dan Berlangsung Sebanyak 8 Series
+langsung, kekuatan, pertandingan, mi, s, w, nari, arena
+['indonesia', 'pertandingan']
+--------------------------------------
+Nova Widianto Resmi Dapat Kepercayaan BAM, Jajaran Pelatih Malaysia Cita Rasa Indonesia
+langsung, pemain, sea, ganda, putra, kompetisi, mi, latihan, s, w, tangkis, bina, tunggal
+['memiliki', 'pelatih', 'indonesia']
+--------------------------------------
+Resmi Gabung Jajaran Pelatih Bulutangkis Malaysia, Nova Widianto Jadi Trending Topik Twitter
+bulutangkis, langsung, pemain, ganda, putra, kompetisi, mi, latihan, s, w, tangkis, bina, tunggal
+['pelatih', 'indonesia']
+--------------------------------------
+Goh Liu Ying Sambut Nova Widianto, Harapan Baru Bagi Ganda Campuran Malaysia
+turnamen, langsung, veteran, pemain, pensiun, ganda, ski, mi, s, w, arena, badminton
+['pelatih', 'indonesia']
+--------------------------------------
+Daftar Tim Peserta Liga Futsal Profesional Indonesia 2023: Cosmo JNE Punya Pemain hingga Jersey Baru
+tampil, langsung, menduduki, kompetisi, acara, meluncur, mi, s, w, futsal
+['pelatih', 'indonesia', 'liga']
+--------------------------------------
+Klub Dewa United Basketball Resmi Pindah Kandang ke Banten di IBL 2023, Perbasi Tangerang Semringah
+atlet, langsung, olahraga, mi, s, w, ry, industri, wisata
+['memiliki', 'olahraga']

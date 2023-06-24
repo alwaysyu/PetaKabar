@@ -1,0 +1,760 @@
+--------------------------------------
+Dirut Tempo: Digitalisasi Media, Upaya Ekonomi Sirkular Sekaligus untuk Demokratisasi
+hari, waktu, sk, grasi
+['acara', 'jakarta', 'digital']
+--------------------------------------
+Kunci Jawaban PKN Kelas 9 Halaman 136 Semester 2: Permasalahan Sosial Budaya, Ekonomi, dan Gender
+halaman, sk, masyarakat, berlakunya, munculnya, hak, berlaku, mata
+['dunia', 'pendidikan', 'kelas', 'sosial']
+--------------------------------------
+Ikhwal Bulu Mata Palsu, Awalnya Alat Bantu Pekerja Seks
+catatan, resmi, perlengkapan, informasi, ekspor, pusat, badan, diperhitungkan, angkutan, mata, angkut
+['pekerja', 'dunia', 'produk', 'perempuan', 'pusat']
+--------------------------------------
+Mengenal Penyakit Alzheimer, Gejala, dan Pengobatannya
+pt, informasi, badan, hari, waktu, mengalami, memilik, konsumsi, bahan, asupan, spasial, kegiatan, sk, merek, memenuhi, penilai, ditanda, dialami, aktivitas, agunan, tugas, medis
+['keluarga', 'kegiatan', 'kondisi', 'meningkatkan', 'kepala', 'pendidikan', 'kerja', 'rumah', 'sosial', 'universitas', 'memiliki']
+--------------------------------------
+35 Film Terbaru yang Tayang di Bioskop Tahun 2023 dan Informasi Lengkapnya
+pt, terbaru, informasi, pusat, hari, waktu, kekuatan, mengalami, mencegah, memilik, bahan, berca, mutu, upeti, sk, merek, diusir, stis, wto, aksinya, perbuatan, mata, uang, pialang, angkut
+['keluarga', 'kondisi', 'presiden', 'jalan', 'laut', 'dunia', 'negeri', 'sekolah', 'kepala', 'warga', 'lingkungan', 'energi', 'hidup', 'juta', 'rumah', 'perempuan', 'mendorong', 'membantu', 'kesehatan', 'memiliki']
+--------------------------------------
+Filsafat Adalah: Tokoh, Manfaat, Pandangan, dan Cabang Ilmu
+pt, dikit, informasi, hari, waktu, pemerintah, memilik, kritik, terkandung, meliputi, sk, masyarakat, rasio, merek, dijadikan, stis, aktivitas
+['hukum', 'dunia', 'pendidikan', 'lingkungan', 'bidang', 'ilmu', 'hidup', 'politik', 'pelatihan', 'manusia', 'sosial', 'memiliki']
+--------------------------------------
+Individu Adalah: Ciri, Aspek, dan Karakter
+pt, resesi, efektif, kekuatan, turun, memilik, bahan, meliputi, beli, masyarakat, menimbulkan, rasio, memenuhi, dorongan, logis, dialami, aktivitas, uang
+['keluarga', 'kondisi', 'mencapai', 'pendidikan', 'lingkungan', 'hidup', 'memiliki']
+--------------------------------------
+Realisme Adalah: Pengertian, Sejarah dan Cirinya
+ditampilkan, hari, tol, memilik, kritik, bahan, sk, masyarakat, merek, waran, stis, logis, mata, uang
+['pekerja', 'dunia', 'pendidikan', 'bidang', 'politik', 'perempuan', 'daerah', 'sosial', 'universitas', 'memiliki']
+--------------------------------------
+Kehidupan Manusia Purba pada Masa Bercocok Tanam
+hari, waktu, mengalami, menerapkan, memilik, bahan, beli, masyarakat, merek, ternak, kud, mata, tugas
+['keluarga', 'nasional', 'ketua', 'kerja', 'hidup', 'jakarta', 'rumah', 'perempuan', 'manusia', 'memiliki']
+--------------------------------------
+Berbaktinya Amel Rawat Ayah yang Strok Seorang Diri: Kita Bantu, Yuk
+informasi, hari, buruh, sk, mata, tugas, rupiah, donasi
+['kondisi', 'jalan', 'buruh', 'negeri', 'sekolah', 'warga', 'kelas', 'hidup', 'rumah', 'kesehatan', 'sosial']
+--------------------------------------
+Kisah Amel Rawat Ayah Penderita Stroke Seorang Diri, Yuk Kita Bantu!
+informasi, hari, buruh, mata, tugas, rupiah, donasi
+['kondisi', 'jalan', 'buruh', 'negeri', 'sekolah', 'warga', 'kelas', 'hidup', 'rumah', 'jawa', 'kesehatan', 'sosial']
+--------------------------------------
+Relawan Jokowi Balas Sindiran PDIP 'Asal Bapak Senang' soal Acara di GBK
+halaman, catatan, terkait, kritik, kegiatan, sk, merek, hak
+['kegiatan', 'presiden', 'terkait', 'acara', 'energi', 'digital', 'jokowi', 'pembangunan']
+--------------------------------------
+Perselisihan-Faktor Ekonomi Penyebab Utama Perceraian di Surabaya Meningkat
+pt, mengalami, perselisihan, hak
+['perekonomian', 'mencapai']
+--------------------------------------
+Teks Editorial: Pengertian, Ciri-ciri, dan Struktur Penulisan
+resmi, memilik, sk, masyarakat, meneg, memenuhi, logis, mata
+['pendidikan', 'kementerian', 'politik', 'sosial', 'memiliki']
+--------------------------------------
+Terungkap! Orang Roma Tempo Dulu Nonton Gladiator Sambil Ngemil
+hari, terkait, waktu, prediksi, pemerintah, memilik, sk, merek, uang, tugas, selat
+['sektor', 'terkait', 'dunia', 'acara', 'warga', 'nomor', 'wisata', 'memiliki']
+--------------------------------------
+Masyarakat Toraja Akan Rayakan 110 Tahun Injil Masuk Toraja Tahun 2023
+pt, kegiatan, masyarakat, merek
+['kegiatan', 'pekerja', 'layanan', 'acara', 'warga', 'ketua', 'pendidikan', 'hidup', 'rumah', 'kesehatan', 'sosial']
+--------------------------------------
+Kisah Wartono, Petani Blora Jadi Atlet Lari Demi Kejar Cuan
+halaman, informasi, hari, memulih, ternak, mata
+['keluarga', 'kondisi', 'perekonomian', 'acara', 'warga', 'juta', 'rumah', 'daerah', 'jawa', 'sosial']
+--------------------------------------
+Penumpang Bandara Hang Nadim Batam Naik 39,4% Selama Libur Nataru
+pt, persen, mengalami, menerapkan, sk, pulih
+['persen', 'perekonomian', 'jakarta']
+--------------------------------------
+PAN: Formula E Bisa Jadi Legacy Heru Budi Jika Berjalan Lagi
+berita, halaman, catatan, persero, kekurangan, memilik, firma, kegiatan, masyarakat, apresiasi, mata, mobil
+['kegiatan', 'listrik', 'jalan', 'kerja', 'nomor', 'jakarta', 'gubernur', 'daerah', 'pusat', 'memiliki']
+--------------------------------------
+Divonis 3,5 Tahun Bui, Bupati Koltim Andi Merya Pikir-pikir Ajukan Banding
+badan, terkait, waktu, pengajuan, bahan, sk, meneg, hak, melanggar, usd, rupiah, suap
+['keluarga', 'undang', 'terkait', 'nasional', 'hukum', 'negeri', 'ketua', 'nomor', 'korupsi', 'kementerian', 'juta', 'jakarta', 'miliar', 'pusat', 'pasal']
+--------------------------------------
+Bupati Koltim Divonis 3,5 Tahun Bui di Kasus Suap Eks Dirjen Kemendagri
+badan, pengajuan, bahan, hak, melanggar, usd, suap
+['undang', 'nasional', 'hukum', 'negeri', 'ketua', 'nomor', 'korupsi', 'kementerian', 'juta', 'jakarta', 'miliar', 'pasal']
+--------------------------------------
+Kronologi Bus Unri Kecelakaan Beruntun di Sumbar, Faktor Rem Blong
+pt, mengalami, sk, tugas, angkut, laju
+['mahasiswa', 'kawasan', 'universitas']
+--------------------------------------
+Mengintip Isi Suvenir Tamu Siraman Erina Calon Istri Kaesang
+hari
+['keluarga', 'acara', 'daerah', 'fakultas']
+--------------------------------------
+Ini Isi Suvenir Tamu Siraman Erina Calon Istri Kaesang
+berita, hari, sk
+['presiden', 'daerah', 'fakultas', 'jokowi']
+--------------------------------------
+Jadi Sorotan, Rumah Mewah Ibu Eny Diserbu Warga Bikin Konten Medsos
+berita, halaman, merek
+['jalan', 'warga', 'nomor', 'rumah', 'sosial']
+--------------------------------------
+DPRD Jatim Sahkan Perda Tenaga Keperawatan
+memilik, pengesahan, prov, tunjangan, mutu, disahkan, sk, masyarakat, merek, meneg, hak, mata, tugas
+['meningkatkan', 'warga', 'ketua', 'pelatihan', 'gubernur', 'daerah', 'jawa', 'membantu', 'kesehatan', 'pasal', 'memiliki']
+--------------------------------------
+4 Sedekah yang Paling Utama Menurut Hadits Nabi SAW, Apa Saja?
+mencegah, firma, zakat, sk, dijadikan, perbuatan
+['keluarga', 'kondisi', 'kerja', 'manusia']
+--------------------------------------
+Modus Pengedar di Sukabumi Selipkan Sabu di Bilah Bambu
+hari, beli, masyarakat, merek, mengamankan
+['terkait', 'pelaku', 'kerja', 'perempuan']
+--------------------------------------
+PKS Harap Jadi Pihak Terkait di Gugatan Sistem Pemilu Bareng 7 Parpol
+halaman, terkait, porsi, sk, rasio, merek, hak, logis, berlaku
+['undang', 'terkait', 'pemilu', 'ketua', 'jakarta', 'partai']
+--------------------------------------
+Perjuangan Warga Tinggal di Desa 'Jalan Neraka' Cianjur
+terbaru, informasi, turun, sk, grasi, penilai, mata, mobil
+['kondisi', 'jalan', 'warga', 'lingkungan', 'kementerian', 'daerah', 'jawa', 'pembangunan', 'sosial']
+--------------------------------------
+Aksi Ekstrem Perajin Terompet Reog Menjilat Bara Api
+pt, hari, sk, ketelitian, mata
+['warga']
+--------------------------------------
+12 Film Bioskop Tayang Januari 2023, Horor Indonesia Mendominasi!
+pt, hari, mengalami, memilik, bahan, sk, merek, diusir, stis, mata, pialang, angkut
+['keluarga', 'kondisi', 'dunia', 'negeri', 'warga', 'rumah', 'membantu', 'kesehatan', 'memiliki']
+--------------------------------------
+Video Lama Gangster Surabaya Beredar Resahkan Warga, Polisi Cari Pengunggahnya
+informasi, terkait, prov, sk, masyarakat, munculnya, hak, pemkot
+['terkait', 'warga', 'kesehatan', 'sosial']
+--------------------------------------
+Duh! Masih Banyak Pemotor saat CFD Jalan Ir Juanda Solo
+informasi, hari, penguatan, rugi, sk, masyarakat, hak, aktivitas, tugas
+['jalan', 'meningkatkan', 'warga', 'kawasan']
+--------------------------------------
+Silmy Karim Dilantik Jadi Dirjen Imigrasi Awal Januari 2023
+terkait, firma, rinci, grasi
+['terkait', 'bidang']
+--------------------------------------
+Dua Pemuda di Pasangkayu Curi 23 Sapi Warga Ditangkap
+pt, informasi, firma, beli, sk, ternak, hak, perbuatan, mata, uang, desakan
+['kondisi', 'warga', 'pelaku']
+--------------------------------------
+PLN Diminta Terus Genjot Rasio Elektrifikasi Usai Dapat Tambahan PMN
+persen, sk, masyarakat, rasio, apresiasi
+['listrik', 'persen', 'perekonomian', 'nasional', 'meningkatkan', 'negeri', 'warga', 'mendorong', 'pembangunan']
+--------------------------------------
+Eks Menteri ATR Ferry Mursyidan Baldan Meninggal, Haru Terasa di Rumah Duka
+dilansir, hari, kedatangan, kurs, uang
+['menteri', 'jalan', 'pemilu', 'nasional', 'dunia', 'sandiaga', 'kepala', 'warga', 'ketua', 'pendidikan', 'kerja', 'mahasiswa', 'bidang', 'politik', 'jakarta', 'rumah', 'jokowi', 'jawa', 'partai', 'sosial', 'universitas']
+--------------------------------------
+Isi Suvenir Prosesi Siraman Erina Calon Istri Kaesang Pangarep
+hari
+['keluarga', 'presiden', 'acara', 'daerah', 'fakultas', 'jokowi']
+--------------------------------------
+Kabar Duka, Eks Menteri ATR Ferry Mursyidan Baldan Meninggal Dunia
+dilansir, hari, uang
+['menteri', 'pemilu', 'nasional', 'dunia', 'sandiaga', 'kepala', 'ketua', 'pendidikan', 'kerja', 'mahasiswa', 'bidang', 'politik', 'jakarta', 'jokowi', 'jawa', 'partai', 'sosial', 'universitas']
+--------------------------------------
+Cerita Macaulay Culkin Tolak Main Home Alone Baru Meski Dibayar Rp 49 M
+terbaru, mengalami, kritik, merek, hak
+['juta', 'rumah', 'miliar']
+--------------------------------------
+Misa Natal 2022 di Gereja Ganjuran, Umat Dilarang Bawa Tas Punggung
+hari, menerapkan, mematuhi, rinci, masyarakat, pulih, mata, tugas
+['kondisi', 'ketua', 'jawa', 'kesehatan']
+--------------------------------------
+Ganjar Pranowo Isyaratkan Beri Lampu Hijau Perayaan Tahun Baru
+hari, terkait, sk, masyarakat, ketertiban, uang
+['kondisi', 'terkait', 'acara', 'ganjar', 'gubernur', 'daerah', 'jawa']
+--------------------------------------
+Gerakan Senyap ASS Mutasi Besar-besaran Pejabat Pemprov Sulsel di Awal Tahun
+pt, halaman, dagang, resmi, lembaga, hari, digabung, firma, bahan, prov, sk, diasumsikan, kelembagaan, uang
+['provinsi', 'meningkatkan', 'kepala', 'kerja', 'lingkungan', 'nomor', 'hidup', 'gubernur', 'daerah']
+--------------------------------------
+Update: Gunung Semeru Kembali Erupsi, Jalur Lumajang-Malang Ditutup
+resmi, pusat, hari, sk, masyarakat, merek, aktivitas, mata, tugas, fasilitas
+['kondisi', 'sektor', 'warga', 'rumah', 'jawa', 'pusat']
+--------------------------------------
+Hari Bhakti Transmigrasi 2022: Tema dan Sejarah Peringatan 12 Desember
+resmi, hari, terkait, dicetuskan, publik, sk, grasi, merek, hak
+['keluarga', 'presiden', 'menteri', 'terkait', 'dunia', 'kepala', 'kementerian', 'jawa', 'pembangunan']
+--------------------------------------
+Hari Sejarah Nasional yang Tak Lepas dari Seminar 1957
+resmi, waktu, tol, bahan, kegiatan, sk, masyarakat, menyusun, komprehensif, merek, dijadikan, uang
+['kegiatan', 'nasional', 'lokal', 'negeri', 'sekolah', 'daerah', 'manusia', 'sosial']
+--------------------------------------
+RK Capres Paling Diterima di Survei SRS, PAN: Layak Didorong di 2024
+halaman, waktu, rinci, publik, menanggulangi, beli
+['presiden', 'nasional', 'kepala', 'ketua', 'gubernur', 'mendorong', 'daerah', 'jawa', 'kesehatan', 'partai']
+--------------------------------------
+Tuntutan 20 Tahun Penjara ke Henry Surya Sebab Ribuan Orang Trauma
+mengalami, memilik, bahan, rugi, beli, menimbulkan, merek, penggelapan, melanggar, perbuatan, penipuan
+['hukum', 'korban', 'perbankan', 'negeri', 'koperasi', 'nomor', 'jakarta', 'triliun', 'miliar', 'pasal', 'memiliki']
+--------------------------------------
+Kondisi Miris Rumah Mewah Bu Eny Awal Dibersihkan: Bau, Dapur Berserakan
+berita, halaman, hari, sarana, hak, uang, tugas
+['kondisi', 'ketua', 'jakarta', 'rumah']
+--------------------------------------
+Cara Aldila Jelita Tepis Cibiran Netizen soal Open Donasi Indra Bekti
+pt, informasi, hari, terkait, mengalami, pulih, merek, hak, mata, donasi
+['keluarga', 'kondisi', 'terkait', 'kawasan', 'jakarta', 'kesehatan', 'pusat']
+--------------------------------------
+Tangan Terbuka Partai Kakbah untuk Sandiaga
+dilansir, resmi, porsi, dicetuskan, sk, masyarakat, dijadikan, munculnya, meneg
+['sandiaga', 'acara', 'ketua', 'wisata', 'jakarta', 'jokowi', 'jawa', 'partai']
+--------------------------------------
+Jaksa Agung Pamer Kepercayaan Publik Meningkat Sepanjang 2022
+halaman, persen, lembaga, memilik, publik, masyarakat, hak, pesat, apresiasi, tugas
+['persen', 'presiden', 'hukum', 'meningkatkan', 'mencapai', 'kerja', 'korupsi', 'politik', 'jokowi', 'memiliki']
+--------------------------------------
+Dipasang Box Culvert, Jalan Darurat Nganjuk-Bojonegoro Belum Bisa Dilalui
+bahan, rekanan, angkutan, masyarakat, hak, aktivitas, mata, angkut, selat
+['pekerja', 'jalan', 'perekonomian', 'warga', 'ketua']
+--------------------------------------
+Jubir Jelaskan Pasal Demo di KUHP Baru yang Mengandung Ancaman Bui
+berita, rugi, pengenaan, sk, masyarakat, menimbulkan, mitigasi, meneg, hak, melanggar, ketertiban, aktivitas, berlaku, perbuatan, fasilitas
+['jalan', 'hukum', 'pelaku', 'mahasiswa', 'pasal']
+--------------------------------------
+Jumlah Perceraian di Surabaya Melonjak Sejak Pandemi Berakhir
+mengalami, penetapan, perselisihan, sk, stis
+['rumah']
+--------------------------------------
+Eks Menteri ATR Ferry Meninggal Dunia, Ditemukan di Dalam Mobil
+informasi, hari, mata, uang, mobil
+['menteri', 'jalan', 'pemilu', 'nasional', 'dunia', 'sandiaga', 'acara', 'kepala', 'ketua', 'pendidikan', 'kerja', 'mahasiswa', 'bidang', 'politik', 'jakarta', 'jokowi', 'jawa', 'partai', 'sosial', 'universitas']
+--------------------------------------
+Profil Alprih Priyono Eks Asisten Panji yang Tewas Digigit King Kobra
+informasi, badan, jengkel, waktu, memilik, mata, medis
+['dunia', 'sekolah', 'warga', 'ilmu', 'rumah', 'daerah', 'memiliki']
+--------------------------------------
+Kawasan Sarinah Mulai Dipadati Warga Jelang Malam Pergantian Tahun Baru 2023
+waktu, sk, mobil
+['jalan', 'warga', 'kawasan', 'jakarta', 'rumah', 'pusat']
+--------------------------------------
+Kemendes Gelar Upacara Tabur Bunga di Komplek Makam Pionir Transmigrasi
+waktu, mengalami, memilik, kegiatan, sk, grasi, merek, hak, mata
+['kegiatan', 'dunia', 'korban', 'provinsi', 'lokal', 'negeri', 'lingkungan', 'bidang', 'kementerian', 'daerah', 'jawa', 'pembangunan', 'memiliki']
+--------------------------------------
+Pembangunan Pelabuhan Patimban Dilanjut, Ada Dermaga Terminal Kendaraan
+pusat, ditanda, logis, apresiasi, mata
+['kegiatan', 'laut', 'nasional', 'kementerian', 'juta', 'jakarta', 'jawa', 'pembangunan', 'pusat']
+--------------------------------------
+Kadis PTSP NTB Sebut Penambangan Emas oleh PT STM Ramah Lingkungan
+persen, terkait, sk, masyarakat, mata
+['ton', 'persen', 'terkait', 'perusahaan', 'kepala', 'warga', 'lingkungan', 'kementerian', 'miliar']
+--------------------------------------
+Cerita Kadisdik Sulsel 4 Kali Dibujuk Gubernur untuk Jadi Pj Bupati Takalar
+halaman, persen, resmi, pemerintah, prov, beli, sk, hak, tugas
+['persen', 'sektor', 'pemilu', 'negeri', 'kepala', 'pendidikan', 'kerja', 'kementerian', 'rumah', 'gubernur', 'daerah']
+--------------------------------------
+Polri Gelar Police Art Festival, Diikuti Penyandang Disabilitas-Seniman Jalanan
+pt, hari, sarana, publik, kegiatan, sk, masyarakat, disediakan, petisi, percepatan, apresiasi
+['kegiatan', 'lokal', 'kepala', 'lingkungan', 'bidang', 'jakarta', 'pusat']
+--------------------------------------
+Sandiaga Ngaku Masih Kader, Gerindra Tegaskan Prabowo Capres Tunggal
+dilansir, terkait, memilik, mutu, sk, munculnya, meneg, hak
+['terkait', 'sandiaga', 'acara', 'ketua', 'wisata', 'jakarta', 'jawa', 'partai', 'memiliki']
+--------------------------------------
+Cak Imin Silaturahmi dengan Nahdliyyin Sragen: Kita Harus Solid!
+pt, lembaga, hari, kekuatan, bahan, sk, masyarakat, stis, logis, mata, uang
+['nasional', 'ketua', 'pendidikan', 'bidang', 'politik', 'partai']
+--------------------------------------
+Cak Imin: Banyak yang Cemburu dan Iri ke PKB
+persen, kekuatan, kegiatan, sk, masyarakat, hak, mata
+['kegiatan', 'persen', 'pemilu', 'acara', 'kepala', 'ketua', 'hidup', 'politik', 'global', 'daerah', 'jawa', 'partai']
+--------------------------------------
+KPK Ajak Tahanan Insaf dan Kooperatif di Momen Natal 2022
+berita, pt, rinci, merek, dijadikan, hak, perbuatan, uang, fasilitas, fasilitasi
+['keluarga', 'hukum', 'pelaku', 'korupsi', 'rumah', 'pusat']
+--------------------------------------
+Komnas HAM Dukung Sejumlah Pasal RKUHP yang Dinilai Pro-HAM, Apa Saja?
+efektif, mplik, publik, penuntutan, sk, menimbulkan, merek, melanggar, apresiasi, desakan
+['kondisi', 'presiden', 'hukum', 'ketua', 'pelaku', 'kerja', 'jakarta', 'pusat', 'pasal', 'sosial']
+--------------------------------------
+Jelang Akhir Tahun, Turis Diving di Pantai Tulamben Malah Anjlok 40%
+persen, dikit, hari, mengalami, turun, sk, aktivitas, mata
+['kondisi', 'persen', 'perekonomian', 'terkait', 'wisatawan', 'mencapai']
+--------------------------------------
+Survei Kolasse: Prabowo Paling Dikenal di Jogja-Ganjar Paling Disukai
+terbaru, persen, hari, terkait, menyertakan, porsi, sk, masyarakat
+['kondisi', 'persen', 'presiden', 'terkait', 'pemilu', 'nasional', 'sandiaga', 'mencapai', 'politik', 'ganjar', 'sosial']
+--------------------------------------
+MUI Jabar: Tahun Baru Jadi Momen Membangun Kerukunan
+masyarakat, merek
+['meningkatkan', 'jawa']
+--------------------------------------
+Fakta Manusia Silver: Fenomena Ekonomi dan Fatwa Haram MUI
+badan, hari, memilik, bahan, beli, masyarakat, aksinya
+['daerah', 'minyak', 'manusia', 'memiliki']
+--------------------------------------
+Menghitung Pendapatan Manusia Silver yang Geger Diharamkan MUI
+dikit, informasi, badan, hari, waktu, bahan, angkutan, masyarakat, memenuhi, ketertiban, aktivitas, perbuatan, mata, angkut
+['keluarga', 'kondisi', 'hukum', 'mencapai', 'hidup', 'minyak', 'manusia']
+--------------------------------------
+Sosok Ferry Mursyidan Baldan: Eks Ketum HMI, Politikus hingga Jadi Menteri
+hari, memilik, uang
+['menteri', 'pemilu', 'nasional', 'dunia', 'sandiaga', 'kepala', 'ketua', 'pendidikan', 'mahasiswa', 'bidang', 'politik', 'jakarta', 'jawa', 'partai', 'sosial', 'universitas', 'memiliki']
+--------------------------------------
+Ferry Mursyidan Baldan Tutup Usia
+hari, uang
+['menteri', 'pemilu', 'nasional', 'dunia', 'kepala', 'ketua', 'pendidikan', 'kerja', 'mahasiswa', 'bidang', 'politik', 'jakarta', 'jokowi', 'jawa', 'partai', 'sosial', 'universitas']
+--------------------------------------
+Mantan Menteri ATR Ferry Mursyidan Baldan Meninggal Dunia
+hari, uang
+['menteri', 'pemilu', 'nasional', 'dunia', 'sandiaga', 'kepala', 'ketua', 'pendidikan', 'kerja', 'mahasiswa', 'bidang', 'politik', 'jakarta', 'jokowi', 'jawa', 'partai', 'sosial', 'universitas']
+--------------------------------------
+Mari Bantu Kakek Slamet, Penderita Anemia Akut yang Kerja Serabutan
+informasi, hari, mengalami, ditebus, beli, sk, mata, ditanggung, donasi
+['keluarga', 'kondisi', 'jalan', 'layanan', 'hidup', 'rumah', 'membantu', 'kesehatan', 'sosial', 'kerja']
+--------------------------------------
+Segudang Pekerjaan Rumah di Balik Megahnya Masjid Al Jabbar
+dikit, resmi, diperhatikan, perlengkapan, pusat, hari, waktu, tol, memilik, prov, kegiatan, banyaknya, masyarakat, merek, disediakan, aktivitas, timbul, mata, tugas, timbulnya, mobil, pembayar
+['kegiatan', 'kondisi', 'jalan', 'provinsi', 'lokal', 'warga', 'kawasan', 'wisata', 'tol', 'rumah', 'gubernur', 'mendorong', 'triliun', 'jawa', 'pusat', 'memiliki']
+--------------------------------------
+Masjid ala Timur Tengah Baitul Mu'min Tuban Juara 1 Terbersih-Sehat se-Jatim
+resmi, hari, waktu, sarana, sk, masyarakat, dijadikan, hak, apresiasi, mata
+['nasional', 'provinsi', 'meningkatkan', 'ketua', 'lingkungan', 'mendorong', 'daerah', 'miliar', 'jawa', 'pembangunan']
+--------------------------------------
+Teror Gangster Surabaya, Kombinasi Masalah Ekonomi dan Pembuktian Diri
+hari, tol, kriminalitas, masyarakat, merek, munculnya, logis, berlaku
+['kondisi', 'jalan', 'hukum', 'menengah', 'warga', 'hidup', 'kesehatan', 'sosial']
+--------------------------------------
+Bayi yang Dibuang di Menanggal Surabaya Tewas karena Dibekap Ibunya
+hari, waktu, mata, uang, medis
+['warga', 'kerja', 'rumah', 'perempuan']
+--------------------------------------
+Canggih! Kini Ada Teknologi Baru di TV Raksasa Bundaran HI
+content, memilik, uang
+['meningkatkan', 'produk', 'jakarta', 'digital', 'memiliki']
+--------------------------------------
+Donald Pandiangan, Robin Hood Indonesia yang Jadi Google Doodle Hari Ini
+berita, hari, waktu, memilik, berkiprah, banyaknya, sk
+['nasional', 'dunia', 'acara', 'perusahaan', 'kerja', 'memiliki']
+--------------------------------------
+Belum Main, Ronaldo Sudah Sukses Bikin Al Nassr 'Libas' Tim Top Dunia
+kedatangan, prediksi, melonjak, mutu, sk, stis, mata
+['dunia', 'mencapai', 'juta']
+--------------------------------------
+Musim Hujan Bikin Turis Ogah Diving ke Pantai Tulamben
+persen, dikit, hari, waktu, mengalami, turun, sk, aktivitas
+['kondisi', 'persen', 'perekonomian', 'terkait', 'wisatawan', 'bali']
+--------------------------------------
+Ada 4.160 Janda Baru di Banyuwangi Jelang Akhir Tahun 2022
+persen, firma, pengajuan, sk, hak
+['persen', 'mencapai', 'mendorong']
+--------------------------------------
+Temui Rhoma Irama, Sandiaga Ngaku Tak Bahas Pilpres 2024
+waktu, beli, sk, meneg
+['sandiaga', 'ilmu']
+--------------------------------------
+Sandiaga Siap Jika Dipinang Jadi Capres, PPP Bakal Usung?
+halaman, penguatan, sk, merek, hak, uang
+['presiden', 'sandiaga', 'acara', 'ketua', 'ganjar', 'perempuan', 'daerah', 'partai']
+--------------------------------------
+Erick Thohir soal Jadi Cawapres Ganjar: Saya Fokus BUMN
+berita, terkait, resesi, masyarakat, dorongan
+['presiden', 'menteri', 'jalan', 'terkait', 'bumn', 'meningkatkan', 'politik', 'jakarta', 'ganjar', 'gubernur', 'jawa', 'partai']
+--------------------------------------
+Menkumham: Sudah Saatnya Kita Punya KUHP Karya Anak Bangsa
+halaman, terkait, memilik, kritik, pengesahan, disahkan, sk, masyarakat, hak, apresiasi
+['kondisi', 'menteri', 'undang', 'terkait', 'nasional', 'hukum', 'global', 'membantu', 'sosial', 'memiliki']
+--------------------------------------
+Erick Thohir Silaturahmi dengan Tokoh Sunda di Bandung
+terbaru, hari, resesi, kedatangan, turun, memilik, beli, sk, meneg
+['kondisi', 'presiden', 'menteri', 'bumn', 'nasional', 'kepala', 'kelas', 'politik', 'rumah', 'daerah', 'jawa', 'memiliki']
+--------------------------------------
+Sumanto, Si Pencuri-Pemakan Mayat Ternyata jadi Inspirasi Pasal KUHP Baru
+publik, eksplisit, angkut
+['hukum', 'negeri', 'jawa', 'pasal']
+--------------------------------------
+Ada Wacana Skema Baru Tarif KRL, Operator Buka Suara
+terkait, waktu, bahan, beli, sk, masyarakat, meneg, hak
+['menteri', 'terkait', 'meningkatkan', 'nomor', 'kelas', 'subsidi', 'kementerian']
+--------------------------------------
+PDIP Tetap Pakai Nomor Urut 3, Gibran: Semoga Nomor Keberuntungan
+terkait, merek, logis, uang
+['presiden', 'jalan', 'terkait', 'pemilu', 'ketua', 'nomor', 'bidang', 'politik', 'jakarta', 'daerah', 'jokowi', 'partai']
+--------------------------------------
+Kritik Tajam PDIP soal Acara Relawan Jokowi di GBK
+catatan, terkait, turun, kritik, kegiatan, sk, merek, meneg, hak, mata, uang, mobil
+['kegiatan', 'presiden', 'terkait', 'dunia', 'acara', 'energi', 'politik', 'jakarta', 'digital', 'jokowi', 'pembangunan', 'pusat']
+--------------------------------------
+BUMN Produksi 11,7 Juta Ton Pupuk di 2022, Tahun Ini Naik Lagi
+pt, bahan, penunjang, estimasi, sk, memenuhi, abri, optimal
+['ton', 'perusahaan', 'meningkatkan', 'kerja', 'produk', 'global', 'juta', 'digital', 'bumn']
+--------------------------------------
+Ada Samin Tan di Balik Ladang Tambang yang Diincar Bukit Asam
+catatan, terkait, mengalami, rugi, beli, rasio, waran, hak, berlaku, uang, suap
+['jalan', 'terkait', 'hukum', 'perusahaan', 'energi', 'kementerian', 'jakarta', 'miliar', 'membantu', 'pusat']
+--------------------------------------
+BEI Siapkan Papan Pemantauan Khusus, Ini Fungsinya buat Investor
+dagang, catatan, informasi, terkait, menerapkan, dicatatkan, pencatatan, memilik, sk, disediakan, hak, saham, memenuhi, dialami
+['kondisi', 'terkait', 'saham', 'perusahaan', 'meningkatkan', 'nomor', 'memiliki']
+--------------------------------------
+Ribuan Pria di Blitar Resmi Menduda di Awal 2023
+dikit, catatan, resmi, memicu, mengalami, pengajuan, bahan, mutu, sk, munculnya, hak
+['kenaikan', 'kelas', 'perempuan']
+--------------------------------------
+Pembangunan Jalan-Jembatan Kab Mojokerto Habiskan Rp 120 M, Ini Rinciannya
+persen, mengalami, bahan, kegiatan, sk, masyarakat, hak, mata, uang
+['kegiatan', 'kondisi', 'persen', 'jalan', 'perekonomian', 'lokal', 'kepala', 'miliar', 'pembangunan']
+--------------------------------------
+Maling Terekam CCTV Gasak Tas dan HP di Kampus C Unair Tertangkap
+sk, sekuriti, uang
+['korban', 'negeri', 'warga', 'pelaku', 'rumah', 'universitas']
+--------------------------------------
+Pengaruh Medsos Sumbang Penyebab Tingginya Perceraian di Banyuwangi
+persen, mutu, banyaknya, sk, hak, aktivitas
+['persen', 'kenaikan', 'mencapai', 'mendorong', 'sosial']
+--------------------------------------
+Pengadilan Agama Surabaya Izinkan 10 Pemohon Poligami Selama 2022
+mengalami, turun, memilik, pengajuan, mutu, sk, merek, hak
+['menengah', 'warga', 'memiliki']
+--------------------------------------
+Jumlah Perceraian di Surabaya 2022 Naik, Ekonomi-Selingkuh Jadi Pemicunya
+berita, terkait, mengalami, perselisihan, rinci, mutu, sk, hak
+['terkait', 'mencapai']
+--------------------------------------
+KPAI Duga Ada Eksploitasi Seksual Anak di Kasus Prostitusi Indekos Depok
+pusat, turun, penguatan, masyarakat, hak, apresiasi, perbuatan, tugas, mengamankan, eksploitasi
+['keluarga', 'korban', 'kepala', 'pendidikan', 'bidang', 'rumah', 'mendorong', 'daerah', 'pusat']
+--------------------------------------
+Duh! Sejumlah Fasilitas di 'Maliboro' Tasik Banyak yang Rusak
+dagang, informasi, hari, prediksi, publik, banyaknya, sk, sewa, hak, sorotan, fasilitas
+['jalan', 'sekolah', 'kepala', 'warga', 'kerja', 'kawasan', 'bidang', 'mikro', 'gubernur', 'pembangunan']
+--------------------------------------
+Kota Solo Jadi Tuan Rumah Pekan Olahraga dan Seni Seabad NU
+resmi, hari, terkait, perizinan, kegiatan, sk, hak, apresiasi
+['kegiatan', 'jalan', 'terkait', 'dunia', 'acara', 'ketua', 'mahasiswa', 'kementerian', 'rumah']
+--------------------------------------
+Heru Budi Kumpulkan Semua Kepala Dinas DKI Bahas Ekonomi 2023 hingga KJP
+hari, terkait, memilik, penganggaran, kegiatan, sk, didiskusikan, uang
+['kegiatan', 'perekonomian', 'terkait', 'kepala', 'jakarta', 'gubernur', 'memiliki']
+--------------------------------------
+Heru Budi Cek Fasilitas Pengelolaan Sampah Rp 1 T yang Diluncurkan Anies
+meninjau, pengadaan, sk, fasilitas, pengolahan
+['perusahaan', 'kepala', 'kerja', 'lingkungan', 'energi', 'hidup', 'jakarta', 'gubernur', 'jawa']
+--------------------------------------
+Hoaks dan Polarisasi Lewat Phising Diprediksi Marak Jelang Pemilu 2024
+berita, prediksi, sk, hak, mata
+['pemilu', 'dunia', 'ketua', 'politik']
+--------------------------------------
+Analisis Krimonolog soal Ritual Misterius di Kasus Keluarga Kalideres
+pt, terbaru, halaman, terkait, kekuatan, tol, memilik, kegiatan, merek, hak, aktivitas
+['keluarga', 'kegiatan', 'terkait', 'dunia', 'korban', 'hidup', 'jakarta', 'membantu', 'universitas', 'memiliki']
+--------------------------------------
+Perampokan Rumdin Walkot Blitar, Kriminolog Duga Ada Orang Dalam Sakit Hati
+hari, terkait, merek, pesaing, berlaku, mata, tugas
+['terkait', 'hukum', 'pelaku', 'politik', 'rumah', 'pasal', 'universitas']
+--------------------------------------
+Stigma Narkoba di Kampung Bahari Bikin Warga Susah Diterima Kerja
+hari, terkait, tol, turun, beli, kegiatan, sk, masyarakat, merek, hak
+['kegiatan', 'terkait', 'hukum', 'perusahaan', 'warga', 'jakarta', 'kerja']
+--------------------------------------
+Istri Bunuh Suami di Kaltim, Pelaku Dendam Dituduh Selingkuh dengan Menantu
+berita, hari, menghabisi, sk, merek, meneg, hak, mata
+['jalan', 'korban', 'pelaku', 'perempuan']
+--------------------------------------
+Sisi Lain Desa Tempat 'Jalan Neraka' di Cianjur Berada
+turun, sk, grasi, penilai, mata
+['kondisi', 'jalan', 'warga', 'lingkungan', 'kementerian', 'daerah', 'jawa', 'pembangunan', 'sosial']
+--------------------------------------
+5 Fakta Pernikahan Sultan di Jember dengan Mahar-Hadiah Rp 1 Miliar
+hari, mutu, sk, merek, apresiasi, mata, mobil
+['mencapai', 'warga', 'miliar']
+--------------------------------------
+Babak Baru Perseteruan Warga Johor-Walkot Bobby soal Median Jalan
+layang, hari, terkait, waktu, sk, merek, petisi, melanggar
+['presiden', 'jalan', 'terkait', 'hukum', 'negeri', 'warga', 'wisata', 'daerah', 'jokowi']
+--------------------------------------
+Damkar-PPSU Kembali Bersihkan Rumah Mewah Ibu Eny yang Terbengkalai
+berita, halaman, hari, sarana, kurs, sk, aktivitas, tugas, mobil
+['jalan', 'warga', 'nomor', 'jakarta', 'rumah']
+--------------------------------------
+Rumah Mewah Ibu Eny Akan Dikunci Usai Dibersihkan, Air-Listrik Dipasang
+berita, halaman, hari, terkait, sarana, kegiatan, pulih, hak, memenuhi, tugas, pembayar
+['kegiatan', 'listrik', 'terkait', 'warga', 'ketua', 'kerja', 'jakarta', 'rumah', 'kesehatan']
+--------------------------------------
+Pemprov Sulbar Terima Penghargaan Kenaikan Indeks Daya Saing Digital
+pt, prov, sk, masyarakat
+['kondisi', 'provinsi', 'perusahaan', 'negeri', 'kepala', 'kenaikan', 'bali', 'kerja', 'kementerian', 'jakarta', 'gubernur', 'daerah', 'digital', 'jawa']
+--------------------------------------
+Kapolda Sumut: Perayaan Tahun Baru Kondusif-Terima Kasih Masyarakat
+terkait, masyarakat, ketertiban, mengamankan
+['kondisi', 'terkait', 'daerah']
+--------------------------------------
+Ada Kasus Polisi Jual Istri, Komnas Perempuan Ungkap Data Kekerasan
+berita, pt, dilansir, dikit, catatan, lembaga, terkait, penindakan, publik, sk, aparat, meneg, hak, menegakkan, apresiasi, uang, tugas, rupiah
+['undang', 'terkait', 'hukum', 'korban', 'layanan', 'kepala', 'pelaku', 'juta', 'rumah', 'perempuan', 'daerah', 'jawa', 'transaksi']
+--------------------------------------
+Polisi Ajak Rekan Setubuhi Istri, Komnas Perempuan Beri Data Mencengangkan
+pt, dilansir, dikit, catatan, lembaga, terkait, penindakan, publik, sk, aparat, meneg, menegakkan, apresiasi, uang, tugas, rupiah
+['undang', 'terkait', 'hukum', 'korban', 'layanan', 'kepala', 'pelaku', 'juta', 'rumah', 'perempuan', 'daerah', 'jawa', 'transaksi']
+--------------------------------------
+Fakta Baru Keluarga Kalideres dari soal Ritual hingga Mantra
+halaman, terkait, memilik, sk, aktivitas
+['keluarga', 'terkait', 'korban', 'jakarta', 'rumah', 'memiliki']
+--------------------------------------
+Dua Warga Banyuwangi Ditangkap Saat Angkut Pupuk Subsidi Secara Ilegal
+dagang, resmi, angkutan, beli, sk, masyarakat, merek, melanggar, mata, pengecer, angkut, mengamankan
+['sektor', 'warga', 'subsidi', 'pasal']
+--------------------------------------
+Lokasi Ramai Jadi Sasaran Pria Bandung Bikin Video Intip CD Wanita
+waktu, memilik, konsumsi, berca, angkutan, sk, merek, aksinya, mata, angkut, desakan
+['kondisi', 'korban', 'pelaku', 'hidup', 'perempuan', 'sosial', 'memiliki']
+--------------------------------------
+Istri Habisi Nyawa Suami di Samarinda Ngaku Diancam Mau Dibunuh Korban
+berita, hari, merek, mata
+['kondisi', 'jalan', 'korban', 'pelaku']
+--------------------------------------
+Motif Ekonomi Jadi Faktor Kriminalitas di Kabupaten Bogor Meningkat
+persen, kriminalitas, sk, masyarakat
+['kondisi', 'persen', 'kenaikan']
+--------------------------------------
+Polisi Selidiki Aduan Dinsos soal Dugaan Eksploitasi Anak di Mataram
+berita, resmi, terkait, sk, merek, hak, mata, eksploitasi
+['keluarga', 'terkait', 'hukum', 'kepala', 'pasal', 'sosial']
+--------------------------------------
+Rumah Rusak Berat, Korban Gempa Cianjur Dapat Bantuan Rp 50 Juta
+halaman, hari, terkait, pembangunannya, kegiatan, sk, masyarakat, aktivitas, mata
+['kegiatan', 'presiden', 'terkait', 'warga', 'kawasan', 'juta', 'jakarta', 'rumah', 'gubernur', 'jokowi', 'jawa', 'pembangunan', 'korban']
+--------------------------------------
+Kisi-kisi Reshuffle Menteri dari Parpol Pro Jokowi
+halaman, resmi, pemerintah, meninjau, sk, sorotan
+['presiden', 'menteri', 'ketua', 'bidang', 'jokowi', 'jawa', 'partai']
+--------------------------------------
+PKB Dengar Jokowi Reshuffle Kabinet di Januari, Pangan-Ekonomi Disorot
+hari, pemerintah, meninjau, sk, sorotan
+['presiden', 'menteri', 'ketua', 'bidang', 'jokowi']
+--------------------------------------
+Presiden Jokowi Berharap UKM Kembali Semarak Usai PPKM Dicabut
+dagang, pencabutan, meninjau, aktivitas
+['presiden', 'jokowi']
+--------------------------------------
+Jokowi Resmikan Tol Pekanbaru-Bangkinang, Optimis Ekonomi Makin Baik
+pt, resmi, hari, tol, sk, masyarakat, mobil
+['presiden', 'menteri', 'jalan', 'perekonomian', 'bumn', 'produk', 'tol', 'gubernur', 'triliun', 'jokowi']
+--------------------------------------
+Jokowi Resmikan Tol Pekanbaru-Bangkinang 30 Km, Habiskan Rp 4,8 T
+resmi, hari, waktu, tol, memilik, prov, sk, masyarakat, mobil
+['presiden', 'jalan', 'provinsi', 'kerja', 'produk', 'tol', 'triliun', 'jokowi', 'memiliki']
+--------------------------------------
+Penampakan Lesung yang Digunakan Istri di Samarinda Bunuh Suami Secara Sadis
+berita, menghabisi, sk, merek, hak, mata, mengamankan
+['jalan', 'dunia', 'korban', 'kepala', 'pelaku']
+--------------------------------------
+Pria di Samarinda Tewas Mengenaskan Dipukul Istri Pakai Lesung 10 Kali
+sk, merek, hak, mata, mengamankan
+['jalan', 'dunia', 'korban']
+--------------------------------------
+Taruhan Laga Piala Dunia Berujung Pria di Sitaro Sulut Bakar Rumah Sendiri
+hari, tol, memilik, rugi, mutu, sk, aparat, perbuatan, mata, mengindahkan
+['kondisi', 'dunia', 'mencapai', 'warga', 'pelaku', 'juta', 'rumah', 'minyak', 'memiliki']
+--------------------------------------
+Eksistensi Prostitusi Makam Kembang Kuning Surabaya
+terkait, waktu, mencegah, sk, pendataan, merek, meneg, aktivitas, penjagaan, mata, tugas, mobil, selat
+['terkait', 'menengah', 'kepala', 'warga', 'kelas', 'kesehatan', 'sosial']
+--------------------------------------
+Gibran Dicolek Bupati Lumajang, Mau Lobi Jalan Tol Sambil Ngopi
+dilansir, halaman, terkait, tol, sorotan, selat
+['presiden', 'jalan', 'terkait', 'hukum', 'kepala', 'kawasan', 'tol', 'kementerian', 'pembangunan']
+--------------------------------------
+Reaksi Ganjar Saat Ditanya soal Nama Capres di Kantong Megawati
+waktu, resesi, mutu, sk, meneg, uang
+['presiden', 'ketua', 'ganjar', 'gubernur', 'jawa', 'partai']
+--------------------------------------
+293 Ribu Orang Tercatat Libur Nataru ke Bali via Pelabuhan Ketapang
+berita, persen, prediksi, diukur, rasio, stis, mobil
+['kondisi', 'persen', 'kenaikan', 'wisatawan', 'mencapai', 'bali']
+--------------------------------------
+MUI Jatim Sebut Nyawer Qariah Saat Baca Al-Qur'an Masih Diperdebatkan
+berita, firma, sk, merek, dijadikan, apresiasi
+['acara', 'ketua', 'upah']
+--------------------------------------
+Relawan Ganjar Gelar Sosialisasi Keselamatan Berkendara ke Sopir Truk
+hari, mencegah, memilik, mematuhi, sk, masyarakat, mata, mobil
+['keluarga', 'kondisi', 'ton', 'jalan', 'acara', 'ketua', 'bidang', 'jakarta', 'ganjar', 'memiliki']
+--------------------------------------
+Sambut Awal Tahun, Relawan Ganjar Gelar Doa Bersama di Boyolali
+hari, kekuatan, kegiatan, sk, masyarakat, apresiasi
+['kegiatan', 'kondisi', 'pemilu', 'acara', 'warga', 'ketua', 'politik', 'ganjar', 'jawa']
+--------------------------------------
+Respons Keresahan Petani NTT, Relawan Ganjar Beri Bantuan Bibit-Pupuk
+waktu, memilik, kegiatan, masyarakat, keresahan, merek, bertani, hak
+['kegiatan', 'koperasi', 'ganjar', 'daerah', 'membantu', 'kesehatan', 'memiliki']
+--------------------------------------
+Sempat Ambles, Jalan Munjul-Picung Pandeglang Kini Sudah Bisa Dilintasi
+resmi, masyarakat, aktivitas, mata, uang
+['jalan']
+--------------------------------------
+Resmi Beroperasi, Tol Bengkulu-Taba Penanjung Gratis!
+resmi, hari, waktu, prediksi, tol, memilik, sk, masyarakat, rasio, mata, fasilitas
+['jalan', 'nasional', 'sekolah', 'kawasan', 'tol', 'gubernur', 'memiliki']
+--------------------------------------
+Kilas Balik RS Wisma Atlet: 2020 Tangani Pasien COVID, Akhir 2022 Ditutup
+halaman, resmi, informasi, hari, terkait, meninjau, rasio, merek, uang, fasilitas, mobil
+['presiden', 'terkait', 'menengah', 'warga', 'kawasan', 'kementerian', 'jakarta', 'rumah', 'jokowi', 'jawa', 'kesehatan', 'pusat']
+--------------------------------------
+ARB Berjilid-jilid, Saham GOTO Anjlok (Lagi) Sampai Mentok
+dagang, hari, mengalami, turun, merek, saham, ojek, aksinya
+['saham', 'mencapai', 'global', 'juta', 'digital', 'miliar', 'transaksi']
+--------------------------------------
+Geliat Perajin Besek di Bener Purworejo, Bertahan Sejak Era Kolonial
+halaman, hari, turun, dipasarkan, sk, dijadikan, perkakas, menggeluti, mata
+['acara', 'meningkatkan', 'lokal', 'warga', 'lingkungan', 'wisata', 'jakarta', 'rumah', 'jawa']
+--------------------------------------
+PPP Jatim: Tanda-tanda Sandiaga Uno Mau Gabung Sudah Lama
+berita, resmi, mutu, beli, merek, uang
+['sandiaga', 'acara', 'ketua', 'daerah', 'jawa', 'pembangunan', 'partai']
+--------------------------------------
+Sandiaga Uno Blak-blakan Awal Munculnya Isu Dirinya Menyeberang ke PPP
+berita, sk, munculnya, meneg
+['pemilu', 'sandiaga', 'acara', 'ketua', 'wisata', 'politik', 'jawa', 'pembangunan', 'partai']
+--------------------------------------
+Sandiaga Cerita Awal Munculnya Isu Nyeberang dari Gerindra ke PPP
+dilansir, sk, munculnya, meneg
+['sandiaga', 'acara', 'ketua', 'wisata', 'jawa', 'partai']
+--------------------------------------
+104 Sapi di Boyolali Kena LSD Sejak Oktober, Disnakan: Penyebarannya Sporadis
+halaman, hari, waktu, sk, pendataan, ternak, hak, mata
+['kepala', 'mencapai', 'warga']
+--------------------------------------
+Ada 6.055 Kasus Cerai di Brebes Sepanjang 2022, Didominasi Faktor Ekonomi
+perselisihan, sk
+['mencapai']
+--------------------------------------
+Penjambret di Jakpus Nekat Nyebur ke Kali, Ujungnya Tetap Diciduk Polisi
+hari, sk, merek, desakan
+['kondisi', 'jalan', 'korban', 'warga', 'pelaku', 'kawasan', 'jakarta', 'pusat', 'pasal', 'sosial']
+--------------------------------------
+Arti Fakir dan Perbedaannya dengan Miskin, Seperti Apa?
+memilik, firma, hartanya, mutu, sk, merek, memenuhi, perbuatan, fasilitas
+['laut', 'mencapai', 'bidang', 'memiliki']
+--------------------------------------
+Relawan Ganjar Gelar Sunat Massal untuk Anak Kurang Mampu di Ciamis
+kegiatan, sk, masyarakat, hak, medis
+['keluarga', 'kegiatan', 'acara', 'ganjar', 'daerah', 'jawa', 'membantu', 'sosial']
+--------------------------------------
+Antusias Warga Sumedang Ikut Gerakan 5 Ribu Pertama Bagi Korban Gempa Cianjur
+dagang, kekurangan, memilik, kegiatan, sk, merek, hak, donasi
+['kegiatan', 'kondisi', 'korban', 'warga', 'ketua', 'rumah', 'membantu', 'memiliki']
+--------------------------------------
+Pedagang Lato-lato Ketiban Berkah Tahun Baru 2023
+dagang, hari, pencabutan, sk, aparat, memenuhi, berlaku, rupiah
+['kegiatan', 'kondisi', 'presiden', 'perekonomian', 'sekolah', 'warga', 'rumah']
+--------------------------------------
+Anies Baswedan Didemo Saat Kunjungi Solo, Relawan: Senyumin Saja
+kedatangan, memilik, sk, masyarakat, santunan
+['politik', 'jakarta', 'daerah', 'jawa', 'sosial', 'memiliki']
+--------------------------------------
+Salam Metal! Alasan PDIP Enggan Kocok Ulang Nomor Urut Parpol 2024
+terkait, hak, logis, uang
+['jalan', 'terkait', 'pemilu', 'nomor', 'bidang', 'politik', 'jakarta', 'partai']
+--------------------------------------
+Tugu Leuit di Subang, Bukti Kota Nanas Jadi Lumbung Padi Nasional
+pusat, hari, bahan, masyarakat, mata
+['nasional', 'bidang', 'daerah', 'beras', 'pembangunan', 'pusat']
+--------------------------------------
+1.850 Pasutri di Ponorogo Pilih Cerai, Mayoritas karena Masalah Ekonomi
+berita, turun, memilik, rinci, merek
+['kondisi', 'sekolah', 'perempuan', 'memiliki']
+--------------------------------------
+Adegan Serial The Simpsons yang Diprediksi Terjadi di Tahun 2023
+berita, ditampilkan, terkait, prediksi, konsumsi, masyarakat, merek, teluk
+['kondisi', 'presiden', 'terkait', 'dunia', 'lingkungan', 'manusia', 'kesehatan']
+--------------------------------------
+Lokasi Polsek Astana Anyar, TKP Kejadian Bom Bunuh Diri
+informasi, mengalami, masyarakat, menimbulkan, mata
+['jalan', 'dunia', 'korban', 'pelaku', 'kawasan', 'jawa']
+--------------------------------------
+Misteri Benda Pusaka di Balik Kasus Anak Bunuh-Kubur Ayah di Indramayu
+berita, dikit, kekurangan, hari, mengalami, memilik, beli, sk, merek, bekal, mata, tugas
+['kondisi', 'korban', 'warga', 'pendidikan', 'pelaku', 'lingkungan', 'ilmu', 'rumah', 'perempuan', 'jawa', 'memiliki']
+--------------------------------------
+Tawuran Bersenjata Tajam di Johar Baru Jakpus, 6 Orang Ditangkap!
+hari, masyarakat, merek, dijadikan, hak, timbul
+['keluarga', 'jalan', 'korban', 'warga', 'pelaku', 'kawasan', 'jakarta', 'rumah', 'pusat', 'sosial']
+--------------------------------------
+Tren Pernikahan Anak di Banyuwangi Menurun, 24 Dispensasi Nikah Ditolak
+persen, tol, turun, pengajuan, bahan, merevisi, sk, merek, berlaku
+['kondisi', 'persen', 'sektor', 'kerja', 'perempuan']
+--------------------------------------
+Twibbon Hari Bhakti Transmigrasi 2022, Cara Pakai dan Serba-serbinya
+resmi, informasi, hari, publik, grasi, hak, tersimpan
+['keluarga', 'presiden', 'nasional', 'kepala', 'kementerian', 'daerah', 'jawa', 'pembangunan', 'sosial']
+--------------------------------------
+Doa di Malam Natal Agar Cianjur Bangkit
+hari, waktu, mengalami, pulih, merek, hak, aktivitas
+['korban', 'warga', 'membantu']
+--------------------------------------
+UMP Banten 2023 Naik 6,4%, Disnaker Sarankan Ini ke Pemkab-Pemkot
+pt, persen, prov, penetapan, buruh, ketetapan, sk, menyusun, grasi, lainya
+['persen', 'pekerja', 'nasional', 'minimum', 'ump', 'provinsi', 'buruh', 'perusahaan', 'kepala', 'kenaikan', 'umk', 'kerja', 'nomor', 'bidang', 'upah', 'gubernur', 'sosial']
+--------------------------------------
+Lika-liku Penetapan UMK 2023 di Jawa Barat
+persen, resmi, terkait, mengalami, memilik, prov, penetapan, buruh, rinci, mutu, disahkan, sk, grasi, merek, penilai, dialami
+['persen', 'pekerja', 'terkait', 'minimum', 'provinsi', 'buruh', 'kepala', 'kenaikan', 'mencapai', 'umk', 'kerja', 'upah', 'gubernur', 'daerah', 'jawa', 'memiliki']
+--------------------------------------
+Batu dan Petasan Jadi Senjata Saat Kampung Bahari Digerebek Lagi
+hari, memilik, sk, aparat, merek, dilawan, tugas, angkut, mengamankan
+['korban', 'warga', 'jakarta', 'memiliki']
+--------------------------------------
+Viral Penipuan Modus Kirim APK di WA, Polisi Harap Korban Lapor
+dagang, terkait, kegiatan, masyarakat, hak, rekening, saldo, penipuan, imbauan
+['kegiatan', 'terkait', 'hukum', 'dunia', 'korban', 'perbankan', 'pelaku', 'jakarta', 'transaksi']
+--------------------------------------
+PPKM Dicabut, Wabup Blitar Imbau Warganya Tetap Jaga Prokes
+pusat, terkait, menerapkan, pencabutan, kegiatan, sk, masyarakat, menimbulkan, mencabut, hak
+['kegiatan', 'presiden', 'terkait', 'meningkatkan', 'negeri', 'warga', 'ketua', 'kementerian', 'mendorong', 'daerah', 'jokowi', 'kesehatan', 'pusat']
+--------------------------------------
+PPP dan Sandiaga Dinilai Saling Membutuhkan untuk Pilpres 2024
+badan, mutu, grasi, bekal
+['sandiaga', 'meningkatkan', 'ketua', 'politik', 'ganjar', 'pembangunan', 'partai']
+--------------------------------------
+Hakordia 2022, Ma'ruf Amin: Korupsi Musuh Utama Bangsa Seperti COVID-19
+pt, dilansir, resmi, pusat, menerapkan, pemerintah, memilik, masyarakat, pulih, munculnya, uang
+['presiden', 'acara', 'negeri', 'lingkungan', 'bidang', 'korupsi', 'hidup', 'politik', 'global', 'jakarta', 'pusat', 'sosial', 'memiliki']
+--------------------------------------
+Ma'ruf Amin: Dunia Tak Baik-baik Saja Akibat Perang dan Kerusakan Iklim
+kemaslahatan, ketenteraman, bahan, merumuskan, sk, mata
+['presiden', 'dunia', 'bali', 'kerja', 'bidang', 'global', 'rumah']
+--------------------------------------
+Harapan Walkot Eri Cahyadi 2023: Turunkan Kemiskinan-Ekonomi Surabaya Pulih!
+berita, pt, kekuatan, tol, memilik, sk, laju
+['perekonomian', 'terkait', 'meningkatkan', 'kenaikan', 'wisatawan', 'warga', 'nomor', 'memiliki']
+--------------------------------------
+Penyebab Istri Bunuh Suami di Samarinda Dijerat Pasal Pembunuhan Berencana
+memilik, sk, aparat, hak, mata
+['kondisi', 'jalan', 'dunia', 'korban', 'kepala', 'ketua', 'pelaku', 'hidup', 'rumah', 'pasal', 'memiliki']
+--------------------------------------
+Istri Bunuh Suami di Samarinda Dijerat Pasal Pembunuhan Berencana
+memilik, sk, mata
+['jalan', 'dunia', 'korban', 'kepala', 'pelaku', 'hidup', 'rumah', 'pasal', 'memiliki']
+--------------------------------------
+5 Fakta Istri Bunuh Suami di Samarinda Usai Dituduh Selingkuh dengan Menantu
+halaman, hari, terkait, menghabisi, hak, mata, uang
+['jalan', 'terkait', 'dunia', 'korban', 'kepala', 'pelaku']
+--------------------------------------
+7 Ribu Pohon Ditanam di Batukaru, Hutan Dijaga dengan Hukum Adat
+pt, badan, menerapkan, dicantumkan, sarana, beli, kegiatan, penanaman, sk, masyarakat, hak, kud, aktivitas, mata, ditanggung
+['kegiatan', 'kondisi', 'hukum', 'lokal', 'bali', 'ketua', 'pelaku', 'lingkungan', 'kawasan', 'sosial']
+--------------------------------------
+Ratu Plaza Riwayatmu Kini
+halaman, dagang, dikit, informasi, pusat, hari, beli, banyaknya, sewa, stis, aktivitas, keringanan
+['kondisi', 'jalan', 'kawasan', 'hidup', 'juta', 'jakarta', 'pusat']
+--------------------------------------
+Apa Fungsi Zakat dalam Ekonomi Islam?
+terkait, memilik, zakat, sk, masyarakat, merek, keberlangsungan, ternak, hak, memenuhi
+['kondisi', 'jalan', 'sektor', 'perekonomian', 'hidup', 'perempuan', 'membantu', 'memiliki']
+--------------------------------------
+Mengapa Koperasi Sekolah Tidak Disahkan sebagai Badan Hukum?
+badan, memilik, kegiatannya, kegiatan, disahkan, sk, mata
+['kegiatan', 'kondisi', 'terkait', 'hukum', 'meningkatkan', 'sekolah', 'kepala', 'mencapai', 'pendidikan', 'koperasi', 'lingkungan', 'memiliki']
+--------------------------------------
+Arti Ta'awun dalam Agama Islam dan Penjelasan Dalilnya
+pt, hari, tol, memilik, mutu, sk, masyarakat, aktivitas
+['sekolah', 'kerja', 'kelas', 'hidup', 'manusia', 'membantu', 'sosial', 'memiliki']
