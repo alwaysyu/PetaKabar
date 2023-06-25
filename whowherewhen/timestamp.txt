@@ -1,0 +1,7 @@
+0-19
+2 tn
+20-39
+1 tn
+40-59
+2 misidentified, 1 switch tgl and tahun (fixed)
+

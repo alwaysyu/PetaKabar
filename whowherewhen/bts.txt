@@ -1,0 +1,7 @@
+"pada"/ADP, "Senin"/PROPN, ","/PUNCT, "26"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT, "Laman"/PROPN
+","/PUNCT, "Minggu"/PROPN, ","/PUNCT, "25"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT,
+ ","/PUNCT, "Senin"/PROPN, ","/PUNCT, "5"/NUM, "Desember"/PROPN, "2022"/NUM, ","/PUNCT
+
+"ini"/DET, "Minggu"/PROPN, "("/PUNCT, "25"/NUM, "/"/PUNCT, "12"/NUM, ")"/PUNCT, "terjadi"/VERB,
+
+","/PUNCT, "Jumat"/PROPN, "malam"/NOUN, ","/PUNCT, "2"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT,
