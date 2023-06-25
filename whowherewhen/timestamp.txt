@@ -21,10 +21,10 @@ kesehatan 14 empty
 kriminalitas 1 empty
 olahraga 17 empty
 
-second iter
-bencana 
-ekonomi
-kecelakaan
-kesehatan
-kriminalitas
-olahraga
+second iter ( kurang 6 8 , check empty )
+bencana 4 fix tn
+ekonomi 6 fix tn
+kecelakaan 8 fix tn
+kesehatan 13 tn
+kriminalitas 0
+olahraga 15

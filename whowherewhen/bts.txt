@@ -4,15 +4,17 @@
 
 "ini"/DET, "Minggu"/PROPN, "("/PUNCT, "25"/NUM, "/"/PUNCT, "12"/NUM, ")"/PUNCT, "terjadi"/VERB,
 
-","/PUNCT, "Jumat"/PROPN, "malam"/NOUN, ","/PUNCT, "2"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT,
+","/PUNCT, "Jumat"/PROPN, "malam"/NOUN, ","/PUNCT, "2"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT, done
 
 ""dini""/ADJ, ""hari""/NOUN, ""tadi""/NOUN, "".""/PUNCT
 
-""22""/NUM, ""Desember""/PROPN, "",""/PUNCT, butuh ambil tahun pada teks
+""22""/NUM, ""Desember""/PROPN, "",""/PUNCT, butuh ambil tahun pada teks done
+
+""31""/NUM, ""Desember""/PROPN, "".""/PUNCT, done
 
 "",""/PUNCT, ""Jumat""/PROPN, "".""/PUNCT
 
-""/""/PUNCT, ""2022""/NUM, ""/""/PUNCT, ""12""/NUM, ""/""/PUNCT, ""14""/NUM, ""/""/PUNCT
+""/""/PUNCT, ""2022""/NUM, ""/""/PUNCT, ""12""/NUM, ""/""/PUNCT, ""14""/NUM, ""/""/PUNCT done
 
 
 
