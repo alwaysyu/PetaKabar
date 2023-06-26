@@ -16,5 +16,11 @@
 
 ""/""/PUNCT, ""2022""/NUM, ""/""/PUNCT, ""12""/NUM, ""/""/PUNCT, ""14""/NUM, ""/""/PUNCT done
 
+WHERE
+
+create bigrams done
+create trigrams done
+save indexes to exactly pinpoint location after finding Kecamatan, Kabupaten, Kota, Provinsi
+
 
 
