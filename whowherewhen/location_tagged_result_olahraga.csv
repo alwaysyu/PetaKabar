@@ -1,5 +1,5 @@
 ,new_kec,old_kec,new_kab,old_kab,new_prov,old_prov,berita
-8660,-,-,tangerang,surabaya,banten,jawa timur,"_KlubDewa United Basketball Resmi Pindah Kandang ke Banten, Perbasi Tangerang
+8660,tangerang,-,tangerang,surabaya,banten,jawa timur,"_KlubDewa United Basketball Resmi Pindah Kandang ke Banten, Perbasi Tangerang
 Semringah_  
   
 
@@ -237,7 +237,7 @@ MD - Mohammad Ahsan/Hendra Setiawan (Indonesia) vs Liu Yuchen/Ou Xuanyi
 __
 
  "
-8664,-,-,yogyakarta,-,di yogyakarta,bali,"\- Indonesian Basketball League (IBL) 2023 akan memasuki musim baru.
+8664,-,-,-,-,bali,bali,"\- Indonesian Basketball League (IBL) 2023 akan memasuki musim baru.
 
 Jadwal IBL 2023 dimulai dari series di Bali yang akan berlangsung pada tanggal
 14 Januari 2023 mendatang.
@@ -855,7 +855,7 @@ MUHAMMAD SYAIFULLOH
 : Messi Disebut sebagai Juru Selamat dalam Gereja Maradona, Begini Alasannya !
 
  "
-8672,-,bandung,yogyakarta,serang,di yogyakarta,banten,"Berikut sejarah, fungsi dan peran Perbasi sebagai Induk Organisasi Bola Basket
+8672,-,bandung,bandung,serang,jawa barat,banten,"Berikut sejarah, fungsi dan peran Perbasi sebagai Induk Organisasi Bola Basket
 di Indonesia.
 
 Induk Organisasi Bola Basket di Indonesia adalah Persatuan Bola Basket Seluruh
@@ -1022,7 +1022,7 @@ Hendra/Ahsan -- dan kemudian menjadi kampiun.
 \----
 
  "
-8675,-,-,malang,malang,jawa timur,jawa timur,"\-
+8675,-,-,-,malang,-,jawa timur,"\-
 
 Indonesia banyak memunculkan pelatih-pelatih hebat yang mampu mencetak
 pebulutangkis berprestasi di kancah dunia. Namun tak sedikit yang menyeberang
@@ -1696,7 +1696,7 @@ baru akan masuk ke gim untuk persiapan pertandingan pertama,"" Fadia menimpali.
   
 
  "
-8686,kuningan,-,kuningan,kuningan,jawa barat,jawa barat,"\-
+8686,-,-,kuningan,kuningan,jawa barat,jawa barat,"\-
 
 PP PBSI secara resmi mengumumkan Indonesia Masters 2023 hadir kembali di
 Istora Gelora Bung Karno (GBK). Turnamen BWF super 500 itu akan bergulir 24-29
@@ -1743,7 +1743,7 @@ Alfian/Muhammad Rian Ardianto. Sementara pada 2021, Merah Putih nirgelar.
   
 
  "
-8687,kuningan,-,kuningan,kuningan,jawa barat,jawa barat,"\-
+8687,-,-,kuningan,kuningan,jawa barat,jawa barat,"\-
 
 Kevin Sanjaya Sukamuljo/Marcus Fernaldi Gideon menanggapi perubahan kalender
 turnamen bulutangkis dunia yang tak lagi digelar secara cluster. Apa kata
@@ -1797,7 +1797,7 @@ kesempatan yang sama.
   
 
  "
-8688,-,bandung,bandung,serang,jawa barat,banten,"\-
+8688,-,bandung,-,serang,-,banten,"\-
 
 Persikabo 1973 gagal meraih kemenangan pertama mereka selama Liga 1 2022/2023
 digelar dengan sistem _bubble_. Mereka ditahan imbang Persib Bandung di
@@ -2609,7 +2609,7 @@ Syariah selalu punya rasa dan selera yang berbeda.
 , _Jurnalis Bisnis Indonesia_
 
  "
-8697,bantul,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
+8697,kediri,-,tabanan,makassar,bali,sulawesi selatan,"\-
 
 Dua bomber Borneo FC Matheus Pato dan Terens Puhiri diproyeksi bakal
 mempersulit lini belakang PSM Makassar saat bertemu di pekan ke-17 Liga 1
@@ -2679,7 +2679,7 @@ membayangi di posisi 3 dengan 31 poin, disusul Bali United di posisi 4 dengan
 [Gambas:Video 20detik]  
 
  "
-8698,cijulang,-,pangandaran,pangandaran,jawa barat,jawa barat,"\-
+8698,pangandaran,-,pangandaran,pangandaran,jawa barat,jawa barat,"\-
 
 Kabupaten Pangandaran kini punya stadion baru. Stadion ini berloksai di Dusun
 Nusawiru, Desa Cijulang, Kecamatan Cijulang, Kabupaten Pangandaran.
@@ -2820,7 +2820,7 @@ bola]. Licha [Lisandro Martinez] juga harus memahami bahwa pada tanggal 27
 Desember, Premier League kembali,"" jelasnya.
 
  "
-8701,tangerang,-,tangerang,tangerang,banten,banten,"\-
+8701,-,-,-,tangerang,-,banten,"\-
 
 Klub Liga 3 Adhyaksa Farmel FC punya target tampil di Liga 1 dalam dua tahun
 ke depan. Untuk mewujudkannya, sponsor baru pun digandeng.
@@ -3135,7 +3135,7 @@ selisih gol. Sementara Borneo FC turun ke posisi 4 dengan 32 poin.
 [Gambas:Video 20detik]  
 
  "
-8707,-,bandung,bandung,serang,jawa barat,banten,"\-
+8707,-,bandung,-,serang,-,banten,"\-
 
 Laga Persikabo 1973 vs Persib Bandung nihil gol pada babak pertama dalam
 lanjutan Liga 1 2022/2023 di Stadion Manahan, Solo, Sabtu (24/12/2022). Skor
@@ -3603,7 +3603,7 @@ badminton.
   
 
  "
-8715,-,-,medan,-,sumatera utara,-,"\-
+8715,-,-,-,-,-,-,"\-
 
 Pertandingan pertama Indonesia di Piala AFF 2022 menunjukkan hasil yang bagus.
 Indonesia menang 2-1 dari Kamboja pada laga perdana Grup A.
@@ -3739,7 +3739,7 @@ ditentukan lewat voting yang bisa diakses siapapun secara online.
 2022: Robert Lewandowski
 
  "
-8717,tangerang,-,tangerang,-,banten,bali,"\-
+8717,-,-,denpasar,-,bali,bali,"\-
 
 Indonesia Basketball League (IBL) musim 2023 akan dimulai 14 Januari
 mendatang. Kompetisi itu akan digelar di 8 kota dengan lebih banyak
@@ -3908,7 +3908,7 @@ Jakarta dan ada momentumnya,"" Junas mempertegas.
 [Gambas:Video 20detik]  
 
  "
-8720,-,-,tangerang,surabaya,banten,jawa timur,"\-
+8720,tangerang,-,tangerang,surabaya,banten,jawa timur,"\-
 
 Dewa United memutuskan pindah homebase dari Surabaya ke Tangerang di IBL 2023.
 Langkah mereka diharapkan dapat meningkatkan gairah olahraga basket di wilayah
@@ -4092,7 +4092,7 @@ Ritchie 88'), Joelinton.
 [Gambas:Video 20detik]  
 
  "
-8723,madiun,cina,madiun,bone,jawa timur,sulawesi selatan,"Daftar Isi
+8723,-,cina,madiun,bone,jawa timur,sulawesi selatan,"Daftar Isi
 
    Sejarah Sepak Bola 
    Sejarah Sepak Bola di Zaman Modern 
@@ -4616,7 +4616,7 @@ Pelatih: Bernardo Tavares
 [Gambas:Video 20detik]  
 
  "
-8728,lamongan,-,lamongan,lamongan,jawa timur,jawa timur,"\-
+8728,-,-,lamongan,lamongan,jawa timur,jawa timur,"\-
 
 Jika Anda memilih tidak luar kota namun tetep bisa menikmati akhir tahun
 dengan hemat dan senang, Alun-Alun Lamongan pilihannya. Di sekitar Alun-Alun
@@ -4739,7 +4739,7 @@ di waktu normal.
 [Gambas:Video 20detik]  
 
  "
-8730,-,-,yogyakarta,yogyakarta,di yogyakarta,di yogyakarta,"\-
+8730,-,-,-,yogyakarta,di yogyakarta,di yogyakarta,"\-
 
 Menjelang Indonesia Basketball League (IBL) musim 2023, West Bandits Solo
 telah resmi menggandeng Mansion Sports Entertainment Group (MSEG) sebagai
@@ -4791,7 +4791,7 @@ fondasi terjalinnya kesepakatan ini, yang diharapkan akan menambah bibit-bibit
 muda yang lahir untuk nantinya bisa mengharumkan nama Indonesia.
 
  "
-8731,sragen,-,sragen,-,jawa tengah,-,"\-
+8731,-,-,-,-,-,-,"\-
 
 Cucu pertama Presiden Joko Widodo (Jokowi), Jan Ethes Srinarendra, mengikuti
 exhibition bola basket Liga Solo bank BJB di Gor Sritex Arena untuk kelompok
@@ -4842,7 +4842,7 @@ ada,"" ucap Wahyu.
 [Gambas:Video 20detik]  
 
  "
-8732,sragen,-,sragen,-,jawa tengah,-,"\-
+8732,-,-,-,-,-,-,"\-
 
 Tak ada habisnya membicarakan aksi lucu cucu-cucu Presiden Jokowi. Mulai dari
 tingkah Al Nahyan saat di pesta pernikahan Kaesang dan Erina, hingga lucunya
@@ -4881,7 +4881,7 @@ ada,"" ucap Wahyu.
 [Gambas:Video 20detik]  
 
  "
-8733,sragen,-,sragen,-,jawa tengah,-,"\-
+8733,-,-,-,-,-,-,"\-
 
 Cucu pertama Presiden Joko Widodo (Jokowi), Jan Ethes Srinarendra, mengikuti
 exhibition bola basket Liga Solo bank BJB di Gor Sritex Arena untuk kelompok
@@ -4986,7 +4986,7 @@ rekor itu pada 15 Maret 2022.
 [Gambas:Video 20detik]  
 
  "
-8735,kuningan,-,kuningan,-,jawa barat,dki jakarta,"\-
+8735,-,-,jakarta barat,-,dki jakarta,dki jakarta,"\-
 
 PERBASI DKI Jakarta menggelar raker dengan Pengkot dan Pengkab PERBASI se-
 Jakarta. Program disusun untuk kemajuan basket Jakarta.
@@ -5118,7 +5118,7 @@ pertama buat kita semua, jadi Insya Allah, Indonesia bisa memberikan yang
 terbaik,"" kata Okto.
 
  "
-8737,tangerang,-,tangerang,tangerang,banten,banten,"\-
+8737,-,-,-,tangerang,-,banten,"\-
 
 Indonesia Patriots terus mengalami kemajuan jelang Indonesia Basketball League
 (IBL) 2023. Dari lima uji coba yang dilakukan, mereka hanya menelan satu
@@ -5273,7 +5273,7 @@ berikut:
    Upacara Hari Bakti PU ke-77 tahun 2022 pada 3 Desember 2022
 
  "
-8739,tangerang,-,tangerang,makassar,banten,sulawesi selatan,"\-
+8739,bantul,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
 
 PSM Makassar akan menghadapi laga berat melawan Borneo FC pada pekan terakhir
 putaran pertama Liga 1 2022/2023. Dari head to head kedua tim, Juku Eja
@@ -5634,7 +5634,7 @@ semangat,"" jelasnya.
 [Gambas:Video 20detik]  
 
  "
-8744,sleman,-,sleman,-,di yogyakarta,-,"\-
+8744,-,-,sleman,-,di yogyakarta,-,"\-
 
 Gawang Persis Solo bergetar saat laga baru berjalan dua menit. Brylian Aldama
 melesatkan tendangan jarak jauh hingga membentur mistar gawang.
@@ -5685,7 +5685,7 @@ WIB.
 [Gambas:Video 20detik]  
 
  "
-8745,sleman,-,sleman,surabaya,di yogyakarta,jawa timur,"\-
+8745,-,-,sleman,surabaya,di yogyakarta,jawa timur,"\-
 
 Tidak ada pemenang dalam lanjutan Liga 1 antara Persebaya Surabaya kontra
 Persis Solo. Duel berakhir imbang tanpa gol.
@@ -5743,7 +5743,7 @@ Fernando Rodriguez, Irfan Jauhari.
 [Gambas:Video 20detik]  
 
  "
-8746,bantul,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
+8746,-,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
 
 PSM Makassar akan menjalani laga berat menghadapi Borneo FC dalam lanjutan
 pekan ke-17 Liga 1 2022/2023. Juku Eja patut mewaspadai permainan cepat yang
@@ -5934,7 +5934,7 @@ ujar Erick.
 [Gambas:Video 20detik]  
 
  "
-8749,-,-,semarang,-,jawa tengah,-,"\-
+8749,-,-,-,-,bali,-,"\-
 
 PSIS Semarang akan bertanding melawan Bali United hari Kamis (22/12) besok di
 Stadion Manahan Solo. Kondisi pemain dan padatnya jadwal pertandingan menjadi
@@ -5986,7 +5986,7 @@ seorang pesepakbola senang kalau ada match day,"" imbuhnya.
 [Gambas:Video 20detik]  
 
  "
-8750,bantul,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
+8750,-,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
 
 Borneo FC harus kehilangan sang kapten Diego Michiels saat menghadapi PSM
 Makassar pada pekan ke-17 Liga 1 2022/2023. Absennya bek sayap Pesut Etam ini
@@ -6160,7 +6160,7 @@ _Duta Besar Republik Islam Iran untuk Indonesia_
  __
 
  "
-8752,tangerang,-,tangerang,tangerang,banten,banten,"\-
+8752,-,-,bantul,tangerang,di yogyakarta,banten,"\-
 
 Persib Bandung unggul 1-0 atas Persita Tangerang pada babak pertama dalam
 lanjutan Liga 1 2022/2023 di Stadion Sultan Agung, Bantul, Rabu (21/12/2022).
@@ -6267,7 +6267,7 @@ hal-hal yang tak boleh terjadi, ruang ganti mereka akan jauh lebih gembira
 daripada kami,"" imbuh pemain Skotlandia ini.
 
  "
-8754,makassar,-,makassar,-,sulawesi selatan,-,"\-
+8754,-,-,-,-,-,-,"\-
 
 Contoh kata kerja material dan relasional perlu diketahui agar dapat digunakan
 sesuai fungsinya ketika menulis sebuah kalimat. Berdasarkan fungsinya dalam
@@ -6598,7 +6598,7 @@ dengan 40 poin. _The Gunners_ berjarak tujuh angka dari pesaing terdekatnya,
 Newcastle United.
 
  "
-8759,indramayu,-,indramayu,indramayu,jawa barat,jawa barat,"\-
+8759,sindang,-,indramayu,indramayu,jawa barat,jawa barat,"\-
 
 Wawan Setiawan, pria berusia 35 tahun warga Desa Pabean Udik, Kecamatan
 Indramayu, Kabupaten Indramayu sedang berupaya mendongkrak jumlah pengikut di
@@ -6692,7 +6692,7 @@ panggung ke panggung hingga sempat mengikuti ajang audisi dangdut. Membuat nya
 bisa meraih penghargaan menyanyi di salah satu momen Hari Guru.
 
  "
-8760,-,bandung,bandung,serang,jawa barat,banten,"\-
+8760,-,bandung,-,serang,di yogyakarta,banten,"\-
 
 Prawira Harum Bandung terus berbenah untuk menatap kompetisi Indonesia
 Basketball League (IBL) 2023/2024. Tim basket Kota Bandung ini baru saja
@@ -6742,7 +6742,7 @@ Harum Bandung. Teddy menuturkan, masih ada kemungkinan Prawira akan menambah
 amunisi dengan merekrut pemain lain.
 
  "
-8761,tangerang,-,tangerang,makassar,banten,sulawesi selatan,"\-
+8761,bantul,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
 
 Gelandang PSM Makassar Kenzo Nambu semakin menyatu dengan rekannya usai
 mencetak 2 gol ke gawang PSIS Semarang dalam lanjutan pekan ke-16 Liga 1
@@ -6832,7 +6832,7 @@ jelasnya.
 [Gambas:Video 20detik]  
 
  "
-8763,cikole,cikole,sukabumi,sukabumi,jawa barat,jawa barat,"\-
+8763,cikembar,cikole,sukabumi,sukabumi,jawa barat,jawa barat,"\-
 
 Kabar duka masih menyelimuti pecinta reptil Panji Petualang. Salah satu mantan
 asistennya, Alprih Priyono meninggal dunia di RSUD Syamsudin usai dipatuk ular
@@ -6937,7 +6937,7 @@ dengan skor 2-0,"" pungkasnya.
 [Gambas:Video 20detik]  
 
  "
-8765,sampang,-,sampang,jakarta pusat,jawa timur,dki jakarta,"\-
+8765,-,-,bogor,jakarta pusat,jawa barat,dki jakarta,"\-
 
 Pertandingan Piala AFF 2022 antara Timnas Indonesia dan Kamboja akan digelar
 di Gelora Bung Karno, Jakarta Pusat hari ini. Pengendara diminta menghindari
@@ -7041,7 +7041,7 @@ Selanjutnya __
 [Gambas:Video 20detik]  
 
  "
-8767,lamongan,-,lamongan,lamongan,jawa timur,jawa timur,"\-
+8767,-,-,lamongan,lamongan,jawa timur,jawa timur,"\-
 
 Iptu Umbaran menjadi sorotan publik belakangan ini lantaran menyamar menjadi
 wartawan _TVRI_ selama 14 tahun. Iptu Umbaran ternyata pernah memenangi
@@ -7133,7 +7133,7 @@ bakal jumpa pasangan Indonesia Rehan Naufal Kusharjanto/Lisa Ayu Kusumawati.
 __
 
  "
-8769,bantul,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
+8769,-,-,bantul,makassar,di yogyakarta,sulawesi selatan,"\-
 
 PSM Makassar tidak akan diperkuat pilarnya Akbar Tanjung saat menghadapi
 Borneo FC dalam lanjutan pekan ke-17 Liga 1 2022/2023 akibat akumulasi kartu

@@ -28,3 +28,11 @@ kecelakaan 8 fix tn
 kesehatan 13 tn
 kriminalitas 0
 olahraga 15
+
+
+tooriginal
+if kec = kab sampang
+clean_koma
+
+
+apakah lebih baik isi namun salah untuk kasus tn
