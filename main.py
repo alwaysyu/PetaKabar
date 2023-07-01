@@ -5,40 +5,52 @@
 # from bencana.main.submodule.Severity import Severity
 
 from bencana.main.submodule.Classification import Classification as bencana_Classification
-from bencana.main.submodule.NER import NER as bencana_NER
-from bencana.main.submodule.QueryExpansion import QueryExpansion as bencana_QueryExpansion
+# from bencana.main.submodule.NER import NER as bencana_NER
+# from bencana.main.submodule.QueryExpansion import QueryExpansion as bencana_QueryExpansion
 # from bencana.main.submodule.ScrapProcess import ScrapProcess as bencana_ScrapProcess
 from bencana.main.submodule.Severity import Severity as bencana_Severity
+from bencana.main.submodule.What import What as bencana_What
+from bencana.main.submodule.WhoWhereWhen import WhoWhereWhen as bencana_WhoWhereWhen
 
 from ekonomi.submodule.Classification import Classification as ekonomi_Classification
-from ekonomi.submodule.NER import NER as ekonomi_NER
-from ekonomi.submodule.QueryExpansion import QueryExpansion as ekonomi_QueryExpansion
+# from ekonomi.submodule.NER import NER as ekonomi_NER
+# from ekonomi.submodule.QueryExpansion import QueryExpansion as ekonomi_QueryExpansion
 # from ekonomi.submodule.ScrapProcess import ScrapProcess as ekonomi_ScrapProcess
 from ekonomi.submodule.Severity import Severity as ekonomi_Severity
+from ekonomi.submodule.What import What as ekonomi_What
+from ekonomi.submodule.WhoWhereWhen import WhoWhereWhen as ekonomi_WhoWhereWhen
 
 from kecelakaan.submodule.Classification import Classification as kecelakaan_Classification
-from kecelakaan.submodule.NER import NER as kecelakaan_NER
-from kecelakaan.submodule.QueryExpansion import QueryExpansion as kecelakaan_QueryExpansion
+# from kecelakaan.submodule.NER import NER as kecelakaan_NER
+# from kecelakaan.submodule.QueryExpansion import QueryExpansion as kecelakaan_QueryExpansion
 # from kecelakaan.submodule.ScrapProcess import ScrapProcess as kecelakaan_ScrapProcess
 from kecelakaan.submodule.Severity import Severity as kecelakaan_Severity
+from kecelakaan.submodule.What import What as kecelakaan_What
+from kecelakaan.submodule.WhoWhereWhen import WhoWhereWhen as kecelakaan_WhoWhereWhen
 
 from kesehatan.main.submodule.Classification import Classification as kesehatan_Classification
-from kesehatan.main.submodule.NER import NER as kesehatan_NER
-from kesehatan.main.submodule.QueryExpansion import QueryExpansion as kesehatan_QueryExpansion
+# from kesehatan.main.submodule.NER import NER as kesehatan_NER
+# from kesehatan.main.submodule.QueryExpansion import QueryExpansion as kesehatan_QueryExpansion
 # from kesehatan.main.submodule.ScrapProcess import ScrapProcess as kesehatan_ScrapProcess
 from kesehatan.main.submodule.Severity import Severity as kesehatan_Severity
+from kesehatan.main.submodule.What import What as kesehatan_What
+from kesehatan.main.submodule.WhoWhereWhen import WhoWhereWhen as kesehatan_WhoWhereWhen
 
 from kriminalitas.Main.submodule.Classification import Classification as kriminalitas_Classification
-from kriminalitas.Main.submodule.NER import NER as kriminalitas_NER
-from kriminalitas.Main.submodule.QueryExpansion import QueryExpansion as kriminalitas_QueryExpansion
+# from kriminalitas.Main.submodule.NER import NER as kriminalitas_NER
+# from kriminalitas.Main.submodule.QueryExpansion import QueryExpansion as kriminalitas_QueryExpansion
 # from kriminalitas.Main.submodule.ScrapProcess import ScrapProcess as kriminalitas_ScrapProcess
 from kriminalitas.Main.submodule.Severity import Severity as kriminalitas_Severity
+from kriminalitas.Main.submodule.What import What as kriminalitas_What
+from kriminalitas.Main.submodule.WhoWhereWhen import WhoWhereWhen as kriminalitas_WhoWhereWhen
 
 from olahraga.submodule.Classification import Classification as olahraga_Classification
-from olahraga.submodule.NER import NER as olahraga_NER
-from olahraga.submodule.QueryExpansion import QueryExpansion as olahraga_QueryExpansion
+# from olahraga.submodule.NER import NER as olahraga_NER
+# from olahraga.submodule.QueryExpansion import QueryExpansion as olahraga_QueryExpansion
 # from olahraga.submodule.ScrapProcess import ScrapProcess as olahraga_ScrapProcess
 from olahraga.submodule.Severity import Severity as olahraga_Severity
+from olahraga.submodule.What import What as olahraga_What
+from olahraga.submodule.WhoWhereWhen import WhoWhereWhen as olahraga_WhoWhereWhen
 
 from typing import Union
 # from fastapi import FastAPI
@@ -199,7 +211,6 @@ from mysql.connector import errorcode
 # if __name__ == '__main__':
     # try:
         # 1 Proses scraping, inisiasi modul ScrapProcess
-if __name__ == '__main__':    
 
     # bencana_scrap = bencana_ScrapProcess()
     # bencana_process = Process(target=bencana_scrap.crawlNews)
@@ -234,52 +245,53 @@ if __name__ == '__main__':
 
     # 2 QE Expansion waht, jika hasil scraping success
     # print('2 Step Passed')
+if __name__ == '__main__':    
 
-    bencana_qe = bencana_QueryExpansion()
-    bencana_resultQE = bencana_qe.getWhatFromText("bencana apa yang terjadi")
+    bencana_what = bencana_What()
+    bencana_resultWhat = bencana_what.getWhat()
 
-    ekonomi_qe = ekonomi_QueryExpansion()
-    ekonomi_resultQE = ekonomi_qe.getWhatFromText("apa isi berita tersebut")
+    ekonomi_what = ekonomi_What()
+    ekonomi_resultWhat = ekonomi_what.getWhat()
 
-    kecelakaan_qe = kecelakaan_QueryExpansion()
-    kecelakaan_resultQE = kecelakaan_qe.getWhatFromText("apa sebenarnya kejadian kecelakaan yang terjadi diberita tersebut")
+    kecelakaan_what = kecelakaan_What()
+    kecelakaan_resultWhat = kecelakaan_what.getWhat()
 
-    kesehatan_qe = kesehatan_QueryExpansion()
-    kesehatan_resultQE = kesehatan_qe.getWhatFromText("kasus penyakit apa yang terjadi")
+    kesehatan_what = kesehatan_What()
+    kesehatan_resultWhat = kesehatan_what.getWhat()
 
-    kriminalitas_qe = kriminalitas_QueryExpansion()
-    kriminalitas_resultQE = kriminalitas_qe.getWhatFromText("kriminalitas apa yang terjadi")
+    kriminalitas_what = kriminalitas_What()
+    kriminalitas_resultWhat = kriminalitas_what.getWhat()
 
-    olahraga_qe = olahraga_QueryExpansion()
-    olahraga_resultQE = olahraga_qe.getWhatFromText("olahraga apa yang terjadi diberita tersebut")
+    olahraga_what = olahraga_What()
+    olahraga_resultWhat = olahraga_what.getWhat()
 
-    print("QE " + bencana_resultQE + ekonomi_resultQE + olahraga_resultQE + kesehatan_resultQE + kecelakaan_resultQE + kriminalitas_resultQE)
+    print("What " + bencana_resultWhat + ekonomi_resultWhat + olahraga_resultWhat + kesehatan_resultWhat + kecelakaan_resultWhat + kriminalitas_resultWhat)
 
     # 3 NER when, who, where, jika hasil qe success
-    if (bencana_resultQE == "success" and ekonomi_resultQE == "success" and kecelakaan_resultQE == "success" and kesehatan_resultQE == "success" and kriminalitas_resultQE == "success" and olahraga_resultQE == "success"):
+    if (bencana_resultWhat == "success" and ekonomi_resultWhat == "success" and kecelakaan_resultWhat == "success" and kesehatan_resultWhat == "success" and kriminalitas_resultWhat == "success" and olahraga_resultWhat == "success"):
         # print('3 Step Passed')
 
-        bencana_ner = bencana_NER()
-        bencana_resultNER = bencana_ner.getValueNER()
+        bencana_whowherewhen = bencana_WhoWhereWhen()
+        bencana_result3W = bencana_whowherewhen.get3W()
+ 
+        ekonomi_whowherewhen = ekonomi_WhoWhereWhen()
+        ekonomi_result3W = ekonomi_whowherewhen.get3W()
+ 
+        kecelakaan_whowherewhen = kecelakaan_WhoWhereWhen()
+        kecelakaan_result3W = kecelakaan_whowherewhen.get3W()
+ 
+        kesehatan_whowherewhen = kesehatan_WhoWhereWhen()
+        kesehatan_result3W = kesehatan_whowherewhen.get3W()
+ 
+        kriminalitas_whowherewhen = kriminalitas_WhoWhereWhen()
+        kriminalitas_result3W = kriminalitas_whowherewhen.get3W()
+ 
+        olahraga_whowherewhen = olahraga_WhoWhereWhen()
+        olahraga_result3W = olahraga_whowherewhen.get3W()
 
-        ekonomi_ner = ekonomi_NER()
-        ekonomi_resultNER = ekonomi_ner.getValueNER()
+        print("WhoWhereWhen " + bencana_result3W + ekonomi_result3W + olahraga_result3W + kesehatan_result3W + kecelakaan_result3W + kriminalitas_result3W)
 
-        kecelakaan_ner = kecelakaan_NER()
-        kecelakaan_resultNER = kecelakaan_ner.getValueNER()
-
-        kesehatan_ner = kesehatan_NER()
-        kesehatan_resultNER = kesehatan_ner.getValueNER()
-
-        kriminalitas_ner = kriminalitas_NER()
-        kriminalitas_resultNER = kriminalitas_ner.getValueNER()
-
-        olahraga_ner = olahraga_NER()
-        olahraga_resultNER = olahraga_ner.getValueNER()
-
-        print("NER " + bencana_resultNER + ekonomi_resultNER + olahraga_resultNER + kesehatan_resultNER + kecelakaan_resultNER + kriminalitas_resultNER)
-
-        if (bencana_resultNER == "success" and ekonomi_resultNER == "success" and kecelakaan_resultNER == "success" and kesehatan_resultNER == "success" and kriminalitas_resultNER == "success" and olahraga_resultNER == "success"):
+        if (bencana_result3W == "success" and ekonomi_result3W == "success" and kecelakaan_result3W == "success" and kesehatan_result3W == "success" and kriminalitas_result3W == "success" and olahraga_result3W == "success"):
             # print('4 Step Passed')
 
             bencana_severity = bencana_Severity()
