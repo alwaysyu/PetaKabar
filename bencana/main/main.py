@@ -64,7 +64,7 @@ async def scrap():
                          #ambil dari db
                         newsscrapped = []
                         try:
-                            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+                            cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
                             cursor = cnx.cursor()
                             cursor.execute("SELECT qe_what, ner_when, ner_who, ner_prov, ner_kab, ner_kec, class_classification FROM berita where berita_topik_id = 1")
                             myresult = cursor.fetchall()
@@ -482,7 +482,7 @@ async def scrap():
                         #ambil dari db
                         newsscrapped = []
                         try:
-                            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+                            cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
                             cursor = cnx.cursor()
                             cursor.execute("SELECT qe_what, ner_when, ner_who, ner_prov, ner_kab, ner_kec, class_classification FROM berita where berita_topik_id = 4")
                             myresult = cursor.fetchall()

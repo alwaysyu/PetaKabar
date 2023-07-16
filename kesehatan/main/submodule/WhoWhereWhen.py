@@ -58,7 +58,7 @@ class WhoWhereWhen:
 
         self.newsscrapped = []
         try:
-            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
             # cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 1 LIMIT 10")
             cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 4 AND class_classification is null")
@@ -730,14 +730,21 @@ class WhoWhereWhen:
 
     def get3W(self):
         try:
-            self.sentence_mini_batch(self.descberita)
+            # self.sentence_mini_batch(self.descberita)
+
+            all_tagged = joblib.load('D:/PetaKabar/whowherewhen/complete_tagged_kesehatan.pkl')
+            if len(self.idberita) == len(all_tagged):
+                self.getWhoWhereWhen(all_tagged, self.dateberita, self.idberita)
+            else:
+                print('Migrate failed due to size difference', str(len(self.idberita)), str(len(all_tagged)))
+                return 'error'
             return 'success'
         except:
             return 'error'
     
     def save_to_mysql(self, idberita, when, who, provinsi, kabupaten, kecamatan):
         try:
-            conn = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            conn = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cur = conn.cursor()
             add_news = ("UPDATE berita "
                 "SET ner_when = %s, ner_who = %s, ner_prov = %s, ner_kab = %s, ner_kec = %s "

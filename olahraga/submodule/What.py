@@ -14,17 +14,18 @@ from gensim.models import Phrases
 class What:
     def __init__(self) -> None:
         # Bagian LDA
-        self.total_topics = 4
-        self.number_words = 29
+        self.total_topics = 5
+        self.number_words = 24
         self.lda_model = models.ldamodel.LdaModel.load(datapath('D:/PetaKabar/models/lda_model_olahraga/lda_model')) # Ambil Model LDA sesuai dengan topik
         self.topics = self.lda_model.show_topics(formatted = False, num_topics = self.total_topics, num_words = self.number_words)
         self.words = [word for i, topic in self.topics for word, weight in topic]
 
         self.newsscrapped = []
         try:
-            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
-            cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 6  AND class_classification is null") # adjust
+            # cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 6  AND class_classification is null") # adjust
+            cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 6 ") # adjust
             myresult = cursor.fetchall()
             for row in myresult:
                 self.newsscrapped.append(row)
@@ -146,7 +147,7 @@ class What:
         
     def save_to_mysql(self, idberita, whatberita):
         try:
-            conn = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            conn = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cur = conn.cursor()
             add_news = ("UPDATE berita "
                         "SET qe_what = %s "

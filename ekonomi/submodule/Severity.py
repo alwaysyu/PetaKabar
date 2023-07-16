@@ -19,7 +19,7 @@ class Severity:
         #ambil data dari db
         self.newsscrapped = []
         try:
-            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
             cursor.execute("SELECT ID, berita_desc FROM berita where berita_topik_id = 2 AND class_classification is null")
             myresult = cursor.fetchall()
@@ -563,7 +563,7 @@ class Severity:
 
     def save_to_mysql(self, idberita, moneyUSD, moneyIDR, persen, inflasi):
         try:
-            conn = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            conn = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cur = conn.cursor()
             add_news = ("UPDATE berita "
                         "SET sev_moneyUSD = %s, sev_moneyIDR = %s, sev_persen = %s, sev_inflasi = %s "

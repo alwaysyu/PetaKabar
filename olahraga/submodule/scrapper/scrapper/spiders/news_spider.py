@@ -32,7 +32,7 @@ class NewsSpider(scrapy.Spider):
 
     start_urls = []
     try:
-        cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+        cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
         cursor = cnx.cursor()
 
         #simpan tanggal terakhir dari berita yang di scrap masing-masing situs berita
@@ -582,7 +582,7 @@ class NewsSpider(scrapy.Spider):
         
     def save_to_mysql(self, title, date, qdate, description, source):
         try:
-            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
             add_news = ("INSERT IGNORE INTO berita "
                         "(berita_title, berita_date, berita_qdate, berita_desc, berita_source, berita_topik_id) "

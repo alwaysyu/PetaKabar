@@ -12,7 +12,7 @@ class Classification:
         #ambil dari db
         self.newsscrapped = []
         try:
-            cnx = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
             cursor.execute("SELECT ID, sev_death, sev_injury, sev_lost, sev_sink, sev_plane FROM berita where berita_topik_id = 3 AND class_classification is null")
             myresult = cursor.fetchall()
@@ -64,7 +64,7 @@ class Classification:
 
     def save_to_mysql(self, idberita, keparahan):
         try:
-            conn = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+            conn = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cur = conn.cursor()
             add_news = ("UPDATE berita "
                         "SET class_classification = %s "

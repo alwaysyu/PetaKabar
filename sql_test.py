@@ -1,7 +1,7 @@
 import mysql.connector
 from mysql.connector import errorcode
 try:
-    conn = mysql.connector.connect(user = 'root', password='', database = 'Petakabar')
+    conn = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
     cur = conn.cursor()
     query = ("SELECT * FROM topik")
     cur.execute(query)
