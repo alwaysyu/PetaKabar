@@ -61,6 +61,7 @@ class WhoWhereWhen:
             cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
             # cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 3 LIMIT 10")
+            # cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 3")
             cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 3 AND class_classification is null")
             myresult = cursor.fetchall()
             for row in myresult:
@@ -153,7 +154,7 @@ class WhoWhereWhen:
         if self.represents_int(text):
             if int(text) < 32 and int(text) > 0:
                 return int(text)
-        print(text, type(text))
+        # print(text, type(text))
         return 0
 
     def write_date(self, tgl, bulan, tahun):
@@ -730,14 +731,14 @@ class WhoWhereWhen:
 
     def get3W(self):
         try:
-            # self.sentence_mini_batch(self.descberita)
+            self.sentence_mini_batch(self.descberita)
 
-            all_tagged = joblib.load('D:/PetaKabar/whowherewhen/complete_tagged_kecelakaan.pkl')
-            if len(self.idberita) == len(all_tagged):
-                self.getWhoWhereWhen(all_tagged, self.dateberita, self.idberita)
-            else:
-                print('Migrate failed due to size difference', str(len(self.idberita)), str(len(all_tagged)))
-                return 'error'
+            # all_tagged = joblib.load('D:/PetaKabar/whowherewhen/complete_tagged_kecelakaan.pkl')
+            # if len(self.idberita) == len(all_tagged):
+            #     self.getWhoWhereWhen(all_tagged, self.dateberita, self.idberita)
+            # else:
+            #     print('Migrate failed due to size difference', str(len(self.idberita)), str(len(all_tagged)))
+            #     return 'error'
             return 'success'
         except:
             return 'error'

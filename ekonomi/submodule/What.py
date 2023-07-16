@@ -24,8 +24,8 @@ class What:
         try:
             cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
-            # cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 2  AND class_classification is null") # adjust
-            cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 2 ") # adjust
+            cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 2  AND class_classification is null") # adjust
+            # cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 2 ") # adjust
             myresult = cursor.fetchall()
             for row in myresult:
                 self.newsscrapped.append(row)
@@ -154,13 +154,15 @@ class What:
                     "WHERE ID = %s"
                     )
             hasilstr = ""
-            for x in range(len(whatberita)):
-                if len(whatberita[x].split("_")) == 2:
-                    hasilstr = hasilstr + whatberita[x].split("_")[0] + " " + whatberita[x].split("_")[1]
+            y = 0
+            for x in whatberita:
+                if len(x.split("_")) == 2:
+                    hasilstr = hasilstr + x.split("_")[0] + " " + x.split("_")[1]
                 else:
-                    hasilstr = hasilstr + whatberita[x]
-                if x < len(whatberita)-1:
+                    hasilstr = hasilstr + x
+                if y < len(whatberita)-1:
                     hasilstr = hasilstr + ", "
+                y += 1
             data_news = (hasilstr, idberita)
             cur.execute(add_news, data_news)
             conn.commit()            

@@ -52,7 +52,7 @@ class WhoWhereWhen:
         self.kec = joblib.load('D:/PetaKabar/datasets/kecamatan.pkl')
         self.daerah = joblib.load('D:/PetaKabar/datasets/listProvKabKec.pkl')
         self.tag_pos = SequenceTagger.load("D:/Petakabar/models/best-model.pt")
-        # self.negara = joblib.load('D:/PetaKabar/datasets/list_negara.pkl') # ekonomi
+        self.negara = joblib.load('D:/PetaKabar/datasets/list_negara.pkl') # ekonomi
 
         self.batch_size = 32
 
@@ -61,8 +61,8 @@ class WhoWhereWhen:
             cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
             # cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 1 LIMIT 10")
-            # cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 2 AND class_classification is null")
-            cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 2")
+            cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 2 AND class_classification is null")
+            # cursor.execute("SELECT ID, berita_date, berita_desc FROM berita where berita_topik_id = 2")
             myresult = cursor.fetchall()
             for row in myresult:
                 self.newsscrapped.append(row)
@@ -154,7 +154,7 @@ class WhoWhereWhen:
         if self.represents_int(text):
             if int(text) < 32 and int(text) > 0:
                 return int(text)
-        print(text, type(text))
+        # print(text, type(text))
         return 0
 
     def write_date(self, tgl, bulan, tahun):
@@ -725,14 +725,14 @@ class WhoWhereWhen:
 
     def get3W(self):
         try:
-            # self.sentence_mini_batch(self.descberita)
+            self.sentence_mini_batch(self.descberita)
 
-            all_tagged = joblib.load('D:/PetaKabar/whowherewhen/complete_tagged_ekonomi.pkl')
-            if len(self.idberita) == len(all_tagged):
-                self.getWhoWhereWhen(all_tagged, self.dateberita, self.idberita)
-            else:
-                print('Migrate failed due to size difference', str(len(self.idberita)), str(len(all_tagged)))
-                return 'error'
+            # all_tagged = joblib.load('D:/PetaKabar/whowherewhen/complete_tagged_ekonomi.pkl')
+            # if len(self.idberita) == len(all_tagged):
+            #     self.getWhoWhereWhen(all_tagged, self.dateberita, self.idberita)
+            # else:
+            #     print('Migrate failed due to size difference', str(len(self.idberita)), str(len(all_tagged)))
+            #     return 'error'
             return 'success'
         except:
             return 'error'
@@ -745,6 +745,7 @@ class WhoWhereWhen:
                 "SET ner_when = %s, ner_who = %s, ner_prov = %s, ner_kab = %s, ner_kec = %s "
             "WHERE ID = %s"
             )
+            # print(idberita, when, who, provinsi, kabupaten, kecamatan)
             # whostr = ""
             # for y in range(len(who)):
             #     whostr = whostr + who[y]

@@ -19,13 +19,14 @@ class What:
         self.lda_model = models.ldamodel.LdaModel.load(datapath('D:/PetaKabar/models/lda_model_bencana/lda_model')) # Ambil Model LDA sesuai dengan topik
         self.topics = self.lda_model.show_topics(formatted = False, num_topics = self.total_topics, num_words = self.number_words)
         self.words = [word for i, topic in self.topics for word, weight in topic]
+        # print(self.words)
 
         self.newsscrapped = []
         try:
             cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
             cursor = cnx.cursor()
-            # cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 1  AND class_classification is null") # adjust
-            cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 1 ") # adjust
+            cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 1  AND class_classification is null") # adjust
+            # cursor.execute("SELECT ID, berita_desc, berita_title FROM berita where berita_topik_id = 1 ") # adjust
             myresult = cursor.fetchall()
             for row in myresult:
                 self.newsscrapped.append(row)
@@ -85,6 +86,8 @@ class What:
             for x in range(0, len(self.titleberita)):
                 text = self.__preprocessing(self.titleberita[x])
                 self.titleberita[x] = text
+            
+            # print("this")
 
             bigram = Phrases(self.descberita, min_count=1)
             for idx in range(len(self.descberita)):
@@ -112,6 +115,7 @@ class What:
                             self.descberita[idx].remove(word1)
                         if word2 not in dont_remove:
                             self.descberita[idx].remove(word2)
+            # print("this")
 
             lda_desc_what = []
             for i in range(len(self.descberita)):
@@ -121,6 +125,8 @@ class What:
                         val.append(word)
                 lda_desc_what.append(val)
             
+            # print("this")
+            
             lda_title_what = []
             for i in range(len(self.titleberita)):
                 val = []
@@ -128,6 +134,8 @@ class What:
                     if word in self.titleberita[i]:
                         val.append(word)
                 lda_title_what.append(val)
+            
+            # print("this")
 
             for idx, word_list in enumerate(lda_title_what):
                 val = []
@@ -137,8 +145,11 @@ class What:
                     val.append(word)
                 lda_desc_what[idx].extend(val)
                 lda_desc_what[idx] = set(lda_desc_what[idx])
+
+            # print("this")
             
             for i in range(0, len(self.descberita)):
+                # print("iter")
                 self.save_to_mysql(self.idberita[i], lda_desc_what[i])
 
             return 'success'
@@ -154,13 +165,15 @@ class What:
                     "WHERE ID = %s"
                     )
             hasilstr = ""
-            for x in range(len(whatberita)):
-                if len(whatberita[x].split("_")) == 2:
-                    hasilstr = hasilstr + whatberita[x].split("_")[0] + " " + whatberita[x].split("_")[1]
+            y = 0
+            for x in whatberita:
+                if len(x.split("_")) == 2:
+                    hasilstr = hasilstr + x.split("_")[0] + " " + x.split("_")[1]
                 else:
-                    hasilstr = hasilstr + whatberita[x]
-                if x < len(whatberita)-1:
+                    hasilstr = hasilstr + x
+                if y < len(whatberita)-1:
                     hasilstr = hasilstr + ", "
+                y += 1
             data_news = (hasilstr, idberita)
             cur.execute(add_news, data_news)
             conn.commit()            
