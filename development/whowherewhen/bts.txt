@@ -1,0 +1,26 @@
+"pada"/ADP, "Senin"/PROPN, ","/PUNCT, "26"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT, "Laman"/PROPN
+","/PUNCT, "Minggu"/PROPN, ","/PUNCT, "25"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT,
+ ","/PUNCT, "Senin"/PROPN, ","/PUNCT, "5"/NUM, "Desember"/PROPN, "2022"/NUM, ","/PUNCT
+
+"ini"/DET, "Minggu"/PROPN, "("/PUNCT, "25"/NUM, "/"/PUNCT, "12"/NUM, ")"/PUNCT, "terjadi"/VERB,
+
+","/PUNCT, "Jumat"/PROPN, "malam"/NOUN, ","/PUNCT, "2"/NUM, "Desember"/PROPN, "2022"/NUM, "."/PUNCT, done
+
+""dini""/ADJ, ""hari""/NOUN, ""tadi""/NOUN, "".""/PUNCT
+
+""22""/NUM, ""Desember""/PROPN, "",""/PUNCT, butuh ambil tahun pada teks done
+
+""31""/NUM, ""Desember""/PROPN, "".""/PUNCT, done
+
+"",""/PUNCT, ""Jumat""/PROPN, "".""/PUNCT
+
+""/""/PUNCT, ""2022""/NUM, ""/""/PUNCT, ""12""/NUM, ""/""/PUNCT, ""14""/NUM, ""/""/PUNCT done
+
+WHERE
+
+create bigrams done
+create trigrams done
+save indexes to exactly pinpoint location after finding Kecamatan, Kabupaten, Kota, Provinsi
+
+
+

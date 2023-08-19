@@ -1,6 +1,0 @@
-, 'wib', 'warga', 'rumah', 'air', 'desa',
-                       'kecamatan', 'kabupaten', 'kelurahan', 'korban', 'wilayah', 'kota',
-                       'hari', 'lokasi', 'barat', 'masyarakat', 'timur', 'utara', 'selatan',
-                       'tenggara', 'lokasi', 'tempat', 'rp', 'unit', 'salah',
-                       'tempat', 'kejadian', 'meter', 'petugas', 'memiliki',
-                       'manusia', 'nabi', 'allah', 'swt', 'kaum', 'ayat', 'saw', 'video'

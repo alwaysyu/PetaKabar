@@ -13,7 +13,7 @@ class Severity:
     def __init__(self) -> None:
         self.ct =CRFTagger()
         # self.ct.set_model_file('model/TagIndo/all_indo_man_tag_corpus_model.crf.tagger')
-        self.ct.set_model_file('D:/PetaKabar/kecelakaan/model/TagIndo/all_indo_man_tag_corpus_model.crf.tagger')
+        self.ct.set_model_file('D:/Repository/PetaKabar/kecelakaan/model/TagIndo/all_indo_man_tag_corpus_model.crf.tagger')
         
         #ambil data dari db
         self.newsscrapped = []

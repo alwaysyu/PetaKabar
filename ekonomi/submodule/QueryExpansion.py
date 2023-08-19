@@ -89,14 +89,14 @@ class QueryExpansion:
 
         # df_bow_what = pd.read_csv('dataset/qe/bow_what.csv')
 
-        self.document_text = joblib.load('D:/PetaKabar/ekonomi/dataset/qe/document_text_train.pkl')
+        self.document_text = joblib.load('D:/Repository/PetaKabar/ekonomi/dataset/qe/document_text_train.pkl')
 
-        self.tfidf_vectorizer = joblib.load('D:/PetaKabar/ekonomi/dataset/qe/vectorizer.pkl')
-        self.tfidf_matrix = joblib.load('D:/PetaKabar/ekonomi/dataset/qe/tfidf_train.pkl')
-        self.df_total = pd.read_csv('D:/PetaKabar/ekonomi/dataset/qe/df_total.csv')
-        self.df_train = pd.read_csv('D:/PetaKabar/ekonomi/dataset/qe/df_train.csv')
+        self.tfidf_vectorizer = joblib.load('D:/Repository/PetaKabar/ekonomi/dataset/qe/vectorizer.pkl')
+        self.tfidf_matrix = joblib.load('D:/Repository/PetaKabar/ekonomi/dataset/qe/tfidf_train.pkl')
+        self.df_total = pd.read_csv('D:/Repository/PetaKabar/ekonomi/dataset/qe/df_total.csv')
+        self.df_train = pd.read_csv('D:/Repository/PetaKabar/ekonomi/dataset/qe/df_train.csv')
 
-        df_bow_what = pd.read_csv('D:/PetaKabar/ekonomi/dataset/qe/bow_what.csv')
+        df_bow_what = pd.read_csv('D:/Repository/PetaKabar/ekonomi/dataset/qe/bow_what.csv')
 
         self.bow_list_what = []
         for i in range(0, df_bow_what.shape[0]):

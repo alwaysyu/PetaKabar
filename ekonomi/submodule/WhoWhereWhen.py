@@ -47,12 +47,12 @@ idx_date = [(0, 2, 4, 6),
 
 class WhoWhereWhen:
     def __init__(self) -> None:
-        self.prov = joblib.load('D:/PetaKabar/datasets/provinsi.pkl')
-        self.kab = joblib.load('D:/PetaKabar/datasets/kabupaten.pkl')
-        self.kec = joblib.load('D:/PetaKabar/datasets/kecamatan.pkl')
-        self.daerah = joblib.load('D:/PetaKabar/datasets/listProvKabKec.pkl')
-        self.tag_pos = SequenceTagger.load("D:/Petakabar/models/best-model.pt")
-        self.negara = joblib.load('D:/PetaKabar/datasets/list_negara.pkl') # ekonomi
+        self.prov = joblib.load('D:/Repository/PetaKabar/datasets/provinsi.pkl')
+        self.kab = joblib.load('D:/Repository/PetaKabar/datasets/kabupaten.pkl')
+        self.kec = joblib.load('D:/Repository/PetaKabar/datasets/kecamatan.pkl')
+        self.daerah = joblib.load('D:/Repository/PetaKabar/datasets/listProvKabKec.pkl')
+        self.tag_pos = SequenceTagger.load("D:/Repository/PetaKabar/models/best-model.pt")
+        self.negara = joblib.load('D:/Repository/PetaKabar/datasets/list_negara.pkl') # ekonomi
 
         self.batch_size = 32
 
@@ -727,7 +727,7 @@ class WhoWhereWhen:
         try:
             self.sentence_mini_batch(self.descberita)
 
-            # all_tagged = joblib.load('D:/PetaKabar/whowherewhen/complete_tagged_ekonomi.pkl')
+            # all_tagged = joblib.load('D:/Repository/PetaKabar/whowherewhen/complete_tagged_ekonomi.pkl')
             # if len(self.idberita) == len(all_tagged):
             #     self.getWhoWhereWhen(all_tagged, self.dateberita, self.idberita)
             # else:

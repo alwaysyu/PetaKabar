@@ -11,6 +11,7 @@ from bencana.main.submodule.Classification import Classification as bencana_Clas
 from bencana.main.submodule.Severity import Severity as bencana_Severity
 from bencana.main.submodule.What import What as bencana_What
 from bencana.main.submodule.WhoWhereWhen import WhoWhereWhen as bencana_WhoWhereWhen
+from bencana.main.submodule.Summarization import Summarization as bencana_Summary
 
 from ekonomi.submodule.Classification import Classification as ekonomi_Classification
 # from ekonomi.submodule.NER import NER as ekonomi_NER
@@ -19,6 +20,7 @@ from ekonomi.submodule.Classification import Classification as ekonomi_Classific
 from ekonomi.submodule.Severity import Severity as ekonomi_Severity
 from ekonomi.submodule.What import What as ekonomi_What
 from ekonomi.submodule.WhoWhereWhen import WhoWhereWhen as ekonomi_WhoWhereWhen
+from ekonomi.submodule.Summarization import Summarization as ekonomi_Summary
 
 from kecelakaan.submodule.Classification import Classification as kecelakaan_Classification
 # from kecelakaan.submodule.NER import NER as kecelakaan_NER
@@ -27,6 +29,7 @@ from kecelakaan.submodule.Classification import Classification as kecelakaan_Cla
 from kecelakaan.submodule.Severity import Severity as kecelakaan_Severity
 from kecelakaan.submodule.What import What as kecelakaan_What
 from kecelakaan.submodule.WhoWhereWhen import WhoWhereWhen as kecelakaan_WhoWhereWhen
+from kecelakaan.submodule.Summarization import Summarization as kecelakaan_Summary
 
 from kesehatan.main.submodule.Classification import Classification as kesehatan_Classification
 # from kesehatan.main.submodule.NER import NER as kesehatan_NER
@@ -35,6 +38,7 @@ from kesehatan.main.submodule.Classification import Classification as kesehatan_
 from kesehatan.main.submodule.Severity import Severity as kesehatan_Severity
 from kesehatan.main.submodule.What import What as kesehatan_What
 from kesehatan.main.submodule.WhoWhereWhen import WhoWhereWhen as kesehatan_WhoWhereWhen
+from kesehatan.main.submodule.Summarization import Summarization as kesehatan_Summary
 
 from kriminalitas.Main.submodule.Classification import Classification as kriminalitas_Classification
 # from kriminalitas.Main.submodule.NER import NER as kriminalitas_NER
@@ -43,6 +47,7 @@ from kriminalitas.Main.submodule.Classification import Classification as krimina
 from kriminalitas.Main.submodule.Severity import Severity as kriminalitas_Severity
 from kriminalitas.Main.submodule.What import What as kriminalitas_What
 from kriminalitas.Main.submodule.WhoWhereWhen import WhoWhereWhen as kriminalitas_WhoWhereWhen
+from kriminalitas.Main.submodule.Summarization import Summarization as kriminalitas_Summary
 
 from olahraga.submodule.Classification import Classification as olahraga_Classification
 # from olahraga.submodule.NER import NER as olahraga_NER
@@ -51,6 +56,7 @@ from olahraga.submodule.Classification import Classification as olahraga_Classif
 from olahraga.submodule.Severity import Severity as olahraga_Severity
 from olahraga.submodule.What import What as olahraga_What
 from olahraga.submodule.WhoWhereWhen import WhoWhereWhen as olahraga_WhoWhereWhen
+from olahraga.submodule.Summarization import Summarization as olahraga_Summary
 
 from typing import Union
 # from fastapi import FastAPI
@@ -317,91 +323,113 @@ if __name__ == '__main__':
             if (bencana_resultSeverity == "success" and ekonomi_resultSeverity == "success" and kecelakaan_resultSeverity == "success" and kesehatan_resultSeverity == "success" and kriminalitas_resultSeverity == "success" and olahraga_resultSeverity == "success"):
                 # print('5 Step Passed')
 
-                bencana_classification = bencana_Classification()
-                bencana_resultClassification=bencana_classification.getClassificationValue()
+                bencana_summary = bencana_Summary()
+                bencana_resultSummary = bencana_summary.get_summary()
 
-                ekonomi_classification = ekonomi_Classification()
-                ekonomi_resultClassification=ekonomi_classification.getClassificationValue()
+                ekonomi_summary = ekonomi_Summary()
+                ekonomi_resultSummary = ekonomi_summary.get_summary()
 
-                kecelakaan_classification = kecelakaan_Classification()
-                kecelakaan_resultClassification=kecelakaan_classification.getClassificationValue()
+                kecelakaan_summary = kecelakaan_Summary()
+                kecelakaan_resultSummary = kecelakaan_summary.get_summary()
 
-                kesehatan_classification = kesehatan_Classification()
-                kesehatan_resultClassification=kesehatan_classification.getClassificationValue()
+                kesehatan_summary = kesehatan_Summary()
+                kesehatan_resultSummary = kesehatan_summary.get_summary()
 
-                kriminalitas_classification = kriminalitas_Classification()
-                kriminalitas_resultClassification=kriminalitas_classification.getClassificationValue()
+                kriminalitas_summary = kriminalitas_Summary()
+                kriminalitas_resultSummary = kriminalitas_summary.get_summary()
 
-                olahraga_classification = olahraga_Classification()
-                olahraga_resultClassification=olahraga_classification.getClassificationValue()
+                olahraga_summary = olahraga_Summary()
+                olahraga_resultSummary = olahraga_summary.get_summary()
 
-                print("classification " + bencana_resultClassification + ekonomi_resultClassification + olahraga_resultClassification + kesehatan_resultClassification + kecelakaan_resultClassification + kriminalitas_resultClassification)
+                print("Summary " + bencana_resultSummary + ekonomi_resultSummary + olahraga_resultSummary + kesehatan_resultSummary + kecelakaan_resultSummary + kriminalitas_resultSummary)
 
-                if (bencana_resultClassification == "success" and ekonomi_resultClassification == "success" and kecelakaan_resultClassification == "success" and kesehatan_resultClassification == "success" and kriminalitas_resultClassification == "success" and olahraga_resultClassification == "success"):
-                    # print('6 Step Passed')
-                    
-                    # df_w = pd.read_csv('result/classification_res/result_final.csv')
-                        #ambil dari db
-                    # newsscrapped = []
-                    # try:
-                    #     cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
-                    #     cursor = cnx.cursor()
-                    #     cursor.execute("SELECT qe_what, ner_when, ner_who, ner_prov, ner_kab, ner_kec, class_classification FROM berita where (berita_qdate >= DATE_SUB(CURDATE(), INTERVAL 1 MONTH) OR berita_qdate = curdate())")
-                    #     myresult = cursor.fetchall()
-                    #     for row in myresult:
-                    #         newsscrapped.append(row)
+                if (bencana_resultSummary == "success" and ekonomi_resultSummary == "success" and olahraga_resultSummary == "success" and kesehatan_resultSummary == "success" and kecelakaan_resultSummary == "success" and kriminalitas_resultSummary == "success"):
 
-                    # except mysql.connector.Error as err:
-                    #     if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
-                    #         print("Something is wrong with your user name or password")
-                    #     elif err.errno == errorcode.ER_BAD_DB_ERROR:
-                    #         print("Database does not exist")
-                    #     else:
-                    #         print(err)
-                    # else:
-                    #     cursor.close()
-                    #     cnx.close()
+                    bencana_classification = bencana_Classification()
+                    bencana_resultClassification=bencana_classification.getClassificationValue()
 
-                    # #ambil dari db
-                    # whatberita = []
-                    # tglasliberita = []
-                    # whoberita = []
-                    # provinsiberita = []
-                    # kabupatenberita = []
-                    # kecamatanberita = []
-                    # keparahanberita = []
-                    
-                    # whatberita, tglasliberita, whoberita, provinsiberita, kabupatenberita, kecamatanberita, keparahanberita= zip(*newsscrapped)
+                    ekonomi_classification = ekonomi_Classification()
+                    ekonomi_resultClassification=ekonomi_classification.getClassificationValue()
 
-                    # result_list = []
+                    kecelakaan_classification = kecelakaan_Classification()
+                    kecelakaan_resultClassification=kecelakaan_classification.getClassificationValue()
 
-                    # for i in range(0, len(newsscrapped)):
-                    #     result = {
-                    #         'title' : '',
-                    #         'kategori' : 'bencana',
-                    #         'nama_kejadian' : whatberita[i],
-                    #         'waktu' : tglasliberita[i],
-                    #         'orang_terlibat' : whoberita[i],
-                    #         'provinsi' : provinsiberita[i],
-                    #         'kabupaten' : kabupatenberita[i],
-                    #         'kecamatan' : kecamatanberita[i],
-                    #         'tingkat_keparahan' : keparahanberita[i]
-                    #     }
-                    #     result_list.append(result)
-                    
-                    print("success")
-                    # return {
-                    #     'status_code': 200,
-                    #     'message': 'success',
-                    #     'data': result_list
-                    # }
+                    kesehatan_classification = kesehatan_Classification()
+                    kesehatan_resultClassification=kesehatan_classification.getClassificationValue()
 
-                else:
-                    print("classification failed")
-                    # return {
-                    #     'status_code': 500,
-                    #     'message': 'classification failed'
-                    # }
+                    kriminalitas_classification = kriminalitas_Classification()
+                    kriminalitas_resultClassification=kriminalitas_classification.getClassificationValue()
+
+                    olahraga_classification = olahraga_Classification()
+                    olahraga_resultClassification=olahraga_classification.getClassificationValue()
+
+                    print("classification " + bencana_resultClassification + ekonomi_resultClassification + olahraga_resultClassification + kesehatan_resultClassification + kecelakaan_resultClassification + kriminalitas_resultClassification)
+
+                    if (bencana_resultClassification == "success" and ekonomi_resultClassification == "success" and kecelakaan_resultClassification == "success" and kesehatan_resultClassification == "success" and kriminalitas_resultClassification == "success" and olahraga_resultClassification == "success"):
+                        # print('7 Step Passed')
+                        
+                        # df_w = pd.read_csv('result/classification_res/result_final.csv')
+                            #ambil dari db
+                        # newsscrapped = []
+                        # try:
+                        #     cnx = mysql.connector.connect(user='admin', password='admin', database = 'Petakabar')
+                        #     cursor = cnx.cursor()
+                        #     cursor.execute("SELECT qe_what, ner_when, ner_who, ner_prov, ner_kab, ner_kec, class_classification FROM berita where (berita_qdate >= DATE_SUB(CURDATE(), INTERVAL 1 MONTH) OR berita_qdate = curdate())")
+                        #     myresult = cursor.fetchall()
+                        #     for row in myresult:
+                        #         newsscrapped.append(row)
+
+                        # except mysql.connector.Error as err:
+                        #     if err.errno == errorcode.ER_ACCESS_DENIED_ERROR:
+                        #         print("Something is wrong with your user name or password")
+                        #     elif err.errno == errorcode.ER_BAD_DB_ERROR:
+                        #         print("Database does not exist")
+                        #     else:
+                        #         print(err)
+                        # else:
+                        #     cursor.close()
+                        #     cnx.close()
+
+                        # #ambil dari db
+                        # whatberita = []
+                        # tglasliberita = []
+                        # whoberita = []
+                        # provinsiberita = []
+                        # kabupatenberita = []
+                        # kecamatanberita = []
+                        # keparahanberita = []
+                        
+                        # whatberita, tglasliberita, whoberita, provinsiberita, kabupatenberita, kecamatanberita, keparahanberita= zip(*newsscrapped)
+
+                        # result_list = []
+
+                        # for i in range(0, len(newsscrapped)):
+                        #     result = {
+                        #         'title' : '',
+                        #         'kategori' : 'bencana',
+                        #         'nama_kejadian' : whatberita[i],
+                        #         'waktu' : tglasliberita[i],
+                        #         'orang_terlibat' : whoberita[i],
+                        #         'provinsi' : provinsiberita[i],
+                        #         'kabupaten' : kabupatenberita[i],
+                        #         'kecamatan' : kecamatanberita[i],
+                        #         'tingkat_keparahan' : keparahanberita[i]
+                        #     }
+                        #     result_list.append(result)
+                        
+                        print("success")
+                        # return {
+                        #     'status_code': 200,
+                        #     'message': 'success',
+                        #     'data': result_list
+                        # }
+
+                    else:
+                        print("classification failed")
+                        # return {
+                        #     'status_code': 500,
+                        #     'message': 'classification failed'
+                        # }
             else:
                 print("severity failed")
             #     return {

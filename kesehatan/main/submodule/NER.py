@@ -18,11 +18,11 @@ class NER:
         # self.listKecamatan = joblib.load('model/Where/kecamatan.pkl')
         # self.loaded_model = load('model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
 
-        self.listDaerah = joblib.load('D:/PetaKabar/kesehatan/main/model/Where/listProvKabKec.pkl')
-        self.listProvinsi = joblib.load('D:/PetaKabar/kesehatan/main/model/Where/provinsi.pkl')
-        self.listKabupaten = joblib.load('D:/PetaKabar/kesehatan/main/model/Where/kabupaten.pkl')
-        self.listKecamatan = joblib.load('D:/PetaKabar/kesehatan/main/model/Where/kecamatan.pkl')
-        self.loaded_model = load('D:/PetaKabar/kesehatan/main/model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
+        self.listDaerah = joblib.load('D:/Repository/PetaKabar/kesehatan/main/model/Where/listProvKabKec.pkl')
+        self.listProvinsi = joblib.load('D:/Repository/PetaKabar/kesehatan/main/model/Where/provinsi.pkl')
+        self.listKabupaten = joblib.load('D:/Repository/PetaKabar/kesehatan/main/model/Where/kabupaten.pkl')
+        self.listKecamatan = joblib.load('D:/Repository/PetaKabar/kesehatan/main/model/Where/kecamatan.pkl')
+        self.loaded_model = load('D:/Repository/PetaKabar/kesehatan/main/model/NER_Kec_Ben_Krim_Kese_Eko/output/model-last')
 
         #ambil dari db
         self.newsscrapped = []

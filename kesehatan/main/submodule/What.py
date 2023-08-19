@@ -16,7 +16,7 @@ class What:
         # Bagian LDA
         self.total_topics = 7
         self.number_words = 18
-        self.lda_model = models.ldamodel.LdaModel.load(datapath('D:/PetaKabar/models/lda_model_kesehatan/lda_model')) # Ambil Model LDA sesuai dengan topik
+        self.lda_model = models.ldamodel.LdaModel.load(datapath('D:/Repository/PetaKabar/models/lda_model_kesehatan/lda_model')) # Ambil Model LDA sesuai dengan topik
         self.topics = self.lda_model.show_topics(formatted = False, num_topics = self.total_topics, num_words = self.number_words)
         self.words = [word for i, topic in self.topics for word, weight in topic]
 
@@ -49,7 +49,7 @@ class What:
             self.descberita.append(self.newsscrapped[i][1])
             self.titleberita.append(self.newsscrapped[i][2])
         
-        self.stopwords_add = pd.read_csv("D:/PetaKabar/datasets/stopwords_add.txt", names= ["stopwords"], header = None)
+        self.stopwords_add = pd.read_csv("D:/Repository/PetaKabar/datasets/stopwords_add.txt", names= ["stopwords"], header = None)
 
     def __preprocessing(self, berita: str):
         NLTK_StopWords = stopwords.words('indonesian')

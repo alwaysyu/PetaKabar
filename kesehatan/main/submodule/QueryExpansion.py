@@ -78,11 +78,11 @@ class QueryExpansion:
         # self.df_train = pd.read_csv('dataset/qe/df_train.csv')
 
         # df_bow_what = pd.read_csv('dataset/qe/bow_what.csv')
-        self.tfidf_vectorizer = joblib.load('D:/PetaKabar/kesehatan/main/dataset/qe/vectorizer.pkl')
-        self.tfidf_matrix = joblib.load('D:/PetaKabar/kesehatan/main/dataset/qe/tfidf_train.pkl')
-        self.df_train = pd.read_csv('D:/PetaKabar/kesehatan/main/dataset/qe/df_train.csv')
+        self.tfidf_vectorizer = joblib.load('D:/Repository/PetaKabar/kesehatan/main/dataset/qe/vectorizer.pkl')
+        self.tfidf_matrix = joblib.load('D:/Repository/PetaKabar/kesehatan/main/dataset/qe/tfidf_train.pkl')
+        self.df_train = pd.read_csv('D:/Repository/PetaKabar/kesehatan/main/dataset/qe/df_train.csv')
 
-        df_bow_what = pd.read_csv('D:/PetaKabar/kesehatan/main/dataset/qe/bow_what.csv')
+        df_bow_what = pd.read_csv('D:/Repository/PetaKabar/kesehatan/main/dataset/qe/bow_what.csv')
         self.bow_list_what = []
         for i in range(0, df_bow_what.shape[0]):
             self.bow_list_what.append(df_bow_what.iloc[i, 1])

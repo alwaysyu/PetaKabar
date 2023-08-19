@@ -7,7 +7,7 @@ from mysql.connector import errorcode
 class Classification:
     def __init__(self) -> None:
         # self.classification_model = joblib.load('model/classification/modelklasifikasi.pkl')
-        self.classification_model = joblib.load('D:/PetaKabar/models/rf_klasifikasi_ekonomi.pkl')
+        self.classification_model = joblib.load('D:/Repository/PetaKabar/models/rf_klasifikasi_ekonomi.pkl')
         # self.scrapped_news = pd.read_csv('result/tagging/severity_count.csv')
 
         # ambil dari db

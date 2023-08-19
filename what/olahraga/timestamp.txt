@@ -1,8 +1,0 @@
-ldavis_prepared_3_10_06-24-2023_08-06-14
-v1 kriminalitas, remove excluded words
-
-ldavis_prepared_5_20_06-24-2023_08-19-21
-try 5 20
-
-ldavis_prepared_4_25_06-24-2023_08-22-27
-try 4 25

@@ -1,2 +1,0 @@
-,"/punct, "[\S]+"/propn, "[\S]+"/adp
-"[\S]+"/noun, "[\S]+"/propn, "[\S]+"/det

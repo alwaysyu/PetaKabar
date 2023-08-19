@@ -77,10 +77,10 @@ class QueryExpansion:
         # self.df_train = pd.read_csv('dataset/qe/df_train.csv')
         # self.bow_list_what = joblib.load('dataset/qe/bow_kecelakaan.pkl')
 
-        self.tfidf_vectorizer = joblib.load('D:/PetaKabar/kecelakaan/dataset/qe/vectorizer_new.pkl')
-        self.tfidf_matrix = joblib.load('D:/PetaKabar/kecelakaan/dataset/qe/tfidf_train_new.pkl')
-        self.df_train = pd.read_csv('D:/PetaKabar/kecelakaan/dataset/qe/df_train.csv')
-        self.bow_list_what = joblib.load('D:/PetaKabar/kecelakaan/dataset/qe/bow_kecelakaan.pkl')
+        self.tfidf_vectorizer = joblib.load('D:/Repository/PetaKabar/kecelakaan/dataset/qe/vectorizer_new.pkl')
+        self.tfidf_matrix = joblib.load('D:/Repository/PetaKabar/kecelakaan/dataset/qe/tfidf_train_new.pkl')
+        self.df_train = pd.read_csv('D:/Repository/PetaKabar/kecelakaan/dataset/qe/df_train.csv')
+        self.bow_list_what = joblib.load('D:/Repository/PetaKabar/kecelakaan/dataset/qe/bow_kecelakaan.pkl')
         # print("qe kecelakaan")
 
 

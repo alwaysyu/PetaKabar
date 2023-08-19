@@ -38,7 +38,7 @@ batch_size = 128
 
 # print(newsscrapped[127])
 
-# tagged = joblib.load('D:/PetaKabar/whowherewhen/all_tagged_'+ iter_through[x-1] + '_' + str(batch_iter) + '.pkl')
+# tagged = joblib.load('D:/Repository/PetaKabar/whowherewhen/all_tagged_'+ iter_through[x-1] + '_' + str(batch_iter) + '.pkl')
 # print('*'*40)
 # print(tagged[-1])
 
@@ -50,7 +50,7 @@ print(rng, remainder)
 all_tagged = []
 for i in range(int(len(newsscrapped)/batch_size)):
     print(i+1, i*batch_size)
-    tagged = joblib.load('D:/PetaKabar/whowherewhen/all_tagged_'+ iter_through[iter-1] + '_' + str(i+1) + '.pkl')
+    tagged = joblib.load('D:/Repository/PetaKabar/whowherewhen/all_tagged_'+ iter_through[iter-1] + '_' + str(i+1) + '.pkl')
     # # check
     # print(tagged[0])
     # print(newsscrapped[i*batch_size])
@@ -58,7 +58,7 @@ for i in range(int(len(newsscrapped)/batch_size)):
         all_tagged.append(tagged[x])
 
 if remainder > 0:
-    tagged = joblib.load('D:/PetaKabar/whowherewhen/all_tagged_'+ iter_through[iter-1] + '_' + str(rng+1) + '.pkl')
+    tagged = joblib.load('D:/Repository/PetaKabar/whowherewhen/all_tagged_'+ iter_through[iter-1] + '_' + str(rng+1) + '.pkl')
     # # check
     print(remainder, len(tagged))
     # print(tagged[0])
@@ -66,5 +66,5 @@ if remainder > 0:
     for x in range(len(tagged)):
         all_tagged.append(tagged[x])
 
-joblib.dump(all_tagged, 'D:/PetaKabar/whowherewhen/complete_tagged_'+ iter_through[iter-1] + '.pkl')
+joblib.dump(all_tagged, 'D:/Repository/PetaKabar/whowherewhen/complete_tagged_'+ iter_through[iter-1] + '.pkl')
 
